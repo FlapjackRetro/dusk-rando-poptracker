@@ -5,7 +5,7 @@ for [PopTracker](https://github.com/black-sliver/PopTracker) 0.25+.
 
 ## Install
 
-Download `dusk_ap_tracker_v<version>.zip` from the Releases page and drop it (still zipped) into PopTracker's `packs`
+Download `dusk_ap_tracker_<version>.zip` from the Releases page and drop it (still zipped) into PopTracker's `packs`
 folder (usually `Documents\PopTracker\packs`), then pick **DUSK Archipelago** from the pack list. Click the **AP**
 button to connect to your Archipelago server; items, checked locations, enabled episodes and check categories, and
 the goal are all set automatically.
