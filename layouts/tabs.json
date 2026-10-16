@@ -1,0 +1,328 @@
+{
+  "tabbed_maps": {
+    "type": "tabbed",
+    "tabs": [
+      {
+        "title": "Episode 1",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "E1M1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M1"
+                ]
+              }
+            },
+            {
+              "title": "E1M2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M2"
+                ]
+              }
+            },
+            {
+              "title": "E1M3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M3"
+                ]
+              }
+            },
+            {
+              "title": "E1M4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M4"
+                ]
+              }
+            },
+            {
+              "title": "E1M5",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M5"
+                ]
+              }
+            },
+            {
+              "title": "E1M6",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M6"
+                ]
+              }
+            },
+            {
+              "title": "E1M7",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M7"
+                ]
+              }
+            },
+            {
+              "title": "E1M8",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M8"
+                ]
+              }
+            },
+            {
+              "title": "E1M9",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M9"
+                ]
+              }
+            },
+            {
+              "title": "E1M10",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1M10"
+                ]
+              }
+            },
+            {
+              "title": "E1MS",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E1MS"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Episode 2",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "E2M1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M1"
+                ]
+              }
+            },
+            {
+              "title": "E2M2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M2"
+                ]
+              }
+            },
+            {
+              "title": "E2M3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M3"
+                ]
+              }
+            },
+            {
+              "title": "E2M4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M4"
+                ]
+              }
+            },
+            {
+              "title": "E2M5",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M5"
+                ]
+              }
+            },
+            {
+              "title": "E2M6",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M6"
+                ]
+              }
+            },
+            {
+              "title": "E2M7",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M7"
+                ]
+              }
+            },
+            {
+              "title": "E2M8",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M8"
+                ]
+              }
+            },
+            {
+              "title": "E2M9",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M9"
+                ]
+              }
+            },
+            {
+              "title": "E2M10",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2M10"
+                ]
+              }
+            },
+            {
+              "title": "E2MS",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E2MS"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "title": "Episode 3",
+        "content": {
+          "type": "tabbed",
+          "tabs": [
+            {
+              "title": "E3M1",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M1"
+                ]
+              }
+            },
+            {
+              "title": "E3M2",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M2"
+                ]
+              }
+            },
+            {
+              "title": "E3M3",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M3"
+                ]
+              }
+            },
+            {
+              "title": "E3M4",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M4"
+                ]
+              }
+            },
+            {
+              "title": "E3M5",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M5"
+                ]
+              }
+            },
+            {
+              "title": "E3M6",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M6"
+                ]
+              }
+            },
+            {
+              "title": "E3M7",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M7"
+                ]
+              }
+            },
+            {
+              "title": "E3M8",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M8"
+                ]
+              }
+            },
+            {
+              "title": "E3M9",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M9"
+                ]
+              }
+            },
+            {
+              "title": "E3M10",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3M10"
+                ]
+              }
+            },
+            {
+              "title": "E3MS",
+              "content": {
+                "type": "map",
+                "maps": [
+                  "E3MS"
+                ]
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

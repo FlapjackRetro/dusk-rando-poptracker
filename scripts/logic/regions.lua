@@ -1,0 +1,36 @@
+-- ============================================================================================
+--  DETAILED LOGIC WORKBENCH
+-- ============================================================================================
+-- Every level NOT listed here uses the apworld's current *strict* key logic: every check in the
+-- level needs all of that level's keys.
+--
+-- To move a level to detailed logic, add an entry. Example (made-up layout, for illustration only):
+--
+--   E1M2 = {
+--       default = "start",                 -- region for any location not listed below
+--       regions = {
+--           start      = {},               -- reachable as soon as you're in the level
+--           red_barn   = {{"red"}},        -- needs this level's Red Key
+--           loft       = {{"@red_barn"}},  -- reachable from another region (no extra item)
+--           cellar     = {{"@red_barn", "mortar"}, {"@loft", "yellow"}},   -- alternatives (OR of ANDs)
+--       },
+--       locations = {
+--           ["E1M2 - Shotgun 2"]       = "red_barn",
+--           ["E1M2 - Secret Area 3"]   = "loft",
+--           ["E1M2 - Level Complete"]  = "cellar",
+--       },
+--   },
+--
+-- Tokens: "red" / "blue" / "yellow" = this level's key (always true when keys aren't randomized),
+--         "@name" = another region of the same level, anything else = an item code
+--         (weapons: pistol, shotgun, super_shotgun, assault_rifle, hunting_rifle, crossbow, mortar,
+--          riveter, sword; dual weapons: pistol_2, shotgun_2).
+-- Location names are the AP location names (see docs/LOCATIONS.csv in dusk-rando, or hover a map pin).
+-- Reload the pack (F5 in PopTracker) after editing; the map pins recolour immediately.
+--
+-- Once a level is mapped out here, the same region/rule table can be ported to the apworld as
+-- per-door Regions + Entrances (the "Replace strict key logic with per-door regions" TODO).
+-- ============================================================================================
+
+DETAILED_LOGIC = {
+}

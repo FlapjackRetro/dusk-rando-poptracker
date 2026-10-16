@@ -1,0 +1,24 @@
+{
+  "tracker_default": {
+    "type": "container",
+    "background": "#0b0a0c",
+    "content": {
+      "type": "dock",
+      "dropshadow": true,
+      "content": [
+        {
+          "type": "dock",
+          "dock": "right",
+          "content": {
+            "type": "layout",
+            "key": "items_panel"
+          }
+        },
+        {
+          "type": "layout",
+          "key": "tabbed_maps"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,330 @@
+{
+  "weapons_grid": {
+    "type": "itemgrid",
+    "item_margin": "2,2",
+    "item_size": 34,
+    "h_alignment": "center",
+    "rows": [
+      [
+        "pistol",
+        "shotgun",
+        "super_shotgun"
+      ],
+      [
+        "assault_rifle",
+        "hunting_rifle",
+        "crossbow"
+      ],
+      [
+        "mortar",
+        "riveter",
+        "sword"
+      ]
+    ]
+  },
+  "settings_grid": {
+    "type": "itemgrid",
+    "item_margin": "2,2",
+    "item_size": 30,
+    "h_alignment": "center",
+    "rows": [
+      [
+        "opt_weapons",
+        "opt_keys",
+        "opt_powerups",
+        "opt_secrets",
+        "opt_treasure_chests"
+      ],
+      [
+        "opt_health",
+        "opt_armor",
+        "opt_ammo",
+        "combat",
+        "goal"
+      ]
+    ]
+  },
+  "levels_e1": {
+    "type": "itemgrid",
+    "item_margin": "1,1",
+    "item_size": 24,
+    "rows": [
+      [
+        "e1m1_access",
+        "",
+        "",
+        ""
+      ],
+      [
+        "e1m2_access",
+        "e1m2_red",
+        "",
+        ""
+      ],
+      [
+        "e1m3_access",
+        "e1m3_red",
+        "e1m3_blue",
+        "e1m3_yellow"
+      ],
+      [
+        "e1m4_access",
+        "",
+        "e1m4_blue",
+        "e1m4_yellow"
+      ],
+      [
+        "e1m5_access",
+        "e1m5_red",
+        "",
+        "e1m5_yellow"
+      ],
+      [
+        "e1m6_access",
+        "e1m6_red",
+        "",
+        "e1m6_yellow"
+      ],
+      [
+        "e1m7_access",
+        "e1m7_red",
+        "e1m7_blue",
+        ""
+      ],
+      [
+        "e1m8_access",
+        "e1m8_red",
+        "e1m8_blue",
+        "e1m8_yellow"
+      ],
+      [
+        "e1m9_access",
+        "e1m9_red",
+        "e1m9_blue",
+        "e1m9_yellow"
+      ],
+      [
+        "e1m10_access",
+        "",
+        "",
+        ""
+      ],
+      [
+        "e1ms_access",
+        "e1ms_red",
+        "e1ms_blue",
+        "e1ms_yellow"
+      ]
+    ]
+  },
+  "levels_e2": {
+    "type": "itemgrid",
+    "item_margin": "1,1",
+    "item_size": 24,
+    "rows": [
+      [
+        "e2m1_access",
+        "e2m1_red",
+        "e2m1_blue",
+        "e2m1_yellow"
+      ],
+      [
+        "e2m2_access",
+        "e2m2_red",
+        "e2m2_blue",
+        "e2m2_yellow"
+      ],
+      [
+        "e2m3_access",
+        "e2m3_red",
+        "e2m3_blue",
+        "e2m3_yellow"
+      ],
+      [
+        "e2m4_access",
+        "e2m4_red",
+        "e2m4_blue",
+        "e2m4_yellow"
+      ],
+      [
+        "e2m5_access",
+        "e2m5_red",
+        "e2m5_blue",
+        "e2m5_yellow"
+      ],
+      [
+        "e2m6_access",
+        "e2m6_red",
+        "e2m6_blue",
+        "e2m6_yellow"
+      ],
+      [
+        "e2m7_access",
+        "",
+        "e2m7_blue",
+        "e2m7_yellow"
+      ],
+      [
+        "e2m8_access",
+        "e2m8_red",
+        "e2m8_blue",
+        "e2m8_yellow"
+      ],
+      [
+        "e2m9_access",
+        "e2m9_red",
+        "e2m9_blue",
+        "e2m9_yellow"
+      ],
+      [
+        "e2m10_access",
+        "",
+        "",
+        ""
+      ],
+      [
+        "e2ms_access",
+        "e2ms_red",
+        "e2ms_blue",
+        "e2ms_yellow"
+      ]
+    ]
+  },
+  "levels_e3": {
+    "type": "itemgrid",
+    "item_margin": "1,1",
+    "item_size": 24,
+    "rows": [
+      [
+        "e3m1_access",
+        "e3m1_red",
+        "e3m1_blue",
+        ""
+      ],
+      [
+        "e3m2_access",
+        "e3m2_red",
+        "e3m2_blue",
+        ""
+      ],
+      [
+        "e3m3_access",
+        "e3m3_red",
+        "",
+        "e3m3_yellow"
+      ],
+      [
+        "e3m4_access",
+        "e3m4_red",
+        "e3m4_blue",
+        "e3m4_yellow"
+      ],
+      [
+        "e3m5_access",
+        "e3m5_red",
+        "",
+        ""
+      ],
+      [
+        "e3m6_access",
+        "e3m6_red",
+        "e3m6_blue",
+        ""
+      ],
+      [
+        "e3m7_access",
+        "e3m7_red",
+        "e3m7_blue",
+        "e3m7_yellow"
+      ],
+      [
+        "e3m8_access",
+        "e3m8_red",
+        "",
+        "e3m8_yellow"
+      ],
+      [
+        "e3m9_access",
+        "",
+        "",
+        ""
+      ],
+      [
+        "e3m10_access",
+        "",
+        "",
+        ""
+      ],
+      [
+        "e3ms_access",
+        "e3ms_red",
+        "e3ms_blue",
+        "e3ms_yellow"
+      ]
+    ]
+  },
+  "levels_all": {
+    "type": "array",
+    "orientation": "horizontal",
+    "margin": "0,0",
+    "content": [
+      {
+        "type": "group",
+        "header": "Ep 1",
+        "margin": "0,0,4,0",
+        "content": {
+          "type": "layout",
+          "key": "levels_e1"
+        }
+      },
+      {
+        "type": "group",
+        "header": "Ep 2",
+        "margin": "0,0,4,0",
+        "content": {
+          "type": "layout",
+          "key": "levels_e2"
+        }
+      },
+      {
+        "type": "group",
+        "header": "Ep 3",
+        "content": {
+          "type": "layout",
+          "key": "levels_e3"
+        }
+      }
+    ]
+  },
+  "items_panel": {
+    "type": "array",
+    "orientation": "vertical",
+    "margin": "4,4",
+    "content": [
+      {
+        "type": "group",
+        "header": "Weapons",
+        "content": {
+          "type": "layout",
+          "key": "weapons_grid"
+        }
+      },
+      {
+        "type": "group",
+        "header": "Level Access & Keys",
+        "content": {
+          "type": "layout",
+          "key": "levels_all"
+        }
+      },
+      {
+        "type": "group",
+        "header": "Settings (auto-set from slot data)",
+        "content": {
+          "type": "layout",
+          "key": "settings_grid"
+        }
+      }
+    ]
+  }
+}

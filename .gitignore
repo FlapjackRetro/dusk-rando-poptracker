@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+tools/cache/
+tools/preview/
+tools/q_*.png
+tools/icon_sheet.png
+dist/

@@ -1,0 +1,1028 @@
+[
+  {
+    "name": "E1M1 Access",
+    "type": "toggle",
+    "img": "images/items/e1m1.png",
+    "codes": "e1m1_access"
+  },
+  {
+    "name": "E1M2 Access",
+    "type": "toggle",
+    "img": "images/items/e1m2.png",
+    "codes": "e1m2_access"
+  },
+  {
+    "name": "E1M2 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m2_red"
+  },
+  {
+    "name": "E1M3 Access",
+    "type": "toggle",
+    "img": "images/items/e1m3.png",
+    "codes": "e1m3_access"
+  },
+  {
+    "name": "E1M3 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e1m3_blue"
+  },
+  {
+    "name": "E1M3 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m3_red"
+  },
+  {
+    "name": "E1M3 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1m3_yellow"
+  },
+  {
+    "name": "E1M4 Access",
+    "type": "toggle",
+    "img": "images/items/e1m4.png",
+    "codes": "e1m4_access"
+  },
+  {
+    "name": "E1M4 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e1m4_blue"
+  },
+  {
+    "name": "E1M4 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1m4_yellow"
+  },
+  {
+    "name": "E1M5 Access",
+    "type": "toggle",
+    "img": "images/items/e1m5.png",
+    "codes": "e1m5_access"
+  },
+  {
+    "name": "E1M5 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m5_red"
+  },
+  {
+    "name": "E1M5 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1m5_yellow"
+  },
+  {
+    "name": "E1M6 Access",
+    "type": "toggle",
+    "img": "images/items/e1m6.png",
+    "codes": "e1m6_access"
+  },
+  {
+    "name": "E1M6 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m6_red"
+  },
+  {
+    "name": "E1M6 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1m6_yellow"
+  },
+  {
+    "name": "E1M7 Access",
+    "type": "toggle",
+    "img": "images/items/e1m7.png",
+    "codes": "e1m7_access"
+  },
+  {
+    "name": "E1M7 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e1m7_blue"
+  },
+  {
+    "name": "E1M7 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m7_red"
+  },
+  {
+    "name": "E1M8 Access",
+    "type": "toggle",
+    "img": "images/items/e1m8.png",
+    "codes": "e1m8_access"
+  },
+  {
+    "name": "E1M8 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e1m8_blue"
+  },
+  {
+    "name": "E1M8 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m8_red"
+  },
+  {
+    "name": "E1M8 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1m8_yellow"
+  },
+  {
+    "name": "E1M9 Access",
+    "type": "toggle",
+    "img": "images/items/e1m9.png",
+    "codes": "e1m9_access"
+  },
+  {
+    "name": "E1M9 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e1m9_blue"
+  },
+  {
+    "name": "E1M9 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1m9_red"
+  },
+  {
+    "name": "E1M9 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1m9_yellow"
+  },
+  {
+    "name": "E1M10 Access",
+    "type": "toggle",
+    "img": "images/items/e1m10.png",
+    "codes": "e1m10_access"
+  },
+  {
+    "name": "E1MS Access",
+    "type": "toggle",
+    "img": "images/items/e1ms.png",
+    "codes": "e1ms_access"
+  },
+  {
+    "name": "E1MS Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e1ms_blue"
+  },
+  {
+    "name": "E1MS Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e1ms_red"
+  },
+  {
+    "name": "E1MS Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e1ms_yellow"
+  },
+  {
+    "name": "E2M1 Access",
+    "type": "toggle",
+    "img": "images/items/e2m1.png",
+    "codes": "e2m1_access"
+  },
+  {
+    "name": "E2M1 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m1_blue"
+  },
+  {
+    "name": "E2M1 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m1_red"
+  },
+  {
+    "name": "E2M1 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m1_yellow"
+  },
+  {
+    "name": "E2M2 Access",
+    "type": "toggle",
+    "img": "images/items/e2m2.png",
+    "codes": "e2m2_access"
+  },
+  {
+    "name": "E2M2 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m2_blue"
+  },
+  {
+    "name": "E2M2 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m2_red"
+  },
+  {
+    "name": "E2M2 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m2_yellow"
+  },
+  {
+    "name": "E2M3 Access",
+    "type": "toggle",
+    "img": "images/items/e2m3.png",
+    "codes": "e2m3_access"
+  },
+  {
+    "name": "E2M3 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m3_blue"
+  },
+  {
+    "name": "E2M3 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m3_red"
+  },
+  {
+    "name": "E2M3 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m3_yellow"
+  },
+  {
+    "name": "E2M4 Access",
+    "type": "toggle",
+    "img": "images/items/e2m4.png",
+    "codes": "e2m4_access"
+  },
+  {
+    "name": "E2M4 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m4_blue"
+  },
+  {
+    "name": "E2M4 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m4_red"
+  },
+  {
+    "name": "E2M4 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m4_yellow"
+  },
+  {
+    "name": "E2M5 Access",
+    "type": "toggle",
+    "img": "images/items/e2m5.png",
+    "codes": "e2m5_access"
+  },
+  {
+    "name": "E2M5 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m5_blue"
+  },
+  {
+    "name": "E2M5 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m5_red"
+  },
+  {
+    "name": "E2M5 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m5_yellow"
+  },
+  {
+    "name": "E2M6 Access",
+    "type": "toggle",
+    "img": "images/items/e2m6.png",
+    "codes": "e2m6_access"
+  },
+  {
+    "name": "E2M6 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m6_blue"
+  },
+  {
+    "name": "E2M6 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m6_red"
+  },
+  {
+    "name": "E2M6 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m6_yellow"
+  },
+  {
+    "name": "E2M7 Access",
+    "type": "toggle",
+    "img": "images/items/e2m7.png",
+    "codes": "e2m7_access"
+  },
+  {
+    "name": "E2M7 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m7_blue"
+  },
+  {
+    "name": "E2M7 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m7_yellow"
+  },
+  {
+    "name": "E2M8 Access",
+    "type": "toggle",
+    "img": "images/items/e2m8.png",
+    "codes": "e2m8_access"
+  },
+  {
+    "name": "E2M8 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m8_blue"
+  },
+  {
+    "name": "E2M8 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m8_red"
+  },
+  {
+    "name": "E2M8 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m8_yellow"
+  },
+  {
+    "name": "E2M9 Access",
+    "type": "toggle",
+    "img": "images/items/e2m9.png",
+    "codes": "e2m9_access"
+  },
+  {
+    "name": "E2M9 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2m9_blue"
+  },
+  {
+    "name": "E2M9 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2m9_red"
+  },
+  {
+    "name": "E2M9 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2m9_yellow"
+  },
+  {
+    "name": "E2M10 Access",
+    "type": "toggle",
+    "img": "images/items/e2m10.png",
+    "codes": "e2m10_access"
+  },
+  {
+    "name": "E2MS Access",
+    "type": "toggle",
+    "img": "images/items/e2ms.png",
+    "codes": "e2ms_access"
+  },
+  {
+    "name": "E2MS Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e2ms_blue"
+  },
+  {
+    "name": "E2MS Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e2ms_red"
+  },
+  {
+    "name": "E2MS Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e2ms_yellow"
+  },
+  {
+    "name": "E3M1 Access",
+    "type": "toggle",
+    "img": "images/items/e3m1.png",
+    "codes": "e3m1_access"
+  },
+  {
+    "name": "E3M1 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e3m1_blue"
+  },
+  {
+    "name": "E3M1 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m1_red"
+  },
+  {
+    "name": "E3M2 Access",
+    "type": "toggle",
+    "img": "images/items/e3m2.png",
+    "codes": "e3m2_access"
+  },
+  {
+    "name": "E3M2 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e3m2_blue"
+  },
+  {
+    "name": "E3M2 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m2_red"
+  },
+  {
+    "name": "E3M3 Access",
+    "type": "toggle",
+    "img": "images/items/e3m3.png",
+    "codes": "e3m3_access"
+  },
+  {
+    "name": "E3M3 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m3_red"
+  },
+  {
+    "name": "E3M3 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e3m3_yellow"
+  },
+  {
+    "name": "E3M4 Access",
+    "type": "toggle",
+    "img": "images/items/e3m4.png",
+    "codes": "e3m4_access"
+  },
+  {
+    "name": "E3M4 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e3m4_blue"
+  },
+  {
+    "name": "E3M4 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m4_red"
+  },
+  {
+    "name": "E3M4 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e3m4_yellow"
+  },
+  {
+    "name": "E3M5 Access",
+    "type": "toggle",
+    "img": "images/items/e3m5.png",
+    "codes": "e3m5_access"
+  },
+  {
+    "name": "E3M5 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m5_red"
+  },
+  {
+    "name": "E3M6 Access",
+    "type": "toggle",
+    "img": "images/items/e3m6.png",
+    "codes": "e3m6_access"
+  },
+  {
+    "name": "E3M6 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e3m6_blue"
+  },
+  {
+    "name": "E3M6 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m6_red"
+  },
+  {
+    "name": "E3M7 Access",
+    "type": "toggle",
+    "img": "images/items/e3m7.png",
+    "codes": "e3m7_access"
+  },
+  {
+    "name": "E3M7 Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e3m7_blue"
+  },
+  {
+    "name": "E3M7 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m7_red"
+  },
+  {
+    "name": "E3M7 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e3m7_yellow"
+  },
+  {
+    "name": "E3M8 Access",
+    "type": "toggle",
+    "img": "images/items/e3m8.png",
+    "codes": "e3m8_access"
+  },
+  {
+    "name": "E3M8 Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3m8_red"
+  },
+  {
+    "name": "E3M8 Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e3m8_yellow"
+  },
+  {
+    "name": "E3M9 Access",
+    "type": "toggle",
+    "img": "images/items/e3m9.png",
+    "codes": "e3m9_access"
+  },
+  {
+    "name": "E3M10 Access",
+    "type": "toggle",
+    "img": "images/items/e3m10.png",
+    "codes": "e3m10_access"
+  },
+  {
+    "name": "E3MS Access",
+    "type": "toggle",
+    "img": "images/items/e3ms.png",
+    "codes": "e3ms_access"
+  },
+  {
+    "name": "E3MS Blue Key",
+    "type": "toggle",
+    "img": "images/items/key_blue.png",
+    "codes": "e3ms_blue"
+  },
+  {
+    "name": "E3MS Red Key",
+    "type": "toggle",
+    "img": "images/items/key_red.png",
+    "codes": "e3ms_red"
+  },
+  {
+    "name": "E3MS Yellow Key",
+    "type": "toggle",
+    "img": "images/items/key_yellow.png",
+    "codes": "e3ms_yellow"
+  },
+  {
+    "name": "Progressive Pistol",
+    "type": "progressive",
+    "allow_disabled": true,
+    "loop": false,
+    "stages": [
+      {
+        "name": "Pistol",
+        "img": "images/items/pistol.png",
+        "codes": "pistol"
+      },
+      {
+        "name": "Dual Pistols",
+        "img": "images/items/pistol_2.png",
+        "codes": "pistol_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Progressive Shotgun",
+    "type": "progressive",
+    "allow_disabled": true,
+    "loop": false,
+    "stages": [
+      {
+        "name": "Shotgun",
+        "img": "images/items/shotgun.png",
+        "codes": "shotgun"
+      },
+      {
+        "name": "Dual Shotguns",
+        "img": "images/items/shotgun_2.png",
+        "codes": "shotgun_2",
+        "inherit_codes": true
+      }
+    ]
+  },
+  {
+    "name": "Super Shotgun",
+    "type": "toggle",
+    "img": "images/items/super_shotgun.png",
+    "codes": "super_shotgun"
+  },
+  {
+    "name": "Assault Rifle",
+    "type": "toggle",
+    "img": "images/items/assault_rifle.png",
+    "codes": "assault_rifle"
+  },
+  {
+    "name": "Hunting Rifle",
+    "type": "toggle",
+    "img": "images/items/hunting_rifle.png",
+    "codes": "hunting_rifle"
+  },
+  {
+    "name": "Crossbow",
+    "type": "toggle",
+    "img": "images/items/crossbow.png",
+    "codes": "crossbow"
+  },
+  {
+    "name": "Mortar",
+    "type": "toggle",
+    "img": "images/items/mortar.png",
+    "codes": "mortar"
+  },
+  {
+    "name": "Riveter",
+    "type": "toggle",
+    "img": "images/items/riveter.png",
+    "codes": "riveter"
+  },
+  {
+    "name": "Sword",
+    "type": "toggle",
+    "img": "images/items/sword.png",
+    "codes": "sword"
+  },
+  {
+    "name": "Show Weapons checks",
+    "type": "toggle",
+    "img": "images/items/opt_weapons.png",
+    "codes": "opt_weapons",
+    "initial_active_state": true
+  },
+  {
+    "name": "Show Keys checks",
+    "type": "toggle",
+    "img": "images/items/opt_keys.png",
+    "codes": "opt_keys",
+    "initial_active_state": true
+  },
+  {
+    "name": "Show Powerups checks",
+    "type": "toggle",
+    "img": "images/items/opt_powerups.png",
+    "codes": "opt_powerups",
+    "initial_active_state": true
+  },
+  {
+    "name": "Show Secrets checks",
+    "type": "toggle",
+    "img": "images/items/opt_secrets.png",
+    "codes": "opt_secrets",
+    "initial_active_state": true
+  },
+  {
+    "name": "Show Treasure Chests checks",
+    "type": "toggle",
+    "img": "images/items/opt_treasure_chests.png",
+    "codes": "opt_treasure_chests",
+    "initial_active_state": true
+  },
+  {
+    "name": "Show Health checks",
+    "type": "toggle",
+    "img": "images/items/opt_health.png",
+    "codes": "opt_health",
+    "initial_active_state": false
+  },
+  {
+    "name": "Show Morale (Armor) checks",
+    "type": "toggle",
+    "img": "images/items/opt_armor.png",
+    "codes": "opt_armor",
+    "initial_active_state": false
+  },
+  {
+    "name": "Show Ammo checks",
+    "type": "toggle",
+    "img": "images/items/opt_ammo.png",
+    "codes": "opt_ammo",
+    "initial_active_state": false
+  },
+  {
+    "name": "Combat Logic",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "name": "Combat logic: normal",
+        "img": "images/items/combat_0.png",
+        "codes": "combat,combat_normal"
+      },
+      {
+        "name": "Combat logic: lenient",
+        "img": "images/items/combat_1.png",
+        "codes": "combat,combat_lenient"
+      },
+      {
+        "name": "Combat logic: none",
+        "img": "images/items/combat_2.png",
+        "codes": "combat,combat_none"
+      }
+    ]
+  },
+  {
+    "name": "Goal",
+    "type": "progressive",
+    "allow_disabled": false,
+    "loop": true,
+    "stages": [
+      {
+        "name": "Goal: bosses",
+        "img": "images/items/goal_0.png",
+        "codes": "goal,goal_bosses"
+      },
+      {
+        "name": "Goal: all levels",
+        "img": "images/items/goal_1.png",
+        "codes": "goal,goal_all"
+      }
+    ]
+  },
+  {
+    "name": "E1M1 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m1.png",
+    "codes": "inc_e1m1",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M2 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m2.png",
+    "codes": "inc_e1m2",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M3 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m3.png",
+    "codes": "inc_e1m3",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M4 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m4.png",
+    "codes": "inc_e1m4",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M5 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m5.png",
+    "codes": "inc_e1m5",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M6 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m6.png",
+    "codes": "inc_e1m6",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M7 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m7.png",
+    "codes": "inc_e1m7",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M8 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m8.png",
+    "codes": "inc_e1m8",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M9 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m9.png",
+    "codes": "inc_e1m9",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1M10 in seed",
+    "type": "toggle",
+    "img": "images/items/e1m10.png",
+    "codes": "inc_e1m10",
+    "initial_active_state": true
+  },
+  {
+    "name": "E1MS in seed",
+    "type": "toggle",
+    "img": "images/items/e1ms.png",
+    "codes": "inc_e1ms",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M1 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m1.png",
+    "codes": "inc_e2m1",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M2 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m2.png",
+    "codes": "inc_e2m2",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M3 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m3.png",
+    "codes": "inc_e2m3",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M4 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m4.png",
+    "codes": "inc_e2m4",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M5 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m5.png",
+    "codes": "inc_e2m5",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M6 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m6.png",
+    "codes": "inc_e2m6",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M7 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m7.png",
+    "codes": "inc_e2m7",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M8 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m8.png",
+    "codes": "inc_e2m8",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M9 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m9.png",
+    "codes": "inc_e2m9",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2M10 in seed",
+    "type": "toggle",
+    "img": "images/items/e2m10.png",
+    "codes": "inc_e2m10",
+    "initial_active_state": true
+  },
+  {
+    "name": "E2MS in seed",
+    "type": "toggle",
+    "img": "images/items/e2ms.png",
+    "codes": "inc_e2ms",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M1 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m1.png",
+    "codes": "inc_e3m1",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M2 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m2.png",
+    "codes": "inc_e3m2",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M3 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m3.png",
+    "codes": "inc_e3m3",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M4 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m4.png",
+    "codes": "inc_e3m4",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M5 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m5.png",
+    "codes": "inc_e3m5",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M6 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m6.png",
+    "codes": "inc_e3m6",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M7 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m7.png",
+    "codes": "inc_e3m7",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M8 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m8.png",
+    "codes": "inc_e3m8",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M9 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m9.png",
+    "codes": "inc_e3m9",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3M10 in seed",
+    "type": "toggle",
+    "img": "images/items/e3m10.png",
+    "codes": "inc_e3m10",
+    "initial_active_state": true
+  },
+  {
+    "name": "E3MS in seed",
+    "type": "toggle",
+    "img": "images/items/e3ms.png",
+    "codes": "inc_e3ms",
+    "initial_active_state": true
+  }
+]
