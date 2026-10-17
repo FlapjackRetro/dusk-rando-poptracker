@@ -32,6 +32,7 @@ FONT = cv2.FONT_HERSHEY_DUPLEX
 RED = (235, 30, 30)
 TEXT = (235, 225, 200)
 HEADER_H = 96
+DRAW_CONNECTORS = False
 
 
 def label(img, text, org, scale=0.8, color=TEXT, thick=1):
@@ -264,6 +265,9 @@ def compose(code, out_png, verbose=False):
         px, py, x0, y0, x1, y1 = placed[k]
         return (int(round((wx - full[0]) * ppu - x0 + px)), int(round((full[3] - wz) * ppu - y0 + py)))
 
+    # Connector lines between layers are off by default (too busy); "connectors": true in level_config turns them on.
+    if not cfg.get("connectors", DRAW_CONNECTORS):
+        conns = []
     for k1, k2, wx, wz, _ in conns:
         a, b = to_px(k1, wx, wz), to_px(k2, wx, wz)
         cv2.line(canvas, a, b, (0, 0, 0), 6, cv2.LINE_AA)
@@ -273,7 +277,7 @@ def compose(code, out_png, verbose=False):
             cv2.circle(canvas, q, 5, RED, -1, cv2.LINE_AA)
     lv = LEVELS[code]
     label(canvas, f"{code}  {lv['name']}", (pad, 42), 1.1, thick=2)
-    legend = "Red lines join the same spot on two layers (stairs, ramps, drops)." if nb > 1 else ""
+    legend = "Red lines join the same spot on two layers (stairs, ramps, drops)." if nb > 1 and conns else ""
     if legend:
         label(canvas, legend, (pad, 74), 0.55, (200, 190, 170))
 

@@ -35,7 +35,7 @@ so a dusk-rando data change only needs a rebuild.
 | `scene.py` | Level file → world-space triangles with UVs/material, cached as `cache/level<N>.npz`. |
 | `bands.py` | Per check: floor under it and lowest floor above it. Greedy minimum set of height layers so no check is hidden under a higher floor on its own layer; each cut is placed at the height with the least floor area so it doesn't slice through slopes. |
 | `render.py` | Textured top-down rasteriser (per-triangle affine texture warps with mip selection); wall outlines from height steps. |
-| `compose.py` | Finds each level's exits (EndLevelButton pickups + `EndLevelTriggerScript` loading zones, cached in `cache/exits.json`) and treats them like checks when building layers. Lays the layers out (highest on top, aligned on world X so connector lines run vertically), splits far-off clusters into detached panels, draws red connectors, exit markers and the header. Returns each check's pixel position. |
+| `compose.py` | Finds each level's exits (EndLevelButton pickups + `EndLevelTriggerScript` loading zones, cached in `cache/exits.json`) and treats them like checks when building layers. Lays the layers out (highest on top, aligned on world X so connector lines run vertically), splits far-off clusters into detached panels, draws exit markers and the header. It can also draw red lines joining the same spot on two layers (stairs, ramps, drops); that is off by default and turned on per level with `"connectors": true`. Returns each check's pixel position. |
 | `build_pack.py` | Writes `items/`, `locations/` (nearby checks share a pin), `maps/`, `layouts/` and the generated Lua tables. |
 | `quick.py` | Level code ↔ Unity level-file index (`SCENE_IDX`) and a quick height-coloured debug render. |
 
@@ -47,6 +47,7 @@ so a dusk-rando data change only needs a rebuild.
     "cuts": [-134.2, -126.7, -122.25],          // layer boundaries (world Y); omit for automatic
     "names": ["Crypts", "Graveyard", "Hill", "Church loft"],
     "force": {"E1M7 - Secret Area 2": 1},       // put a check on a specific layer (0 = lowest)
+    "connectors": true,                         // draw red lines between layers on this map (off by default)
     "extra_connectors": [[0, 1, -110.5, 98.0]], // [lowerLayer, upperLayer, worldX, worldZ], e.g. a lift
     "exits": [[-5.0, -365.0, 79.2]],            // Level Complete pin position(s), world x/y/z; replaces the found exits
     "extra_exits": [[10.0, -50.0, 20.0]],       // ...or add to them

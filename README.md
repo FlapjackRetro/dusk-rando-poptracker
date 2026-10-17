@@ -15,8 +15,6 @@ the goal are all set automatically.
 * **One map per level** (33), tabbed by episode. Maps are rendered top-down from the game's own level geometry and
   textures. Levels that stack on themselves are split into **layers** by height (lowest at the bottom); each layer
   only shows floors in its height range, so basements, upper floors and catwalks don't hide each other.
-  **Red lines** join the same spot on two layers where the floors connect (stairs, ramps, drops). Lifts,
-  teleporters and jump pads are not detected.
   Small, far-off groups of checks get their own **detached area** panel.
 * **Every check** (3,228; Thermal Suits are never checks) placed at its in-game position. Checks within a few pixels
   of each other share one pin; hover it to see each one. The **Level Complete** check has its own pin (marked
