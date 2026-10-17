@@ -1,7 +1,7 @@
 {
   "name": "DUSK Archipelago",
   "game_name": "DUSK",
-  "package_version": "0.2.2",
+  "package_version": "0.2.3",
   "package_uid": "dusk_ap_tracker",
   "author": "FlapjackRetro",
   "min_poptracker_version": "0.25.0",

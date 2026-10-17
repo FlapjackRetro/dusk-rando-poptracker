@@ -15,7 +15,7 @@ from item_ids import item_ids
 ROOT = TOOLS
 DATA = json.load(open(need(LOCATIONS_JSON, "dusk-rando locations.json")))
 ITEM_IDS = item_ids()
-VERSION = "0.2.2"
+VERSION = "0.2.3"
 REPO = "FlapjackRetro/dusk-rando-poptracker"
 VERSIONS_URL = f"https://raw.githubusercontent.com/{REPO}/main/versions.json"
 
