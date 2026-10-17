@@ -9,68 +9,41 @@
     ],
     "children": [
       {
-        "name": "Rivets 22 (+5)",
+        "name": "Gold Coin 6 (+2)",
         "sections": [
           {
-            "name": "Rivets 22",
+            "name": "Gold Coin 6",
             "access_rules": [
-              "$check|3495791408"
+              "$check|3495791432"
             ],
             "visibility_rules": [
-              "opt_ammo"
+              "opt_armor"
             ]
           },
           {
-            "name": "Rivets 23",
+            "name": "Gold Coin 7",
             "access_rules": [
-              "$check|3495791409"
+              "$check|3495791433"
             ],
             "visibility_rules": [
-              "opt_ammo"
+              "opt_armor"
             ]
           },
           {
-            "name": "Rivets 24",
+            "name": "Gold Coin 8",
             "access_rules": [
-              "$check|3495791410"
+              "$check|3495791434"
             ],
             "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 25",
-            "access_rules": [
-              "$check|3495791411"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 26",
-            "access_rules": [
-              "$check|3495791412"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 27",
-            "access_rules": [
-              "$check|3495791413"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
+              "opt_armor"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1140,
-            "y": 188
+            "x": 1229,
+            "y": 182
           }
         ]
       },
@@ -189,92 +162,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 253,
-            "y": 192
-          }
-        ]
-      },
-      {
-        "name": "Rivets 14 (+7)",
-        "sections": [
-          {
-            "name": "Rivets 14",
-            "access_rules": [
-              "$check|3495791400"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 15",
-            "access_rules": [
-              "$check|3495791401"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Gold Coin 1",
-            "access_rules": [
-              "$check|3495791427"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 10",
-            "access_rules": [
-              "$check|3495791436"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 20",
-            "access_rules": [
-              "$check|3495791446"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 21",
-            "access_rules": [
-              "$check|3495791447"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 22",
-            "access_rules": [
-              "$check|3495791448"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 23",
-            "access_rules": [
-              "$check|3495791449"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1276,
-            "y": 187
+            "x": 266,
+            "y": 195
           }
         ]
       },
@@ -303,90 +192,18 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 292,
-            "y": 198
+            "x": 307,
+            "y": 201
           }
         ]
       },
       {
-        "name": "Medical Kit 7",
+        "name": "Rivets 16",
         "sections": [
           {
-            "name": "Medical Kit 7",
+            "name": "Rivets 16",
             "access_rules": [
-              "$check|3495791458"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1150,
-            "y": 221
-          }
-        ]
-      },
-      {
-        "name": "Bag of Gems 4",
-        "sections": [
-          {
-            "name": "Bag of Gems 4",
-            "access_rules": [
-              "$check|3495791424"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1331,
-            "y": 308
-          }
-        ]
-      },
-      {
-        "name": "Hallowed Health 2 (+1)",
-        "sections": [
-          {
-            "name": "Hallowed Health 2",
-            "access_rules": [
-              "$check|3495791488"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          },
-          {
-            "name": "Secret Area 7",
-            "access_rules": [
-              "$check|3495791495"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 239,
-            "y": 332
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 6",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 6",
-            "access_rules": [
-              "$check|3495791367"
+              "$check|3495791402"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -396,68 +213,29 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1178,
-            "y": 352
+            "x": 1437,
+            "y": 209
           }
         ]
       },
       {
-        "name": "Small Medical Kit 3",
+        "name": "Rivets 17",
         "sections": [
           {
-            "name": "Small Medical Kit 3",
+            "name": "Rivets 17",
             "access_rules": [
-              "$check|3495791461"
+              "$check|3495791403"
             ],
             "visibility_rules": [
-              "opt_health"
+              "opt_ammo"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 249,
-            "y": 485
-          }
-        ]
-      },
-      {
-        "name": "Gold Coin 6 (+2)",
-        "sections": [
-          {
-            "name": "Gold Coin 6",
-            "access_rules": [
-              "$check|3495791432"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 7",
-            "access_rules": [
-              "$check|3495791433"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 8",
-            "access_rules": [
-              "$check|3495791434"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1169,
-            "y": 506
+            "x": 1459,
+            "y": 209
           }
         ]
       },
@@ -486,50 +264,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1414,
-            "y": 532
-          }
-        ]
-      },
-      {
-        "name": "Rivets 16",
-        "sections": [
-          {
-            "name": "Rivets 16",
-            "access_rules": [
-              "$check|3495791402"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1365,
-            "y": 532
-          }
-        ]
-      },
-      {
-        "name": "Rivets 17",
-        "sections": [
-          {
-            "name": "Rivets 17",
-            "access_rules": [
-              "$check|3495791403"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1386,
-            "y": 532
+            "x": 1488,
+            "y": 209
           }
         ]
       },
@@ -558,8 +294,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1278,
-            "y": 554
+            "x": 1345,
+            "y": 232
           }
         ]
       },
@@ -579,8 +315,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1404,
-            "y": 581
+            "x": 1477,
+            "y": 261
           }
         ]
       },
@@ -609,29 +345,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1984,
-            "y": 585
-          }
-        ]
-      },
-      {
-        "name": "Hunting Rifle Bullet 2",
-        "sections": [
-          {
-            "name": "Hunting Rifle Bullet 2",
-            "access_rules": [
-              "$check|3495791372"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 343,
-            "y": 614
+            "x": 2090,
+            "y": 266
           }
         ]
       },
@@ -651,50 +366,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1404,
-            "y": 620
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 3",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 3",
-            "access_rules": [
-              "$check|3495791364"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 221,
-            "y": 621
-          }
-        ]
-      },
-      {
-        "name": "Hunting Rifle Bullet 3",
-        "sections": [
-          {
-            "name": "Hunting Rifle Bullet 3",
-            "access_rules": [
-              "$check|3495791373"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 284,
-            "y": 642
+            "x": 1478,
+            "y": 302
           }
         ]
       },
@@ -714,8 +387,38 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1166,
-            "y": 654
+            "x": 1226,
+            "y": 338
+          }
+        ]
+      },
+      {
+        "name": "Hallowed Health 2 (+1)",
+        "sections": [
+          {
+            "name": "Hallowed Health 2",
+            "access_rules": [
+              "$check|3495791488"
+            ],
+            "visibility_rules": [
+              "opt_powerups"
+            ]
+          },
+          {
+            "name": "Secret Area 7",
+            "access_rules": [
+              "$check|3495791495"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 251,
+            "y": 342
           }
         ]
       },
@@ -762,8 +465,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1216,
-            "y": 673
+            "x": 1279,
+            "y": 358
           }
         ]
       },
@@ -783,38 +486,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1246,
-            "y": 660
-          }
-        ]
-      },
-      {
-        "name": "Rivets 19 (+1)",
-        "sections": [
-          {
-            "name": "Rivets 19",
-            "access_rules": [
-              "$check|3495791405"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 20",
-            "access_rules": [
-              "$check|3495791406"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 1334,
-            "y": 669
+            "x": 1311,
+            "y": 345
           }
         ]
       },
@@ -834,8 +507,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1130,
-            "y": 669
+            "x": 1189,
+            "y": 354
           }
         ]
       },
@@ -855,18 +528,18 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1178,
-            "y": 688
+            "x": 1239,
+            "y": 374
           }
         ]
       },
       {
-        "name": "Small Medical Kit 1",
+        "name": "Small Medical Kit 3",
         "sections": [
           {
-            "name": "Small Medical Kit 1",
+            "name": "Small Medical Kit 3",
             "access_rules": [
-              "$check|3495791459"
+              "$check|3495791461"
             ],
             "visibility_rules": [
               "opt_health"
@@ -876,50 +549,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 142,
-            "y": 795
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 6",
-        "sections": [
-          {
-            "name": "Medical Kit 6",
-            "access_rules": [
-              "$check|3495791457"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 258,
-            "y": 903
-          }
-        ]
-      },
-      {
-        "name": "Small Medical Kit 2",
-        "sections": [
-          {
-            "name": "Small Medical Kit 2",
-            "access_rules": [
-              "$check|3495791460"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 211,
-            "y": 930
+            "x": 262,
+            "y": 502
           }
         ]
       },
@@ -939,8 +570,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1187,
-            "y": 937
+            "x": 1249,
+            "y": 636
           }
         ]
       },
@@ -960,66 +591,18 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1363,
-            "y": 937
+            "x": 1435,
+            "y": 636
           }
         ]
       },
       {
-        "name": "Shotgun 2",
+        "name": "Hunting Rifle Bullet 2",
         "sections": [
           {
-            "name": "Shotgun 2",
+            "name": "Hunting Rifle Bullet 2",
             "access_rules": [
-              "$check|3495791503"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 283,
-            "y": 966
-          }
-        ]
-      },
-      {
-        "name": "Shotgun Shell 4 (+3)",
-        "sections": [
-          {
-            "name": "Shotgun Shell 4",
-            "access_rules": [
-              "$check|3495791417"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Shotgun Shell 5",
-            "access_rules": [
-              "$check|3495791418"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Shotgun Shell 6",
-            "access_rules": [
-              "$check|3495791419"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Shotgun Shell 7",
-            "access_rules": [
-              "$check|3495791420"
+              "$check|3495791372"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -1029,18 +612,18 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 274,
-            "y": 1119
+            "x": 361,
+            "y": 638
           }
         ]
       },
       {
-        "name": "Hunting Rifle Bullet 1",
+        "name": "Box of Shotgun Shells 3",
         "sections": [
           {
-            "name": "Hunting Rifle Bullet 1",
+            "name": "Box of Shotgun Shells 3",
             "access_rules": [
-              "$check|3495791371"
+              "$check|3495791364"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -1050,18 +633,18 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 196,
-            "y": 1187
+            "x": 232,
+            "y": 645
           }
         ]
       },
       {
-        "name": "Rivets 13",
+        "name": "Hunting Rifle Bullet 3",
         "sections": [
           {
-            "name": "Rivets 13",
+            "name": "Hunting Rifle Bullet 3",
             "access_rules": [
-              "$check|3495791399"
+              "$check|3495791373"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -1071,8 +654,29 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 220,
-            "y": 1187
+            "x": 298,
+            "y": 667
+          }
+        ]
+      },
+      {
+        "name": "Small Medical Kit 1",
+        "sections": [
+          {
+            "name": "Small Medical Kit 1",
+            "access_rules": [
+              "$check|3495791459"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 149,
+            "y": 826
           }
         ]
       },
@@ -1092,8 +696,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1138,
-            "y": 1191
+            "x": 1197,
+            "y": 905
           }
         ]
       },
@@ -1131,8 +735,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1097,
-            "y": 1210
+            "x": 1153,
+            "y": 925
           }
         ]
       },
@@ -1161,8 +765,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1378,
-            "y": 1202
+            "x": 1450,
+            "y": 916
           }
         ]
       },
@@ -1182,8 +786,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1407,
-            "y": 1210
+            "x": 1481,
+            "y": 925
           }
         ]
       },
@@ -1221,39 +825,18 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1133,
-            "y": 1218
+            "x": 1191,
+            "y": 933
           }
         ]
       },
       {
-        "name": "Bag of Gems 2",
+        "name": "Medical Kit 6",
         "sections": [
           {
-            "name": "Bag of Gems 2",
+            "name": "Medical Kit 6",
             "access_rules": [
-              "$check|3495791422"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M1",
-            "x": 216,
-            "y": 1222
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 4",
-        "sections": [
-          {
-            "name": "Medical Kit 4",
-            "access_rules": [
-              "$check|3495791455"
+              "$check|3495791457"
             ],
             "visibility_rules": [
               "opt_health"
@@ -1263,8 +846,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 124,
-            "y": 1226
+            "x": 271,
+            "y": 939
           }
         ]
       },
@@ -1284,8 +867,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1296,
-            "y": 1229
+            "x": 1363,
+            "y": 945
           }
         ]
       },
@@ -1359,13 +942,13 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1257,
-            "y": 1242
+            "x": 1322,
+            "y": 958
           }
         ]
       },
       {
-        "name": "Pistol Clip 4 (+6)",
+        "name": "Pistol Clip 4",
         "sections": [
           {
             "name": "Pistol Clip 4",
@@ -1375,7 +958,19 @@
             "visibility_rules": [
               "opt_ammo"
             ]
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 1521,
+            "y": 956
+          }
+        ]
+      },
+      {
+        "name": "Gold Coin 2 (+5)",
+        "sections": [
           {
             "name": "Gold Coin 2",
             "access_rules": [
@@ -1434,18 +1029,150 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1419,
-            "y": 1244
+            "x": 1488,
+            "y": 962
           }
         ]
       },
       {
-        "name": "Gold Coin 9",
+        "name": "Small Medical Kit 2",
         "sections": [
           {
-            "name": "Gold Coin 9",
+            "name": "Small Medical Kit 2",
             "access_rules": [
-              "$check|3495791435"
+              "$check|3495791460"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 222,
+            "y": 968
+          }
+        ]
+      },
+      {
+        "name": "Shotgun 2",
+        "sections": [
+          {
+            "name": "Shotgun 2",
+            "access_rules": [
+              "$check|3495791503"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 297,
+            "y": 1006
+          }
+        ]
+      },
+      {
+        "name": "Shotgun Shell 4 (+3)",
+        "sections": [
+          {
+            "name": "Shotgun Shell 4",
+            "access_rules": [
+              "$check|3495791417"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Shotgun Shell 5",
+            "access_rules": [
+              "$check|3495791418"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Shotgun Shell 6",
+            "access_rules": [
+              "$check|3495791419"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Shotgun Shell 7",
+            "access_rules": [
+              "$check|3495791420"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 287,
+            "y": 1166
+          }
+        ]
+      },
+      {
+        "name": "Hunting Rifle Bullet 1",
+        "sections": [
+          {
+            "name": "Hunting Rifle Bullet 1",
+            "access_rules": [
+              "$check|3495791371"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 205,
+            "y": 1238
+          }
+        ]
+      },
+      {
+        "name": "Rivets 13",
+        "sections": [
+          {
+            "name": "Rivets 13",
+            "access_rules": [
+              "$check|3495791399"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 231,
+            "y": 1238
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 2",
+        "sections": [
+          {
+            "name": "Bag of Gems 2",
+            "access_rules": [
+              "$check|3495791422"
             ],
             "visibility_rules": [
               "opt_armor"
@@ -1455,27 +1182,29 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 299,
-            "y": 1242
+            "x": 227,
+            "y": 1275
           }
         ]
       },
       {
-        "name": "Level Complete",
+        "name": "Medical Kit 4",
         "sections": [
           {
-            "name": "Level Complete",
+            "name": "Medical Kit 4",
             "access_rules": [
-              "$check|3495791505"
+              "$check|3495791455"
+            ],
+            "visibility_rules": [
+              "opt_health"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1383,
-            "y": 1248,
-            "size": 48
+            "x": 130,
+            "y": 1279
           }
         ]
       },
@@ -1630,8 +1359,29 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1476,
-            "y": 1553
+            "x": 1554,
+            "y": 1287
+          }
+        ]
+      },
+      {
+        "name": "Gold Coin 9",
+        "sections": [
+          {
+            "name": "Gold Coin 9",
+            "access_rules": [
+              "$check|3495791435"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 314,
+            "y": 1296
           }
         ]
       },
@@ -1651,8 +1401,251 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1505,
-            "y": 1695
+            "x": 1585,
+            "y": 1436
+          }
+        ]
+      },
+      {
+        "name": "Rivets 22 (+5)",
+        "sections": [
+          {
+            "name": "Rivets 22",
+            "access_rules": [
+              "$check|3495791408"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 23",
+            "access_rules": [
+              "$check|3495791409"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 24",
+            "access_rules": [
+              "$check|3495791410"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 25",
+            "access_rules": [
+              "$check|3495791411"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 26",
+            "access_rules": [
+              "$check|3495791412"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 27",
+            "access_rules": [
+              "$check|3495791413"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 118,
+            "y": 1465
+          }
+        ]
+      },
+      {
+        "name": "Rivets 14 (+7)",
+        "sections": [
+          {
+            "name": "Rivets 14",
+            "access_rules": [
+              "$check|3495791400"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 15",
+            "access_rules": [
+              "$check|3495791401"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Gold Coin 1",
+            "access_rules": [
+              "$check|3495791427"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Gold Coin 10",
+            "access_rules": [
+              "$check|3495791436"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Gold Coin 20",
+            "access_rules": [
+              "$check|3495791446"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Gold Coin 21",
+            "access_rules": [
+              "$check|3495791447"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Gold Coin 22",
+            "access_rules": [
+              "$check|3495791448"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Gold Coin 23",
+            "access_rules": [
+              "$check|3495791449"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 261,
+            "y": 1464
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 7",
+        "sections": [
+          {
+            "name": "Medical Kit 7",
+            "access_rules": [
+              "$check|3495791458"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 129,
+            "y": 1500
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 4",
+        "sections": [
+          {
+            "name": "Bag of Gems 4",
+            "access_rules": [
+              "$check|3495791424"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 319,
+            "y": 1591
+          }
+        ]
+      },
+      {
+        "name": "Rivets 19 (+1)",
+        "sections": [
+          {
+            "name": "Rivets 19",
+            "access_rules": [
+              "$check|3495791405"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 20",
+            "access_rules": [
+              "$check|3495791406"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 1404,
+            "y": 1603
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 6",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 6",
+            "access_rules": [
+              "$check|3495791367"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 158,
+            "y": 1638
           }
         ]
       },
@@ -1708,8 +1701,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1409,
-            "y": 1852
+            "x": 1483,
+            "y": 1774
           }
         ]
       },
@@ -1729,8 +1722,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1115,
-            "y": 1857
+            "x": 1173,
+            "y": 1779
           }
         ]
       },
@@ -1768,8 +1761,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1366,
-            "y": 1869
+            "x": 1437,
+            "y": 1791
           }
         ]
       },
@@ -1789,8 +1782,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1428,
-            "y": 1876
+            "x": 1503,
+            "y": 1799
           }
         ]
       },
@@ -1810,8 +1803,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1173,
-            "y": 2037
+            "x": 1233,
+            "y": 1969
           }
         ]
       },
@@ -1840,8 +1833,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1147,
-            "y": 2049
+            "x": 1206,
+            "y": 1982
           }
         ]
       },
@@ -1861,8 +1854,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1354,
-            "y": 2057
+            "x": 1425,
+            "y": 1991
           }
         ]
       },
@@ -1882,8 +1875,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1194,
-            "y": 2063
+            "x": 1256,
+            "y": 1996
           }
         ]
       },
@@ -1903,8 +1896,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1310,
-            "y": 2078
+            "x": 1378,
+            "y": 2013
           }
         ]
       },
@@ -1933,8 +1926,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1312,
-            "y": 2102
+            "x": 1380,
+            "y": 2038
           }
         ]
       },
@@ -1954,8 +1947,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1178,
-            "y": 2136
+            "x": 1239,
+            "y": 2073
           }
         ]
       },
@@ -1975,8 +1968,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1183,
-            "y": 2258
+            "x": 1245,
+            "y": 2202
           }
         ]
       },
@@ -1996,8 +1989,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1213,
-            "y": 2283
+            "x": 1275,
+            "y": 2228
           }
         ]
       },
@@ -2017,8 +2010,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1314,
-            "y": 2284
+            "x": 1382,
+            "y": 2229
           }
         ]
       },
@@ -2038,8 +2031,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1335,
-            "y": 2284
+            "x": 1405,
+            "y": 2229
           }
         ]
       },
@@ -2059,8 +2052,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1374,
-            "y": 2288
+            "x": 1446,
+            "y": 2233
           }
         ]
       },
@@ -2080,8 +2073,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1173,
-            "y": 2389
+            "x": 1233,
+            "y": 2341
           }
         ]
       },
@@ -2110,8 +2103,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1340,
-            "y": 2416
+            "x": 1410,
+            "y": 2370
           }
         ]
       },
@@ -2131,8 +2124,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1197,
-            "y": 2442
+            "x": 1259,
+            "y": 2396
           }
         ]
       },
@@ -2152,8 +2145,8 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1366,
-            "y": 2595
+            "x": 1437,
+            "y": 2556
           }
         ]
       },
@@ -2173,8 +2166,27 @@
         "map_locations": [
           {
             "map": "E2M1",
-            "x": 1365,
-            "y": 2693
+            "x": 1437,
+            "y": 2659
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495791505"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M1",
+            "x": 2234,
+            "y": 182,
+            "size": 44
           }
         ]
       }
@@ -2189,25 +2201,6 @@
       "inc_e2m2"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495791585"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M2",
-            "x": 1385,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Fast Fire Totem",
         "sections": [
@@ -2224,8 +2217,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 380,
-            "y": 231
+            "x": 367,
+            "y": 228
           }
         ]
       },
@@ -2245,8 +2238,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 1182,
-            "y": 231
+            "x": 1141,
+            "y": 228
           }
         ]
       },
@@ -2266,8 +2259,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 193,
-            "y": 486
+            "x": 187,
+            "y": 572
           }
         ]
       },
@@ -2287,8 +2280,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 600,
-            "y": 489
+            "x": 578,
+            "y": 575
           }
         ]
       },
@@ -2308,8 +2301,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 463,
-            "y": 497
+            "x": 447,
+            "y": 583
           }
         ]
       },
@@ -2329,8 +2322,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 234,
-            "y": 508
+            "x": 226,
+            "y": 594
           }
         ]
       },
@@ -2350,8 +2343,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 327,
-            "y": 508
+            "x": 316,
+            "y": 594
           }
         ]
       },
@@ -2371,8 +2364,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 420,
-            "y": 508
+            "x": 406,
+            "y": 594
           }
         ]
       },
@@ -2392,8 +2385,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 193,
-            "y": 509
+            "x": 187,
+            "y": 595
           }
         ]
       },
@@ -2413,8 +2406,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 463,
-            "y": 520
+            "x": 447,
+            "y": 605
           }
         ]
       },
@@ -2452,8 +2445,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 531,
-            "y": 506
+            "x": 512,
+            "y": 591
           }
         ]
       },
@@ -2482,8 +2475,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 620,
-            "y": 548
+            "x": 598,
+            "y": 632
           }
         ]
       },
@@ -2503,8 +2496,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 596,
-            "y": 595
+            "x": 575,
+            "y": 677
           }
         ]
       },
@@ -2524,8 +2517,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 263,
-            "y": 629
+            "x": 255,
+            "y": 710
           }
         ]
       },
@@ -2545,8 +2538,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 527,
-            "y": 666
+            "x": 508,
+            "y": 746
           }
         ]
       },
@@ -2566,8 +2559,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 465,
-            "y": 763
+            "x": 449,
+            "y": 839
           }
         ]
       },
@@ -2587,8 +2580,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 370,
-            "y": 1018
+            "x": 357,
+            "y": 1088
           }
         ]
       },
@@ -2608,8 +2601,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 443,
-            "y": 1049
+            "x": 427,
+            "y": 1118
           }
         ]
       },
@@ -2629,8 +2622,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 630,
-            "y": 1053
+            "x": 607,
+            "y": 1121
           }
         ]
       },
@@ -2650,8 +2643,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 429,
-            "y": 1335
+            "x": 414,
+            "y": 1393
           }
         ]
       },
@@ -2680,8 +2673,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 603,
-            "y": 1590
+            "x": 582,
+            "y": 1644
           }
         ]
       },
@@ -2701,8 +2694,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 534,
-            "y": 1662
+            "x": 515,
+            "y": 1713
           }
         ]
       },
@@ -2722,8 +2715,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 354,
-            "y": 1707
+            "x": 342,
+            "y": 1755
           }
         ]
       },
@@ -2743,8 +2736,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 354,
-            "y": 1731
+            "x": 342,
+            "y": 1778
           }
         ]
       },
@@ -2764,8 +2757,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 354,
-            "y": 1754
+            "x": 342,
+            "y": 1801
           }
         ]
       },
@@ -2785,8 +2778,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 354,
-            "y": 1773
+            "x": 342,
+            "y": 1819
           }
         ]
       },
@@ -2806,8 +2799,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 472,
-            "y": 1788
+            "x": 455,
+            "y": 1834
           }
         ]
       },
@@ -2827,13 +2820,13 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 631,
-            "y": 1793
+            "x": 608,
+            "y": 1839
           }
         ]
       },
       {
-        "name": "Gold Coin 4",
+        "name": "Gold Coin 4 (+1)",
         "sections": [
           {
             "name": "Gold Coin 4",
@@ -2843,19 +2836,7 @@
             "visibility_rules": [
               "opt_armor"
             ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M2",
-            "x": 416,
-            "y": 1794
-          }
-        ]
-      },
-      {
-        "name": "Gold Coin 5",
-        "sections": [
+          },
           {
             "name": "Gold Coin 5",
             "access_rules": [
@@ -2869,8 +2850,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 416,
-            "y": 1810
+            "x": 402,
+            "y": 1848
           }
         ]
       },
@@ -2890,8 +2871,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 552,
-            "y": 1876
+            "x": 532,
+            "y": 1918
           }
         ]
       },
@@ -2920,8 +2901,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 442,
-            "y": 1930
+            "x": 426,
+            "y": 1971
           }
         ]
       },
@@ -2941,8 +2922,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 600,
-            "y": 1957
+            "x": 579,
+            "y": 1996
           }
         ]
       },
@@ -2962,8 +2943,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 393,
-            "y": 1959
+            "x": 379,
+            "y": 1999
           }
         ]
       },
@@ -2983,8 +2964,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 321,
-            "y": 1963
+            "x": 310,
+            "y": 2002
           }
         ]
       },
@@ -3022,8 +3003,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 324,
-            "y": 2218
+            "x": 313,
+            "y": 2251
           }
         ]
       },
@@ -3043,8 +3024,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 393,
-            "y": 2218
+            "x": 379,
+            "y": 2251
           }
         ]
       },
@@ -3064,8 +3045,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 632,
-            "y": 2251
+            "x": 610,
+            "y": 2283
           }
         ]
       },
@@ -3094,8 +3075,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 219,
-            "y": 2278
+            "x": 212,
+            "y": 2309
           }
         ]
       },
@@ -3115,8 +3096,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 121,
-            "y": 2280
+            "x": 117,
+            "y": 2311
           }
         ]
       },
@@ -3136,8 +3117,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 219,
-            "y": 2308
+            "x": 211,
+            "y": 2338
           }
         ]
       },
@@ -3184,8 +3165,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 928,
-            "y": 2308
+            "x": 895,
+            "y": 2338
           }
         ]
       },
@@ -3205,8 +3186,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 634,
-            "y": 2356
+            "x": 612,
+            "y": 2384
           }
         ]
       },
@@ -3226,8 +3207,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 444,
-            "y": 2373
+            "x": 429,
+            "y": 2400
           }
         ]
       },
@@ -3247,8 +3228,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 469,
-            "y": 2373
+            "x": 452,
+            "y": 2400
           }
         ]
       },
@@ -3268,29 +3249,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 469,
-            "y": 2390
-          }
-        ]
-      },
-      {
-        "name": "Shotgun Shell 5",
-        "sections": [
-          {
-            "name": "Shotgun Shell 5",
-            "access_rules": [
-              "$check|3495791538"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M2",
-            "x": 469,
-            "y": 2407
+            "x": 452,
+            "y": 2417
           }
         ]
       },
@@ -3310,8 +3270,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 731,
-            "y": 2412
+            "x": 705,
+            "y": 2439
           }
         ]
       },
@@ -3331,8 +3291,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 443,
-            "y": 2429
+            "x": 427,
+            "y": 2455
           }
         ]
       },
@@ -3352,8 +3312,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 393,
-            "y": 2431
+            "x": 379,
+            "y": 2457
           }
         ]
       },
@@ -3373,13 +3333,13 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 731,
-            "y": 2433
+            "x": 705,
+            "y": 2458
           }
         ]
       },
       {
-        "name": "Gold Coin 7",
+        "name": "Gold Coin 7 (+1)",
         "sections": [
           {
             "name": "Gold Coin 7",
@@ -3389,13 +3349,22 @@
             "visibility_rules": [
               "opt_armor"
             ]
+          },
+          {
+            "name": "Gold Coin 8",
+            "access_rules": [
+              "$check|3495791552"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 393,
-            "y": 2448
+            "x": 379,
+            "y": 2480
           }
         ]
       },
@@ -3415,34 +3384,13 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 417,
-            "y": 2457
+            "x": 402,
+            "y": 2482
           }
         ]
       },
       {
-        "name": "Gold Coin 8",
-        "sections": [
-          {
-            "name": "Gold Coin 8",
-            "access_rules": [
-              "$check|3495791552"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M2",
-            "x": 393,
-            "y": 2464
-          }
-        ]
-      },
-      {
-        "name": "Shotgun Shell 1 (+3)",
+        "name": "Shotgun Shell 1 (+4)",
         "sections": [
           {
             "name": "Shotgun Shell 1",
@@ -3479,13 +3427,22 @@
             "visibility_rules": [
               "opt_ammo"
             ]
+          },
+          {
+            "name": "Shotgun Shell 5",
+            "access_rules": [
+              "$check|3495791538"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 469,
-            "y": 2445
+            "x": 452,
+            "y": 2462
           }
         ]
       },
@@ -3505,8 +3462,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 579,
-            "y": 2473
+            "x": 558,
+            "y": 2497
           }
         ]
       },
@@ -3526,8 +3483,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 393,
-            "y": 2481
+            "x": 379,
+            "y": 2505
           }
         ]
       },
@@ -3547,8 +3504,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 372,
-            "y": 2485
+            "x": 359,
+            "y": 2508
           }
         ]
       },
@@ -3586,8 +3543,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 472,
-            "y": 2505
+            "x": 455,
+            "y": 2527
           }
         ]
       },
@@ -3607,8 +3564,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 552,
-            "y": 2514
+            "x": 532,
+            "y": 2537
           }
         ]
       },
@@ -3637,8 +3594,8 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 631,
-            "y": 2615
+            "x": 608,
+            "y": 2634
           }
         ]
       },
@@ -3658,8 +3615,27 @@
         "map_locations": [
           {
             "map": "E2M2",
-            "x": 550,
-            "y": 2643
+            "x": 530,
+            "y": 2661
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495791585"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M2",
+            "x": 181,
+            "y": 476,
+            "size": 44
           }
         ]
       }
@@ -3674,25 +3650,6 @@
       "inc_e2m3"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495791687"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M3",
-            "x": 1742,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Hunting Rifle",
         "sections": [
@@ -3926,7 +3883,7 @@
           {
             "map": "E2M3",
             "x": 822,
-            "y": 458
+            "y": 459
           }
         ]
       },
@@ -3998,7 +3955,7 @@
           {
             "map": "E2M3",
             "x": 790,
-            "y": 528
+            "y": 529
           }
         ]
       },
@@ -4124,7 +4081,7 @@
           {
             "map": "E2M3",
             "x": 1582,
-            "y": 784
+            "y": 785
           }
         ]
       },
@@ -4145,7 +4102,7 @@
           {
             "map": "E2M3",
             "x": 1420,
-            "y": 785
+            "y": 786
           }
         ]
       },
@@ -4166,7 +4123,7 @@
           {
             "map": "E2M3",
             "x": 438,
-            "y": 827
+            "y": 828
           }
         ]
       },
@@ -4187,7 +4144,7 @@
           {
             "map": "E2M3",
             "x": 767,
-            "y": 850
+            "y": 851
           }
         ]
       },
@@ -4289,7 +4246,7 @@
           {
             "map": "E2M3",
             "x": 1561,
-            "y": 1031
+            "y": 1033
           }
         ]
       },
@@ -4310,7 +4267,7 @@
           {
             "map": "E2M3",
             "x": 160,
-            "y": 1088
+            "y": 1090
           }
         ]
       },
@@ -4340,7 +4297,7 @@
           {
             "map": "E2M3",
             "x": 838,
-            "y": 1091
+            "y": 1093
           }
         ]
       },
@@ -4361,7 +4318,7 @@
           {
             "map": "E2M3",
             "x": 111,
-            "y": 1147
+            "y": 1149
           }
         ]
       },
@@ -4382,7 +4339,7 @@
           {
             "map": "E2M3",
             "x": 804,
-            "y": 1223
+            "y": 1225
           }
         ]
       },
@@ -4439,7 +4396,7 @@
           {
             "map": "E2M3",
             "x": 173,
-            "y": 1241
+            "y": 1243
           }
         ]
       },
@@ -4460,7 +4417,7 @@
           {
             "map": "E2M3",
             "x": 750,
-            "y": 1263
+            "y": 1265
           }
         ]
       },
@@ -4499,7 +4456,7 @@
           {
             "map": "E2M3",
             "x": 356,
-            "y": 1292
+            "y": 1294
           }
         ]
       },
@@ -4529,7 +4486,7 @@
           {
             "map": "E2M3",
             "x": 298,
-            "y": 1349
+            "y": 1351
           }
         ]
       },
@@ -4550,7 +4507,7 @@
           {
             "map": "E2M3",
             "x": 401,
-            "y": 1460
+            "y": 1462
           }
         ]
       },
@@ -4571,7 +4528,7 @@
           {
             "map": "E2M3",
             "x": 401,
-            "y": 1491
+            "y": 1493
           }
         ]
       },
@@ -4592,7 +4549,7 @@
           {
             "map": "E2M3",
             "x": 604,
-            "y": 1563
+            "y": 1565
           }
         ]
       },
@@ -4613,7 +4570,7 @@
           {
             "map": "E2M3",
             "x": 682,
-            "y": 1599
+            "y": 1601
           }
         ]
       },
@@ -4634,7 +4591,7 @@
           {
             "map": "E2M3",
             "x": 521,
-            "y": 1666
+            "y": 1668
           }
         ]
       },
@@ -4664,7 +4621,7 @@
           {
             "map": "E2M3",
             "x": 463,
-            "y": 1714
+            "y": 1716
           }
         ]
       },
@@ -4685,7 +4642,7 @@
           {
             "map": "E2M3",
             "x": 841,
-            "y": 1708
+            "y": 1710
           }
         ]
       },
@@ -4706,7 +4663,7 @@
           {
             "map": "E2M3",
             "x": 620,
-            "y": 1722
+            "y": 1724
           }
         ]
       },
@@ -4727,7 +4684,7 @@
           {
             "map": "E2M3",
             "x": 660,
-            "y": 1722
+            "y": 1724
           }
         ]
       },
@@ -4748,7 +4705,7 @@
           {
             "map": "E2M3",
             "x": 699,
-            "y": 1722
+            "y": 1724
           }
         ]
       },
@@ -4769,7 +4726,7 @@
           {
             "map": "E2M3",
             "x": 747,
-            "y": 1722
+            "y": 1724
           }
         ]
       },
@@ -4790,7 +4747,7 @@
           {
             "map": "E2M3",
             "x": 207,
-            "y": 1958
+            "y": 1961
           }
         ]
       },
@@ -4820,7 +4777,7 @@
           {
             "map": "E2M3",
             "x": 277,
-            "y": 2022
+            "y": 2024
           }
         ]
       },
@@ -4841,7 +4798,7 @@
           {
             "map": "E2M3",
             "x": 182,
-            "y": 2037
+            "y": 2040
           }
         ]
       },
@@ -4862,7 +4819,7 @@
           {
             "map": "E2M3",
             "x": 241,
-            "y": 2037
+            "y": 2040
           }
         ]
       },
@@ -4901,7 +4858,7 @@
           {
             "map": "E2M3",
             "x": 283,
-            "y": 2059
+            "y": 2062
           }
         ]
       },
@@ -4922,7 +4879,7 @@
           {
             "map": "E2M3",
             "x": 283,
-            "y": 2086
+            "y": 2089
           }
         ]
       },
@@ -4952,7 +4909,7 @@
           {
             "map": "E2M3",
             "x": 458,
-            "y": 2139
+            "y": 2142
           }
         ]
       },
@@ -4973,7 +4930,7 @@
           {
             "map": "E2M3",
             "x": 503,
-            "y": 2139
+            "y": 2142
           }
         ]
       },
@@ -5003,7 +4960,7 @@
           {
             "map": "E2M3",
             "x": 373,
-            "y": 2168
+            "y": 2172
           }
         ]
       },
@@ -5078,7 +5035,7 @@
           {
             "map": "E2M3",
             "x": 579,
-            "y": 2324
+            "y": 2327
           }
         ]
       },
@@ -5099,7 +5056,7 @@
           {
             "map": "E2M3",
             "x": 499,
-            "y": 2347
+            "y": 2350
           }
         ]
       },
@@ -5129,7 +5086,7 @@
           {
             "map": "E2M3",
             "x": 663,
-            "y": 2350
+            "y": 2353
           }
         ]
       },
@@ -5168,7 +5125,7 @@
           {
             "map": "E2M3",
             "x": 498,
-            "y": 2373
+            "y": 2376
           }
         ]
       },
@@ -5189,7 +5146,7 @@
           {
             "map": "E2M3",
             "x": 584,
-            "y": 2376
+            "y": 2379
           }
         ]
       },
@@ -5210,7 +5167,7 @@
           {
             "map": "E2M3",
             "x": 523,
-            "y": 2378
+            "y": 2381
           }
         ]
       },
@@ -5231,7 +5188,7 @@
           {
             "map": "E2M3",
             "x": 612,
-            "y": 2448
+            "y": 2451
           }
         ]
       },
@@ -5261,7 +5218,7 @@
           {
             "map": "E2M3",
             "x": 540,
-            "y": 2470
+            "y": 2473
           }
         ]
       },
@@ -5282,7 +5239,26 @@
           {
             "map": "E2M3",
             "x": 592,
-            "y": 2530
+            "y": 2533
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495791687"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M3",
+            "x": 1379,
+            "y": 1189,
+            "size": 44
           }
         ]
       }
@@ -5297,57 +5273,6 @@
       "inc_e2m4"
     ],
     "children": [
-      {
-        "name": "Box of Pistol Bullets 2 (+1)",
-        "sections": [
-          {
-            "name": "Box of Pistol Bullets 2",
-            "access_rules": [
-              "$check|3495791702"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Medical Kit 11",
-            "access_rules": [
-              "$check|3495791785"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M4",
-            "x": 1386,
-            "y": 206
-          }
-        ]
-      },
-      {
-        "name": "Diamond 2",
-        "sections": [
-          {
-            "name": "Diamond 2",
-            "access_rules": [
-              "$check|3495791771"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M4",
-            "x": 2104,
-            "y": 206
-          }
-        ]
-      },
       {
         "name": "Box of Mortar Grenades 1 (+1)",
         "sections": [
@@ -5373,8 +5298,59 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 903,
+            "x": 898,
             "y": 210
+          }
+        ]
+      },
+      {
+        "name": "Box of Pistol Bullets 2 (+1)",
+        "sections": [
+          {
+            "name": "Box of Pistol Bullets 2",
+            "access_rules": [
+              "$check|3495791702"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Medical Kit 11",
+            "access_rules": [
+              "$check|3495791785"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M4",
+            "x": 1378,
+            "y": 206
+          }
+        ]
+      },
+      {
+        "name": "Diamond 2",
+        "sections": [
+          {
+            "name": "Diamond 2",
+            "access_rules": [
+              "$check|3495791771"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M4",
+            "x": 2094,
+            "y": 206
           }
         ]
       },
@@ -5394,7 +5370,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1455,
+            "x": 1447,
             "y": 215
           }
         ]
@@ -5415,8 +5391,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 897,
-            "y": 248
+            "x": 892,
+            "y": 247
           }
         ]
       },
@@ -5445,8 +5421,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1334,
-            "y": 280
+            "x": 1328,
+            "y": 278
           }
         ]
       },
@@ -5466,8 +5442,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1322,
-            "y": 325
+            "x": 1316,
+            "y": 324
           }
         ]
       },
@@ -5487,8 +5463,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1354,
-            "y": 346
+            "x": 1347,
+            "y": 345
           }
         ]
       },
@@ -5508,8 +5484,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1372,
-            "y": 366
+            "x": 1365,
+            "y": 365
           }
         ]
       },
@@ -5529,8 +5505,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1613,
-            "y": 445
+            "x": 1604,
+            "y": 444
           }
         ]
       },
@@ -5550,8 +5526,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 591,
-            "y": 454
+            "x": 588,
+            "y": 455
           }
         ]
       },
@@ -5571,8 +5547,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 610,
-            "y": 454
+            "x": 607,
+            "y": 455
           }
         ]
       },
@@ -5592,8 +5568,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 629,
-            "y": 454
+            "x": 626,
+            "y": 455
           }
         ]
       },
@@ -5613,8 +5589,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 560,
-            "y": 455
+            "x": 557,
+            "y": 456
           }
         ]
       },
@@ -5652,8 +5628,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 655,
-            "y": 505
+            "x": 651,
+            "y": 506
           }
         ]
       },
@@ -5673,8 +5649,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 607,
-            "y": 570
+            "x": 604,
+            "y": 571
           }
         ]
       },
@@ -5694,8 +5670,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 703,
-            "y": 570
+            "x": 699,
+            "y": 571
           }
         ]
       },
@@ -5715,7 +5691,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 699,
+            "x": 695,
             "y": 593
           }
         ]
@@ -5736,7 +5712,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 654,
+            "x": 650,
             "y": 597
           }
         ]
@@ -5757,7 +5733,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 893,
+            "x": 888,
             "y": 657
           }
         ]
@@ -5778,8 +5754,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 893,
-            "y": 675
+            "x": 888,
+            "y": 674
           }
         ]
       },
@@ -5799,7 +5775,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 893,
+            "x": 888,
             "y": 693
           }
         ]
@@ -5829,8 +5805,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1416,
-            "y": 703
+            "x": 1410,
+            "y": 700
           }
         ]
       },
@@ -5850,8 +5826,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 615,
-            "y": 749
+            "x": 612,
+            "y": 748
           }
         ]
       },
@@ -5871,8 +5847,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 696,
-            "y": 753
+            "x": 692,
+            "y": 752
           }
         ]
       },
@@ -5892,8 +5868,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1613,
-            "y": 912
+            "x": 1604,
+            "y": 908
           }
         ]
       },
@@ -5931,8 +5907,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1657,
-            "y": 945
+            "x": 1649,
+            "y": 941
           }
         ]
       },
@@ -5952,8 +5928,29 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1613,
-            "y": 954
+            "x": 1604,
+            "y": 949
+          }
+        ]
+      },
+      {
+        "name": "Hallowed Health 3",
+        "sections": [
+          {
+            "name": "Hallowed Health 3",
+            "access_rules": [
+              "$check|3495791800"
+            ],
+            "visibility_rules": [
+              "opt_powerups"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M4",
+            "x": 1388,
+            "y": 956
           }
         ]
       },
@@ -6027,28 +6024,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 487,
-            "y": 960
-          }
-        ]
-      },
-      {
-        "name": "Hallowed Health 3",
-        "sections": [
-          {
-            "name": "Hallowed Health 3",
-            "access_rules": [
-              "$check|3495791800"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M4",
-            "x": 1395,
+            "x": 485,
             "y": 960
           }
         ]
@@ -6069,8 +6045,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1313,
-            "y": 975
+            "x": 1306,
+            "y": 970
           }
         ]
       },
@@ -6090,8 +6066,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1657,
-            "y": 1007
+            "x": 1649,
+            "y": 1002
           }
         ]
       },
@@ -6120,8 +6096,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 670,
-            "y": 1013
+            "x": 666,
+            "y": 1012
           }
         ]
       },
@@ -6168,8 +6144,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 424,
-            "y": 1047
+            "x": 422,
+            "y": 1046
           }
         ]
       },
@@ -6189,8 +6165,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 725,
-            "y": 1061
+            "x": 721,
+            "y": 1060
           }
         ]
       },
@@ -6237,8 +6213,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 381,
-            "y": 1083
+            "x": 379,
+            "y": 1082
           }
         ]
       },
@@ -6258,8 +6234,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1266,
-            "y": 1096
+            "x": 1260,
+            "y": 1091
           }
         ]
       },
@@ -6279,8 +6255,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 491,
-            "y": 1102
+            "x": 489,
+            "y": 1101
           }
         ]
       },
@@ -6300,8 +6276,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1100,
-            "y": 1226
+            "x": 1095,
+            "y": 1220
           }
         ]
       },
@@ -6321,8 +6297,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1252,
-            "y": 1226
+            "x": 1246,
+            "y": 1220
           }
         ]
       },
@@ -6342,8 +6318,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1325,
-            "y": 1293
+            "x": 1319,
+            "y": 1287
           }
         ]
       },
@@ -6363,8 +6339,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 381,
-            "y": 1307
+            "x": 379,
+            "y": 1308
           }
         ]
       },
@@ -6384,8 +6360,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 399,
-            "y": 1339
+            "x": 397,
+            "y": 1340
           }
         ]
       },
@@ -6405,7 +6381,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 431,
+            "x": 429,
             "y": 1345
           }
         ]
@@ -6426,7 +6402,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 151,
+            "x": 150,
             "y": 1361
           }
         ]
@@ -6465,7 +6441,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 445,
+            "x": 443,
             "y": 1373
           }
         ]
@@ -6495,7 +6471,7 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 368,
+            "x": 366,
             "y": 1404
           }
         ]
@@ -6516,8 +6492,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1221,
-            "y": 1430
+            "x": 1215,
+            "y": 1423
           }
         ]
       },
@@ -6537,8 +6513,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1393,
-            "y": 1460
+            "x": 1386,
+            "y": 1453
           }
         ]
       },
@@ -6558,8 +6534,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 497,
-            "y": 1603
+            "x": 494,
+            "y": 1602
           }
         ]
       },
@@ -6579,8 +6555,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 454,
-            "y": 1636
+            "x": 452,
+            "y": 1634
           }
         ]
       },
@@ -6600,8 +6576,29 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 371,
-            "y": 1638
+            "x": 369,
+            "y": 1637
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 11",
+        "sections": [
+          {
+            "name": "Bag of Gems 11",
+            "access_rules": [
+              "$check|3495791768"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M4",
+            "x": 1388,
+            "y": 1659
           }
         ]
       },
@@ -6630,29 +6627,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 612,
-            "y": 1661
-          }
-        ]
-      },
-      {
-        "name": "Bag of Gems 11",
-        "sections": [
-          {
-            "name": "Bag of Gems 11",
-            "access_rules": [
-              "$check|3495791768"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M4",
-            "x": 1395,
-            "y": 1667
+            "x": 610,
+            "y": 1660
           }
         ]
       },
@@ -6690,8 +6666,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 413,
-            "y": 1680
+            "x": 411,
+            "y": 1679
           }
         ]
       },
@@ -6747,8 +6723,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 565,
-            "y": 1713
+            "x": 562,
+            "y": 1711
           }
         ]
       },
@@ -6768,8 +6744,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 500,
-            "y": 1739
+            "x": 498,
+            "y": 1737
           }
         ]
       },
@@ -6789,8 +6765,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 615,
-            "y": 1750
+            "x": 612,
+            "y": 1748
           }
         ]
       },
@@ -6828,8 +6804,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1416,
-            "y": 1910
+            "x": 1409,
+            "y": 1902
           }
         ]
       },
@@ -6849,8 +6825,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1217,
-            "y": 1987
+            "x": 1211,
+            "y": 1978
           }
         ]
       },
@@ -6996,8 +6972,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1220,
-            "y": 2154
+            "x": 1214,
+            "y": 2144
           }
         ]
       },
@@ -7017,8 +6993,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1378,
-            "y": 2268
+            "x": 1371,
+            "y": 2258
           }
         ]
       },
@@ -7056,27 +7032,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1416,
-            "y": 2314
-          }
-        ]
-      },
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495791814"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M4",
-            "x": 1417,
-            "y": 2341,
-            "size": 48
+            "x": 1409,
+            "y": 2303
           }
         ]
       },
@@ -7114,8 +7071,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1485,
-            "y": 2543
+            "x": 1477,
+            "y": 2547
           }
         ]
       },
@@ -7135,8 +7092,8 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1515,
-            "y": 2543
+            "x": 1507,
+            "y": 2547
           }
         ]
       },
@@ -7237,8 +7194,33 @@
         "map_locations": [
           {
             "map": "E2M4",
-            "x": 1564,
-            "y": 2549
+            "x": 1556,
+            "y": 2552
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495791814"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M4",
+            "x": 1410,
+            "y": 2330,
+            "size": 44
+          },
+          {
+            "map": "E2M4",
+            "x": 1429,
+            "y": 2544,
+            "size": 44
           }
         ]
       }
@@ -7290,7 +7272,7 @@
         "map_locations": [
           {
             "map": "E2M5",
-            "x": 1874,
+            "x": 1933,
             "y": 232
           }
         ]
@@ -7360,7 +7342,7 @@
           {
             "map": "E2M5",
             "x": 915,
-            "y": 516
+            "y": 517
           }
         ]
       },
@@ -7381,7 +7363,7 @@
           {
             "map": "E2M5",
             "x": 267,
-            "y": 603
+            "y": 604
           }
         ]
       },
@@ -7429,7 +7411,7 @@
           {
             "map": "E2M5",
             "x": 292,
-            "y": 618
+            "y": 620
           }
         ]
       },
@@ -7450,7 +7432,7 @@
           {
             "map": "E2M5",
             "x": 265,
-            "y": 640
+            "y": 641
           }
         ]
       },
@@ -7471,7 +7453,7 @@
           {
             "map": "E2M5",
             "x": 265,
-            "y": 662
+            "y": 663
           }
         ]
       },
@@ -7492,7 +7474,7 @@
           {
             "map": "E2M5",
             "x": 507,
-            "y": 697
+            "y": 698
           }
         ]
       },
@@ -7513,7 +7495,7 @@
           {
             "map": "E2M5",
             "x": 334,
-            "y": 702
+            "y": 703
           }
         ]
       },
@@ -7534,7 +7516,7 @@
           {
             "map": "E2M5",
             "x": 299,
-            "y": 958
+            "y": 960
           }
         ]
       },
@@ -7555,7 +7537,7 @@
           {
             "map": "E2M5",
             "x": 316,
-            "y": 958
+            "y": 960
           }
         ]
       },
@@ -7585,7 +7567,7 @@
           {
             "map": "E2M5",
             "x": 340,
-            "y": 958
+            "y": 960
           }
         ]
       },
@@ -7606,7 +7588,7 @@
           {
             "map": "E2M5",
             "x": 329,
-            "y": 984
+            "y": 986
           }
         ]
       },
@@ -7636,7 +7618,7 @@
           {
             "map": "E2M5",
             "x": 278,
-            "y": 982
+            "y": 984
           }
         ]
       },
@@ -7657,7 +7639,7 @@
           {
             "map": "E2M5",
             "x": 278,
-            "y": 1005
+            "y": 1007
           }
         ]
       },
@@ -7687,7 +7669,7 @@
           {
             "map": "E2M5",
             "x": 352,
-            "y": 1012
+            "y": 1014
           }
         ]
       },
@@ -7708,7 +7690,7 @@
           {
             "map": "E2M5",
             "x": 380,
-            "y": 1060
+            "y": 1062
           }
         ]
       },
@@ -7729,7 +7711,7 @@
           {
             "map": "E2M5",
             "x": 379,
-            "y": 1080
+            "y": 1082
           }
         ]
       },
@@ -7750,7 +7732,7 @@
           {
             "map": "E2M5",
             "x": 1418,
-            "y": 1464
+            "y": 1466
           }
         ]
       },
@@ -7771,7 +7753,7 @@
           {
             "map": "E2M5",
             "x": 1344,
-            "y": 1490
+            "y": 1492
           }
         ]
       },
@@ -7792,7 +7774,7 @@
           {
             "map": "E2M5",
             "x": 1053,
-            "y": 1494
+            "y": 1496
           }
         ]
       },
@@ -7822,7 +7804,7 @@
           {
             "map": "E2M5",
             "x": 1001,
-            "y": 1504
+            "y": 1506
           }
         ]
       },
@@ -7852,7 +7834,7 @@
           {
             "map": "E2M5",
             "x": 870,
-            "y": 1499
+            "y": 1501
           }
         ]
       },
@@ -7891,7 +7873,7 @@
           {
             "map": "E2M5",
             "x": 1264,
-            "y": 1528
+            "y": 1530
           }
         ]
       },
@@ -7921,7 +7903,7 @@
           {
             "map": "E2M5",
             "x": 270,
-            "y": 1523
+            "y": 1525
           }
         ]
       },
@@ -7942,7 +7924,7 @@
           {
             "map": "E2M5",
             "x": 1394,
-            "y": 1542
+            "y": 1544
           }
         ]
       },
@@ -7963,7 +7945,7 @@
           {
             "map": "E2M5",
             "x": 1251,
-            "y": 1543
+            "y": 1545
           }
         ]
       },
@@ -7984,7 +7966,7 @@
           {
             "map": "E2M5",
             "x": 1187,
-            "y": 1545
+            "y": 1547
           }
         ]
       },
@@ -8005,7 +7987,7 @@
           {
             "map": "E2M5",
             "x": 1051,
-            "y": 1547
+            "y": 1549
           }
         ]
       },
@@ -8035,7 +8017,7 @@
           {
             "map": "E2M5",
             "x": 1259,
-            "y": 1567
+            "y": 1569
           }
         ]
       },
@@ -8056,7 +8038,7 @@
           {
             "map": "E2M5",
             "x": 1000,
-            "y": 1574
+            "y": 1576
           }
         ]
       },
@@ -8095,7 +8077,7 @@
           {
             "map": "E2M5",
             "x": 1317,
-            "y": 1584
+            "y": 1586
           }
         ]
       },
@@ -8116,26 +8098,7 @@
           {
             "map": "E2M5",
             "x": 191,
-            "y": 1586
-          }
-        ]
-      },
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495791931"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M5",
-            "x": 1690,
-            "y": 1589,
-            "size": 48
+            "y": 1588
           }
         ]
       },
@@ -8156,7 +8119,7 @@
           {
             "map": "E2M5",
             "x": 1446,
-            "y": 1592
+            "y": 1594
           }
         ]
       },
@@ -8177,7 +8140,7 @@
           {
             "map": "E2M5",
             "x": 1426,
-            "y": 1595
+            "y": 1597
           }
         ]
       },
@@ -8207,7 +8170,7 @@
           {
             "map": "E2M5",
             "x": 1591,
-            "y": 1596
+            "y": 1598
           }
         ]
       },
@@ -8228,7 +8191,7 @@
           {
             "map": "E2M5",
             "x": 1615,
-            "y": 1596
+            "y": 1598
           }
         ]
       },
@@ -8249,7 +8212,7 @@
           {
             "map": "E2M5",
             "x": 1631,
-            "y": 1596
+            "y": 1598
           }
         ]
       },
@@ -8270,7 +8233,7 @@
           {
             "map": "E2M5",
             "x": 1533,
-            "y": 1603
+            "y": 1605
           }
         ]
       },
@@ -8291,7 +8254,7 @@
           {
             "map": "E2M5",
             "x": 191,
-            "y": 1614
+            "y": 1616
           }
         ]
       },
@@ -8312,7 +8275,7 @@
           {
             "map": "E2M5",
             "x": 1190,
-            "y": 1615
+            "y": 1617
           }
         ]
       },
@@ -8333,7 +8296,7 @@
           {
             "map": "E2M5",
             "x": 1207,
-            "y": 1617
+            "y": 1619
           }
         ]
       },
@@ -8354,7 +8317,7 @@
           {
             "map": "E2M5",
             "x": 191,
-            "y": 1641
+            "y": 1643
           }
         ]
       },
@@ -8375,7 +8338,7 @@
           {
             "map": "E2M5",
             "x": 516,
-            "y": 1645
+            "y": 1647
           }
         ]
       },
@@ -8396,7 +8359,7 @@
           {
             "map": "E2M5",
             "x": 515,
-            "y": 1670
+            "y": 1672
           }
         ]
       },
@@ -8417,7 +8380,7 @@
           {
             "map": "E2M5",
             "x": 303,
-            "y": 1683
+            "y": 1685
           }
         ]
       },
@@ -8438,7 +8401,7 @@
           {
             "map": "E2M5",
             "x": 516,
-            "y": 1693
+            "y": 1695
           }
         ]
       },
@@ -8459,7 +8422,7 @@
           {
             "map": "E2M5",
             "x": 301,
-            "y": 1709
+            "y": 1711
           }
         ]
       },
@@ -8480,7 +8443,7 @@
           {
             "map": "E2M5",
             "x": 399,
-            "y": 1966
+            "y": 1969
           }
         ]
       },
@@ -8501,7 +8464,7 @@
           {
             "map": "E2M5",
             "x": 383,
-            "y": 2115
+            "y": 2118
           }
         ]
       },
@@ -8531,7 +8494,7 @@
           {
             "map": "E2M5",
             "x": 130,
-            "y": 2287
+            "y": 2290
           }
         ]
       },
@@ -8570,7 +8533,7 @@
           {
             "map": "E2M5",
             "x": 132,
-            "y": 2309
+            "y": 2312
           }
         ]
       },
@@ -8591,7 +8554,7 @@
           {
             "map": "E2M5",
             "x": 249,
-            "y": 2309
+            "y": 2312
           }
         ]
       },
@@ -8630,7 +8593,7 @@
           {
             "map": "E2M5",
             "x": 370,
-            "y": 2315
+            "y": 2318
           }
         ]
       },
@@ -8651,7 +8614,7 @@
           {
             "map": "E2M5",
             "x": 333,
-            "y": 2337
+            "y": 2340
           }
         ]
       },
@@ -8681,7 +8644,7 @@
           {
             "map": "E2M5",
             "x": 271,
-            "y": 2342
+            "y": 2345
           }
         ]
       },
@@ -8711,7 +8674,7 @@
           {
             "map": "E2M5",
             "x": 341,
-            "y": 2369
+            "y": 2372
           }
         ]
       },
@@ -8732,7 +8695,7 @@
           {
             "map": "E2M5",
             "x": 243,
-            "y": 2379
+            "y": 2382
           }
         ]
       },
@@ -8798,7 +8761,7 @@
           {
             "map": "E2M5",
             "x": 995,
-            "y": 2379
+            "y": 2382
           }
         ]
       },
@@ -8837,7 +8800,7 @@
           {
             "map": "E2M5",
             "x": 771,
-            "y": 2396
+            "y": 2399
           }
         ]
       },
@@ -8858,7 +8821,7 @@
           {
             "map": "E2M5",
             "x": 322,
-            "y": 2386
+            "y": 2389
           }
         ]
       },
@@ -8879,7 +8842,7 @@
           {
             "map": "E2M5",
             "x": 434,
-            "y": 2414
+            "y": 2417
           }
         ]
       },
@@ -8909,7 +8872,7 @@
           {
             "map": "E2M5",
             "x": 520,
-            "y": 2442
+            "y": 2446
           }
         ]
       },
@@ -8930,7 +8893,7 @@
           {
             "map": "E2M5",
             "x": 539,
-            "y": 2474
+            "y": 2477
           }
         ]
       },
@@ -8960,7 +8923,7 @@
           {
             "map": "E2M5",
             "x": 600,
-            "y": 2505
+            "y": 2508
           }
         ]
       },
@@ -8990,7 +8953,7 @@
           {
             "map": "E2M5",
             "x": 686,
-            "y": 2527
+            "y": 2530
           }
         ]
       },
@@ -9011,7 +8974,7 @@
           {
             "map": "E2M5",
             "x": 710,
-            "y": 2527
+            "y": 2530
           }
         ]
       },
@@ -9041,7 +9004,7 @@
           {
             "map": "E2M5",
             "x": 508,
-            "y": 2537
+            "y": 2540
           }
         ]
       },
@@ -9062,7 +9025,7 @@
           {
             "map": "E2M5",
             "x": 245,
-            "y": 2567
+            "y": 2570
           }
         ]
       },
@@ -9101,7 +9064,7 @@
           {
             "map": "E2M5",
             "x": 737,
-            "y": 2578
+            "y": 2581
           }
         ]
       },
@@ -9122,7 +9085,7 @@
           {
             "map": "E2M5",
             "x": 270,
-            "y": 2595
+            "y": 2598
           }
         ]
       },
@@ -9143,7 +9106,7 @@
           {
             "map": "E2M5",
             "x": 290,
-            "y": 2615
+            "y": 2618
           }
         ]
       },
@@ -9164,7 +9127,7 @@
           {
             "map": "E2M5",
             "x": 308,
-            "y": 2615
+            "y": 2618
           }
         ]
       },
@@ -9185,7 +9148,7 @@
           {
             "map": "E2M5",
             "x": 593,
-            "y": 2626
+            "y": 2629
           }
         ]
       },
@@ -9215,7 +9178,7 @@
           {
             "map": "E2M5",
             "x": 686,
-            "y": 2628
+            "y": 2631
           }
         ]
       },
@@ -9236,7 +9199,26 @@
           {
             "map": "E2M5",
             "x": 710,
-            "y": 2628
+            "y": 2631
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495791931"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M5",
+            "x": 1690,
+            "y": 1591,
+            "size": 44
           }
         ]
       }
@@ -9251,25 +9233,6 @@
       "inc_e2m6"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792064"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M6",
-            "x": 1603,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Box of Hunting Rifle Bullets 3 (+3)",
         "sections": [
@@ -9313,8 +9276,29 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1402,
-            "y": 217
+            "x": 1318,
+            "y": 212
+          }
+        ]
+      },
+      {
+        "name": "Red Key",
+        "sections": [
+          {
+            "name": "Red Key",
+            "access_rules": [
+              "$check|3495792037"
+            ],
+            "visibility_rules": [
+              "opt_keys"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M6",
+            "x": 1291,
+            "y": 266
           }
         ]
       },
@@ -9334,8 +9318,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 919,
-            "y": 206
+            "x": 862,
+            "y": 395
           }
         ]
       },
@@ -9436,29 +9420,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 567,
-            "y": 214
-          }
-        ]
-      },
-      {
-        "name": "Red Key",
-        "sections": [
-          {
-            "name": "Red Key",
-            "access_rules": [
-              "$check|3495792037"
-            ],
-            "visibility_rules": [
-              "opt_keys"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M6",
-            "x": 1373,
-            "y": 275
+            "x": 533,
+            "y": 403
           }
         ]
       },
@@ -9478,8 +9441,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 770,
-            "y": 369
+            "x": 723,
+            "y": 548
           }
         ]
       },
@@ -9499,8 +9462,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 418
+            "x": 1112,
+            "y": 593
           }
         ]
       },
@@ -9529,8 +9492,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 508,
-            "y": 480
+            "x": 478,
+            "y": 651
           }
         ]
       },
@@ -9550,8 +9513,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1031,
-            "y": 560
+            "x": 968,
+            "y": 726
           }
         ]
       },
@@ -9589,8 +9552,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 612
+            "x": 1112,
+            "y": 775
           }
         ]
       },
@@ -9610,8 +9573,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 804,
-            "y": 639
+            "x": 755,
+            "y": 801
           }
         ]
       },
@@ -9631,8 +9594,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 647
+            "x": 1112,
+            "y": 808
           }
         ]
       },
@@ -9652,8 +9615,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 669
+            "x": 1112,
+            "y": 829
           }
         ]
       },
@@ -9673,8 +9636,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 692
+            "x": 1112,
+            "y": 850
           }
         ]
       },
@@ -9694,8 +9657,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 716
+            "x": 1112,
+            "y": 872
           }
         ]
       },
@@ -9760,8 +9723,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 552,
-            "y": 732
+            "x": 519,
+            "y": 888
           }
         ]
       },
@@ -9781,8 +9744,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 738
+            "x": 1112,
+            "y": 893
           }
         ]
       },
@@ -9802,8 +9765,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1185,
-            "y": 757
+            "x": 1112,
+            "y": 911
           }
         ]
       },
@@ -9823,8 +9786,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 748,
-            "y": 960
+            "x": 702,
+            "y": 1105
           }
         ]
       },
@@ -9853,8 +9816,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 633,
-            "y": 1152
+            "x": 594,
+            "y": 1285
           }
         ]
       },
@@ -9901,8 +9864,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 918,
-            "y": 1169
+            "x": 862,
+            "y": 1302
           }
         ]
       },
@@ -9967,14 +9930,32 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 668,
-            "y": 1384
+            "x": 627,
+            "y": 1508
           }
         ]
       },
       {
-        "name": "Gold Coin 5 (+1)",
+        "name": "Gold Coin 3 (+3)",
         "sections": [
+          {
+            "name": "Gold Coin 3",
+            "access_rules": [
+              "$check|3495792000"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Gold Coin 4",
+            "access_rules": [
+              "$check|3495792001"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
           {
             "name": "Gold Coin 5",
             "access_rules": [
@@ -9997,38 +9978,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 892,
-            "y": 1384
-          }
-        ]
-      },
-      {
-        "name": "Gold Coin 3 (+1)",
-        "sections": [
-          {
-            "name": "Gold Coin 3",
-            "access_rules": [
-              "$check|3495792000"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Gold Coin 4",
-            "access_rules": [
-              "$check|3495792001"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M6",
-            "x": 924,
-            "y": 1384
+            "x": 852,
+            "y": 1508
           }
         ]
       },
@@ -10048,8 +9999,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 896,
-            "y": 1418
+            "x": 841,
+            "y": 1540
           }
         ]
       },
@@ -10096,8 +10047,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 94,
-            "y": 1624
+            "x": 89,
+            "y": 1740
           }
         ]
       },
@@ -10180,8 +10131,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 125,
-            "y": 1659
+            "x": 118,
+            "y": 1772
           }
         ]
       },
@@ -10201,8 +10152,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 724,
-            "y": 1881
+            "x": 680,
+            "y": 1979
           }
         ]
       },
@@ -10231,8 +10182,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 697,
-            "y": 2003
+            "x": 655,
+            "y": 2094
           }
         ]
       },
@@ -10252,8 +10203,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 538,
-            "y": 2048
+            "x": 505,
+            "y": 2136
           }
         ]
       },
@@ -10273,29 +10224,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 502,
-            "y": 2049
-          }
-        ]
-      },
-      {
-        "name": "Bag of Gems 7",
-        "sections": [
-          {
-            "name": "Bag of Gems 7",
-            "access_rules": [
-              "$check|3495791990"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M6",
-            "x": 646,
-            "y": 2049
+            "x": 472,
+            "y": 2137
           }
         ]
       },
@@ -10315,8 +10245,29 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 611,
-            "y": 2050
+            "x": 574,
+            "y": 2138
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 7",
+        "sections": [
+          {
+            "name": "Bag of Gems 7",
+            "access_rules": [
+              "$check|3495791990"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M6",
+            "x": 607,
+            "y": 2138
           }
         ]
       },
@@ -10345,8 +10296,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 681,
-            "y": 2050
+            "x": 639,
+            "y": 2138
           }
         ]
       },
@@ -10366,8 +10317,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1008,
-            "y": 2085
+            "x": 946,
+            "y": 2170
           }
         ]
       },
@@ -10405,8 +10356,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 755,
-            "y": 2096
+            "x": 709,
+            "y": 2181
           }
         ]
       },
@@ -10435,8 +10386,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 959,
-            "y": 2094
+            "x": 900,
+            "y": 2178
           }
         ]
       },
@@ -10456,8 +10407,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 655,
-            "y": 2120
+            "x": 616,
+            "y": 2204
           }
         ]
       },
@@ -10495,8 +10446,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 615,
-            "y": 2142
+            "x": 578,
+            "y": 2223
           }
         ]
       },
@@ -10516,8 +10467,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 686,
-            "y": 2181
+            "x": 645,
+            "y": 2261
           }
         ]
       },
@@ -10546,8 +10497,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1008,
-            "y": 2191
+            "x": 947,
+            "y": 2270
           }
         ]
       },
@@ -10567,8 +10518,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 790,
-            "y": 2203
+            "x": 742,
+            "y": 2281
           }
         ]
       },
@@ -10597,8 +10548,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 650,
-            "y": 2206
+            "x": 610,
+            "y": 2284
           }
         ]
       },
@@ -10627,8 +10578,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 926,
-            "y": 2242
+            "x": 869,
+            "y": 2318
           }
         ]
       },
@@ -10657,8 +10608,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1073,
-            "y": 2289
+            "x": 1007,
+            "y": 2362
           }
         ]
       },
@@ -10687,8 +10638,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1039,
-            "y": 2294
+            "x": 974,
+            "y": 2368
           }
         ]
       },
@@ -10708,8 +10659,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 753,
-            "y": 2296
+            "x": 707,
+            "y": 2369
           }
         ]
       },
@@ -10747,8 +10698,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 549,
-            "y": 2334
+            "x": 516,
+            "y": 2404
           }
         ]
       },
@@ -10768,8 +10719,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 713,
-            "y": 2337
+            "x": 670,
+            "y": 2407
           }
         ]
       },
@@ -10789,8 +10740,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 846,
-            "y": 2367
+            "x": 794,
+            "y": 2435
           }
         ]
       },
@@ -10810,8 +10761,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 874,
-            "y": 2390
+            "x": 821,
+            "y": 2457
           }
         ]
       },
@@ -10831,8 +10782,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1013,
-            "y": 2413
+            "x": 951,
+            "y": 2478
           }
         ]
       },
@@ -10852,8 +10803,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1135,
-            "y": 2445
+            "x": 1065,
+            "y": 2508
           }
         ]
       },
@@ -10873,8 +10824,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 571,
-            "y": 2539
+            "x": 536,
+            "y": 2596
           }
         ]
       },
@@ -10894,8 +10845,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 859,
-            "y": 2542
+            "x": 807,
+            "y": 2599
           }
         ]
       },
@@ -10915,8 +10866,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 656,
-            "y": 2571
+            "x": 616,
+            "y": 2626
           }
         ]
       },
@@ -10954,8 +10905,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 543,
-            "y": 2574
+            "x": 510,
+            "y": 2628
           }
         ]
       },
@@ -10975,8 +10926,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1102,
-            "y": 2575
+            "x": 1034,
+            "y": 2630
           }
         ]
       },
@@ -11005,8 +10956,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1094,
-            "y": 2594
+            "x": 1026,
+            "y": 2648
           }
         ]
       },
@@ -11026,8 +10977,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 742,
-            "y": 2621
+            "x": 697,
+            "y": 2673
           }
         ]
       },
@@ -11047,8 +10998,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 931,
-            "y": 2626
+            "x": 874,
+            "y": 2677
           }
         ]
       },
@@ -11068,8 +11019,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 780,
-            "y": 2636
+            "x": 732,
+            "y": 2687
           }
         ]
       },
@@ -11098,8 +11049,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 1096,
-            "y": 2638
+            "x": 1029,
+            "y": 2689
           }
         ]
       },
@@ -11119,8 +11070,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 742,
-            "y": 2640
+            "x": 697,
+            "y": 2690
           }
         ]
       },
@@ -11203,8 +11154,8 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 659,
-            "y": 2700
+            "x": 619,
+            "y": 2747
           }
         ]
       },
@@ -11224,8 +11175,27 @@
         "map_locations": [
           {
             "map": "E2M6",
-            "x": 916,
-            "y": 2699
+            "x": 860,
+            "y": 2746
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792064"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M6",
+            "x": 637,
+            "y": 199,
+            "size": 44
           }
         ]
       }
@@ -11240,25 +11210,6 @@
       "inc_e2m7"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792177"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M7",
-            "x": 2691,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Shotgun 1",
         "sections": [
@@ -11275,38 +11226,29 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 865,
+            "x": 861,
             "y": 186
           }
         ]
       },
       {
-        "name": "Box of Hunting Rifle Bullets 6 (+1)",
+        "name": "Box of Shotgun Shells 3",
         "sections": [
           {
-            "name": "Box of Hunting Rifle Bullets 6",
+            "name": "Box of Shotgun Shells 3",
             "access_rules": [
-              "$check|3495792084"
+              "$check|3495792096"
             ],
             "visibility_rules": [
               "opt_ammo"
-            ]
-          },
-          {
-            "name": "Hunting Rifle",
-            "access_rules": [
-              "$check|3495792169"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2447,
-            "y": 187
+            "x": 2620,
+            "y": 186
           }
         ]
       },
@@ -11335,8 +11277,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 815,
-            "y": 226
+            "x": 812,
+            "y": 225
           }
         ]
       },
@@ -11356,29 +11298,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 865,
-            "y": 297
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 3",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 3",
-            "access_rules": [
-              "$check|3495792096"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M7",
-            "x": 2444,
-            "y": 354
+            "x": 861,
+            "y": 296
           }
         ]
       },
@@ -11398,8 +11319,38 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 642,
-            "y": 378
+            "x": 640,
+            "y": 377
+          }
+        ]
+      },
+      {
+        "name": "Box of Hunting Rifle Bullets 6 (+1)",
+        "sections": [
+          {
+            "name": "Box of Hunting Rifle Bullets 6",
+            "access_rules": [
+              "$check|3495792084"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Hunting Rifle",
+            "access_rules": [
+              "$check|3495792169"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M7",
+            "x": 2438,
+            "y": 383
           }
         ]
       },
@@ -11438,7 +11389,7 @@
           {
             "map": "E2M7",
             "x": 88,
-            "y": 414
+            "y": 413
           }
         ]
       },
@@ -11467,7 +11418,7 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 829,
+            "x": 826,
             "y": 426
           }
         ]
@@ -11488,8 +11439,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 802,
-            "y": 427
+            "x": 799,
+            "y": 425
           }
         ]
       },
@@ -11509,8 +11460,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 849,
-            "y": 427
+            "x": 846,
+            "y": 425
           }
         ]
       },
@@ -11530,8 +11481,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 869,
-            "y": 427
+            "x": 866,
+            "y": 425
           }
         ]
       },
@@ -11551,8 +11502,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 888,
-            "y": 427
+            "x": 885,
+            "y": 425
           }
         ]
       },
@@ -11572,8 +11523,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 946,
-            "y": 427
+            "x": 942,
+            "y": 425
           }
         ]
       },
@@ -11593,8 +11544,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 964,
-            "y": 427
+            "x": 961,
+            "y": 425
           }
         ]
       },
@@ -11623,8 +11574,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 988,
-            "y": 427
+            "x": 984,
+            "y": 426
           }
         ]
       },
@@ -11644,8 +11595,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 755,
-            "y": 428
+            "x": 752,
+            "y": 426
           }
         ]
       },
@@ -11693,7 +11644,7 @@
           {
             "map": "E2M7",
             "x": 88,
-            "y": 432
+            "y": 431
           }
         ]
       },
@@ -11722,8 +11673,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 188,
-            "y": 433
+            "x": 187,
+            "y": 432
           }
         ]
       },
@@ -11762,7 +11713,7 @@
           {
             "map": "E2M7",
             "x": 88,
-            "y": 449
+            "y": 448
           }
         ]
       },
@@ -11782,29 +11733,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 642,
-            "y": 479
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 12",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 12",
-            "access_rules": [
-              "$check|3495792076"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M7",
-            "x": 2444,
-            "y": 521
+            "x": 640,
+            "y": 477
           }
         ]
       },
@@ -11824,8 +11754,29 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 864,
-            "y": 550
+            "x": 860,
+            "y": 548
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 12",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 12",
+            "access_rules": [
+              "$check|3495792076"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M7",
+            "x": 2434,
+            "y": 549
           }
         ]
       },
@@ -11845,8 +11796,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2452,
-            "y": 594
+            "x": 2442,
+            "y": 622
           }
         ]
       },
@@ -11875,8 +11826,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 865,
-            "y": 660
+            "x": 861,
+            "y": 658
           }
         ]
       },
@@ -11896,8 +11847,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2447,
-            "y": 673
+            "x": 2437,
+            "y": 701
           }
         ]
       },
@@ -11962,8 +11913,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 278,
-            "y": 834
+            "x": 277,
+            "y": 833
           }
         ]
       },
@@ -12001,8 +11952,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2619,
-            "y": 844
+            "x": 2609,
+            "y": 872
           }
         ]
       },
@@ -12022,8 +11973,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2546,
-            "y": 895
+            "x": 2537,
+            "y": 922
           }
         ]
       },
@@ -12043,8 +11994,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2577,
-            "y": 895
+            "x": 2567,
+            "y": 922
           }
         ]
       },
@@ -12064,8 +12015,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2473,
-            "y": 896
+            "x": 2464,
+            "y": 923
           }
         ]
       },
@@ -12085,8 +12036,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2443,
-            "y": 897
+            "x": 2434,
+            "y": 924
           }
         ]
       },
@@ -12133,8 +12084,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 203,
-            "y": 944
+            "x": 202,
+            "y": 943
           }
         ]
       },
@@ -12154,29 +12105,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2443,
-            "y": 1063
-          }
-        ]
-      },
-      {
-        "name": "Rivets 2",
-        "sections": [
-          {
-            "name": "Rivets 2",
-            "access_rules": [
-              "$check|3495792105"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M7",
-            "x": 2493,
-            "y": 1090
+            "x": 2434,
+            "y": 1091
           }
         ]
       },
@@ -12196,8 +12126,29 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 863,
-            "y": 1113
+            "x": 859,
+            "y": 1112
+          }
+        ]
+      },
+      {
+        "name": "Rivets 2",
+        "sections": [
+          {
+            "name": "Rivets 2",
+            "access_rules": [
+              "$check|3495792105"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M7",
+            "x": 2483,
+            "y": 1118
           }
         ]
       },
@@ -12235,8 +12186,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 838,
-            "y": 1142
+            "x": 834,
+            "y": 1141
           }
         ]
       },
@@ -12256,29 +12207,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 891,
-            "y": 1143
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 8",
-        "sections": [
-          {
-            "name": "Medical Kit 8",
-            "access_rules": [
-              "$check|3495792133"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M7",
-            "x": 2466,
-            "y": 1215
+            "x": 887,
+            "y": 1142
           }
         ]
       },
@@ -12298,8 +12228,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 818,
-            "y": 1221
+            "x": 815,
+            "y": 1220
           }
         ]
       },
@@ -12319,8 +12249,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 635,
-            "y": 1229
+            "x": 633,
+            "y": 1227
           }
         ]
       },
@@ -12340,8 +12270,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 780,
-            "y": 1229
+            "x": 777,
+            "y": 1227
           }
         ]
       },
@@ -12361,8 +12291,29 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 595,
-            "y": 1232
+            "x": 593,
+            "y": 1231
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 8",
+        "sections": [
+          {
+            "name": "Medical Kit 8",
+            "access_rules": [
+              "$check|3495792133"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M7",
+            "x": 2457,
+            "y": 1243
           }
         ]
       },
@@ -12382,8 +12333,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 284,
-            "y": 1295
+            "x": 283,
+            "y": 1293
           }
         ]
       },
@@ -12412,8 +12363,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 93,
-            "y": 1297
+            "x": 92,
+            "y": 1295
           }
         ]
       },
@@ -12433,8 +12384,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 1022,
-            "y": 1326
+            "x": 1018,
+            "y": 1323
           }
         ]
       },
@@ -12454,8 +12405,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 746,
-            "y": 1327
+            "x": 743,
+            "y": 1325
           }
         ]
       },
@@ -12493,8 +12444,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 788,
-            "y": 1328
+            "x": 785,
+            "y": 1325
           }
         ]
       },
@@ -12541,8 +12492,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 1093,
-            "y": 1324
+            "x": 1088,
+            "y": 1322
           }
         ]
       },
@@ -12571,8 +12522,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 608,
-            "y": 1328
+            "x": 606,
+            "y": 1326
           }
         ]
       },
@@ -12628,8 +12579,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 284,
-            "y": 1331
+            "x": 283,
+            "y": 1329
           }
         ]
       },
@@ -12649,8 +12600,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2245,
-            "y": 1348
+            "x": 2236,
+            "y": 1346
           }
         ]
       },
@@ -12670,8 +12621,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 285,
-            "y": 1365
+            "x": 284,
+            "y": 1363
           }
         ]
       },
@@ -12701,7 +12652,7 @@
           {
             "map": "E2M7",
             "x": 91,
-            "y": 1368
+            "y": 1365
           }
         ]
       },
@@ -12730,8 +12681,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 2291,
-            "y": 1394
+            "x": 2282,
+            "y": 1391
           }
         ]
       },
@@ -12751,8 +12702,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 635,
-            "y": 1424
+            "x": 633,
+            "y": 1422
           }
         ]
       },
@@ -12772,8 +12723,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 780,
-            "y": 1424
+            "x": 777,
+            "y": 1422
           }
         ]
       },
@@ -12802,8 +12753,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 823,
-            "y": 1424
+            "x": 820,
+            "y": 1422
           }
         ]
       },
@@ -12823,8 +12774,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 863,
-            "y": 1473
+            "x": 859,
+            "y": 1470
           }
         ]
       },
@@ -12862,8 +12813,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 889,
-            "y": 1504
+            "x": 885,
+            "y": 1501
           }
         ]
       },
@@ -12883,8 +12834,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 863,
-            "y": 1537
+            "x": 859,
+            "y": 1534
           }
         ]
       },
@@ -12922,8 +12873,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 772,
-            "y": 1711
+            "x": 769,
+            "y": 1708
           }
         ]
       },
@@ -12943,8 +12894,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 788,
-            "y": 1753
+            "x": 785,
+            "y": 1750
           }
         ]
       },
@@ -12964,8 +12915,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 702,
-            "y": 1865
+            "x": 700,
+            "y": 1862
           }
         ]
       },
@@ -12985,8 +12936,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 723,
-            "y": 1865
+            "x": 720,
+            "y": 1862
           }
         ]
       },
@@ -13006,8 +12957,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 745,
-            "y": 1865
+            "x": 742,
+            "y": 1862
           }
         ]
       },
@@ -13027,8 +12978,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 764,
-            "y": 1865
+            "x": 761,
+            "y": 1862
           }
         ]
       },
@@ -13048,8 +12999,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 763,
-            "y": 1929
+            "x": 760,
+            "y": 1925
           }
         ]
       },
@@ -13069,8 +13020,8 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 723,
-            "y": 1930
+            "x": 720,
+            "y": 1927
           }
         ]
       },
@@ -13090,8 +13041,27 @@
         "map_locations": [
           {
             "map": "E2M7",
-            "x": 653,
-            "y": 1962
+            "x": 651,
+            "y": 1959
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792177"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M7",
+            "x": 2434,
+            "y": 216,
+            "size": 44
           }
         ]
       }
@@ -13106,25 +13076,6 @@
       "inc_e2m8"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792303"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M8",
-            "x": 1250,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Bag of Gems 6",
         "sections": [
@@ -13141,8 +13092,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 423,
-            "y": 218
+            "x": 417,
+            "y": 217
           }
         ]
       },
@@ -13171,8 +13122,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1027,
-            "y": 224
+            "x": 1011,
+            "y": 222
           }
         ]
       },
@@ -13192,8 +13143,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1000,
-            "y": 230
+            "x": 985,
+            "y": 228
           }
         ]
       },
@@ -13213,8 +13164,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1054,
-            "y": 232
+            "x": 1038,
+            "y": 230
           }
         ]
       },
@@ -13234,8 +13185,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 998,
-            "y": 271
+            "x": 983,
+            "y": 269
           }
         ]
       },
@@ -13327,8 +13278,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 920,
-            "y": 519
+            "x": 907,
+            "y": 512
           }
         ]
       },
@@ -13348,8 +13299,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 311,
-            "y": 575
+            "x": 306,
+            "y": 569
           }
         ]
       },
@@ -13369,8 +13320,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 758,
-            "y": 616
+            "x": 747,
+            "y": 608
           }
         ]
       },
@@ -13390,8 +13341,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 221,
-            "y": 624
+            "x": 217,
+            "y": 616
           }
         ]
       },
@@ -13411,8 +13362,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 405,
-            "y": 624
+            "x": 399,
+            "y": 616
           }
         ]
       },
@@ -13441,8 +13392,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 820,
-            "y": 680
+            "x": 807,
+            "y": 671
           }
         ]
       },
@@ -13480,8 +13431,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 376,
-            "y": 858
+            "x": 371,
+            "y": 849
           }
         ]
       },
@@ -13510,8 +13461,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 201,
-            "y": 914
+            "x": 198,
+            "y": 904
           }
         ]
       },
@@ -13549,8 +13500,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 932,
-            "y": 921
+            "x": 918,
+            "y": 909
           }
         ]
       },
@@ -13570,8 +13521,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 384,
-            "y": 913
+            "x": 378,
+            "y": 903
           }
         ]
       },
@@ -13591,8 +13542,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 440,
-            "y": 913
+            "x": 433,
+            "y": 903
           }
         ]
       },
@@ -13621,8 +13572,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 707,
-            "y": 938
+            "x": 697,
+            "y": 926
           }
         ]
       },
@@ -13678,8 +13629,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 358,
-            "y": 970
+            "x": 353,
+            "y": 959
           }
         ]
       },
@@ -13726,8 +13677,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 229,
-            "y": 951
+            "x": 226,
+            "y": 940
           }
         ]
       },
@@ -13747,8 +13698,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 806,
-            "y": 983
+            "x": 794,
+            "y": 970
           }
         ]
       },
@@ -13768,8 +13719,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 898,
-            "y": 983
+            "x": 884,
+            "y": 970
           }
         ]
       },
@@ -13816,8 +13767,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 440,
-            "y": 1029
+            "x": 432,
+            "y": 1017
           }
         ]
       },
@@ -13837,8 +13788,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1070,
-            "y": 1213
+            "x": 1054,
+            "y": 1199
           }
         ]
       },
@@ -13858,8 +13809,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 961,
-            "y": 1232
+            "x": 947,
+            "y": 1218
           }
         ]
       },
@@ -13879,8 +13830,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 995,
-            "y": 1232
+            "x": 980,
+            "y": 1218
           }
         ]
       },
@@ -13900,8 +13851,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1031,
-            "y": 1232
+            "x": 1016,
+            "y": 1218
           }
         ]
       },
@@ -13939,8 +13890,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 348,
-            "y": 1273
+            "x": 342,
+            "y": 1259
           }
         ]
       },
@@ -13960,8 +13911,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 897,
-            "y": 1296
+            "x": 884,
+            "y": 1281
           }
         ]
       },
@@ -13981,8 +13932,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 355,
-            "y": 1315
+            "x": 350,
+            "y": 1301
           }
         ]
       },
@@ -14020,8 +13971,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1058,
-            "y": 1327
+            "x": 1042,
+            "y": 1311
           }
         ]
       },
@@ -14050,13 +14001,13 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 982,
-            "y": 1345
+            "x": 968,
+            "y": 1328
           }
         ]
       },
       {
-        "name": "Small Medical Kit 5",
+        "name": "Small Medical Kit 5 (+1)",
         "sections": [
           {
             "name": "Small Medical Kit 5",
@@ -14066,19 +14017,7 @@
             "visibility_rules": [
               "opt_health"
             ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M8",
-            "x": 950,
-            "y": 1352
-          }
-        ]
-      },
-      {
-        "name": "Secret Area 2",
-        "sections": [
+          },
           {
             "name": "Secret Area 2",
             "access_rules": [
@@ -14092,8 +14031,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 961,
-            "y": 1368
+            "x": 940,
+            "y": 1344
           }
         ]
       },
@@ -14131,8 +14070,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1037,
-            "y": 1390
+            "x": 1021,
+            "y": 1373
           }
         ]
       },
@@ -14152,8 +14091,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 860,
-            "y": 1488
+            "x": 847,
+            "y": 1470
           }
         ]
       },
@@ -14173,8 +14112,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 929,
-            "y": 1494
+            "x": 915,
+            "y": 1475
           }
         ]
       },
@@ -14194,8 +14133,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 895,
-            "y": 1497
+            "x": 881,
+            "y": 1478
           }
         ]
       },
@@ -14233,8 +14172,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 789,
-            "y": 1566
+            "x": 778,
+            "y": 1546
           }
         ]
       },
@@ -14326,8 +14265,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 299,
-            "y": 1570
+            "x": 294,
+            "y": 1554
           }
         ]
       },
@@ -14356,8 +14295,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 299,
-            "y": 1615
+            "x": 294,
+            "y": 1598
           }
         ]
       },
@@ -14377,8 +14316,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 269,
-            "y": 1689
+            "x": 265,
+            "y": 1671
           }
         ]
       },
@@ -14398,8 +14337,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 267,
-            "y": 1742
+            "x": 263,
+            "y": 1723
           }
         ]
       },
@@ -14419,8 +14358,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1072,
-            "y": 1795
+            "x": 1056,
+            "y": 1774
           }
         ]
       },
@@ -14449,8 +14388,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1041,
-            "y": 1814
+            "x": 1025,
+            "y": 1793
           }
         ]
       },
@@ -14479,8 +14418,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 295,
-            "y": 1834
+            "x": 291,
+            "y": 1814
           }
         ]
       },
@@ -14500,8 +14439,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 214,
-            "y": 1858
+            "x": 211,
+            "y": 1838
           }
         ]
       },
@@ -14521,8 +14460,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 380,
-            "y": 1858
+            "x": 374,
+            "y": 1838
           }
         ]
       },
@@ -14542,8 +14481,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1082,
-            "y": 1879
+            "x": 1066,
+            "y": 1857
           }
         ]
       },
@@ -14599,8 +14538,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 1087,
-            "y": 1942
+            "x": 1071,
+            "y": 1918
           }
         ]
       },
@@ -14764,29 +14703,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 267,
-            "y": 2125
-          }
-        ]
-      },
-      {
-        "name": "Box of Hunting Rifle Bullets 4",
-        "sections": [
-          {
-            "name": "Box of Hunting Rifle Bullets 4",
-            "access_rules": [
-              "$check|3495792191"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M8",
-            "x": 310,
-            "y": 2123
+            "x": 263,
+            "y": 2102
           }
         ]
       },
@@ -14806,8 +14724,29 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 350,
-            "y": 2123
+            "x": 344,
+            "y": 2099
+          }
+        ]
+      },
+      {
+        "name": "Box of Hunting Rifle Bullets 4",
+        "sections": [
+          {
+            "name": "Box of Hunting Rifle Bullets 4",
+            "access_rules": [
+              "$check|3495792191"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M8",
+            "x": 306,
+            "y": 2100
           }
         ]
       },
@@ -14827,8 +14766,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 356,
-            "y": 2163
+            "x": 350,
+            "y": 2139
           }
         ]
       },
@@ -14857,13 +14796,13 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 354,
-            "y": 2198
+            "x": 348,
+            "y": 2173
           }
         ]
       },
       {
-        "name": "Bag of Gems 1 (+1)",
+        "name": "Bag of Gems 1",
         "sections": [
           {
             "name": "Bag of Gems 1",
@@ -14873,7 +14812,19 @@
             "visibility_rules": [
               "opt_armor"
             ]
-          },
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M8",
+            "x": 286,
+            "y": 2427
+          }
+        ]
+      },
+      {
+        "name": "Riveter",
+        "sections": [
           {
             "name": "Riveter",
             "access_rules": [
@@ -14887,8 +14838,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 292,
-            "y": 2464
+            "x": 291,
+            "y": 2443
           }
         ]
       },
@@ -14908,8 +14859,8 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 210,
-            "y": 2520
+            "x": 207,
+            "y": 2491
           }
         ]
       },
@@ -14929,8 +14880,27 @@
         "map_locations": [
           {
             "map": "E2M8",
-            "x": 384,
-            "y": 2520
+            "x": 378,
+            "y": 2491
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792303"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M8",
+            "x": 968,
+            "y": 2150,
+            "size": 44
           }
         ]
       }
@@ -15802,7 +15772,7 @@
           {
             "map": "E2M9",
             "x": 1599,
-            "y": 791
+            "y": 792
           }
         ]
       },
@@ -15823,7 +15793,7 @@
           {
             "map": "E2M9",
             "x": 1601,
-            "y": 855
+            "y": 856
           }
         ]
       },
@@ -15853,7 +15823,7 @@
           {
             "map": "E2M9",
             "x": 1580,
-            "y": 899
+            "y": 900
           }
         ]
       },
@@ -15874,7 +15844,7 @@
           {
             "map": "E2M9",
             "x": 817,
-            "y": 1001
+            "y": 1002
           }
         ]
       },
@@ -15913,7 +15883,7 @@
           {
             "map": "E2M9",
             "x": 1742,
-            "y": 1006
+            "y": 1007
           }
         ]
       },
@@ -15982,7 +15952,7 @@
           {
             "map": "E2M9",
             "x": 1495,
-            "y": 1106
+            "y": 1107
           }
         ]
       },
@@ -16012,7 +15982,7 @@
           {
             "map": "E2M9",
             "x": 1650,
-            "y": 1168
+            "y": 1169
           }
         ]
       },
@@ -16033,7 +16003,7 @@
           {
             "map": "E2M9",
             "x": 628,
-            "y": 1269
+            "y": 1270
           }
         ]
       },
@@ -16054,7 +16024,7 @@
           {
             "map": "E2M9",
             "x": 780,
-            "y": 1351
+            "y": 1352
           }
         ]
       },
@@ -16075,7 +16045,7 @@
           {
             "map": "E2M9",
             "x": 780,
-            "y": 1371
+            "y": 1372
           }
         ]
       },
@@ -16096,7 +16066,7 @@
           {
             "map": "E2M9",
             "x": 2311,
-            "y": 1457
+            "y": 1459
           }
         ]
       },
@@ -16117,7 +16087,7 @@
           {
             "map": "E2M9",
             "x": 756,
-            "y": 1470
+            "y": 1471
           }
         ]
       },
@@ -16138,7 +16108,7 @@
           {
             "map": "E2M9",
             "x": 804,
-            "y": 1472
+            "y": 1473
           }
         ]
       },
@@ -16159,7 +16129,7 @@
           {
             "map": "E2M9",
             "x": 2403,
-            "y": 1571
+            "y": 1573
           }
         ]
       },
@@ -16180,7 +16150,7 @@
           {
             "map": "E2M9",
             "x": 2403,
-            "y": 1593
+            "y": 1595
           }
         ]
       },
@@ -16210,7 +16180,7 @@
           {
             "map": "E2M9",
             "x": 2299,
-            "y": 1609
+            "y": 1611
           }
         ]
       },
@@ -16231,7 +16201,7 @@
           {
             "map": "E2M9",
             "x": 2403,
-            "y": 1619
+            "y": 1621
           }
         ]
       },
@@ -16270,7 +16240,7 @@
           {
             "map": "E2M9",
             "x": 2261,
-            "y": 1649
+            "y": 1651
           }
         ]
       },
@@ -16300,7 +16270,7 @@
           {
             "map": "E2M9",
             "x": 2299,
-            "y": 1645
+            "y": 1647
           }
         ]
       },
@@ -16321,7 +16291,7 @@
           {
             "map": "E2M9",
             "x": 2403,
-            "y": 1647
+            "y": 1649
           }
         ]
       },
@@ -16342,7 +16312,7 @@
           {
             "map": "E2M9",
             "x": 2403,
-            "y": 1673
+            "y": 1675
           }
         ]
       },
@@ -16372,7 +16342,7 @@
           {
             "map": "E2M9",
             "x": 2327,
-            "y": 1760
+            "y": 1762
           }
         ]
       },
@@ -16393,7 +16363,7 @@
           {
             "map": "E2M9",
             "x": 555,
-            "y": 1758
+            "y": 1760
           }
         ]
       },
@@ -16414,7 +16384,7 @@
           {
             "map": "E2M9",
             "x": 579,
-            "y": 1758
+            "y": 1760
           }
         ]
       },
@@ -16435,7 +16405,7 @@
           {
             "map": "E2M9",
             "x": 2307,
-            "y": 1775
+            "y": 1777
           }
         ]
       },
@@ -16456,7 +16426,7 @@
           {
             "map": "E2M9",
             "x": 2289,
-            "y": 1791
+            "y": 1793
           }
         ]
       },
@@ -16477,7 +16447,7 @@
           {
             "map": "E2M9",
             "x": 2305,
-            "y": 1791
+            "y": 1793
           }
         ]
       },
@@ -16498,7 +16468,7 @@
           {
             "map": "E2M9",
             "x": 2321,
-            "y": 1791
+            "y": 1793
           }
         ]
       },
@@ -16519,7 +16489,7 @@
           {
             "map": "E2M9",
             "x": 2407,
-            "y": 1804
+            "y": 1806
           }
         ]
       },
@@ -16540,7 +16510,7 @@
           {
             "map": "E2M9",
             "x": 481,
-            "y": 1868
+            "y": 1870
           }
         ]
       },
@@ -16561,7 +16531,7 @@
           {
             "map": "E2M9",
             "x": 2406,
-            "y": 1883
+            "y": 1885
           }
         ]
       },
@@ -16582,7 +16552,7 @@
           {
             "map": "E2M9",
             "x": 2255,
-            "y": 1884
+            "y": 1886
           }
         ]
       },
@@ -16603,7 +16573,7 @@
           {
             "map": "E2M9",
             "x": 2560,
-            "y": 1884
+            "y": 1886
           }
         ]
       },
@@ -16624,7 +16594,7 @@
           {
             "map": "E2M9",
             "x": 461,
-            "y": 1987
+            "y": 1989
           }
         ]
       },
@@ -16645,7 +16615,7 @@
           {
             "map": "E2M9",
             "x": 2333,
-            "y": 2023
+            "y": 2025
           }
         ]
       },
@@ -16666,7 +16636,7 @@
           {
             "map": "E2M9",
             "x": 2316,
-            "y": 2035
+            "y": 2037
           }
         ]
       },
@@ -16705,7 +16675,7 @@
           {
             "map": "E2M9",
             "x": 2486,
-            "y": 2034
+            "y": 2036
           }
         ]
       },
@@ -16726,7 +16696,7 @@
           {
             "map": "E2M9",
             "x": 2333,
-            "y": 2045
+            "y": 2047
           }
         ]
       },
@@ -16747,7 +16717,7 @@
           {
             "map": "E2M9",
             "x": 650,
-            "y": 2067
+            "y": 2069
           }
         ]
       },
@@ -16768,7 +16738,7 @@
           {
             "map": "E2M9",
             "x": 650,
-            "y": 2083
+            "y": 2085
           }
         ]
       },
@@ -16789,7 +16759,7 @@
           {
             "map": "E2M9",
             "x": 2389,
-            "y": 2098
+            "y": 2100
           }
         ]
       },
@@ -16810,26 +16780,7 @@
           {
             "map": "E2M9",
             "x": 2425,
-            "y": 2098
-          }
-        ]
-      },
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792416"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M9",
-            "x": 2405,
-            "y": 2161,
-            "size": 48
+            "y": 2100
           }
         ]
       },
@@ -16859,7 +16810,7 @@
           {
             "map": "E2M9",
             "x": 216,
-            "y": 2285
+            "y": 2287
           }
         ]
       },
@@ -16880,7 +16831,26 @@
           {
             "map": "E2M9",
             "x": 387,
-            "y": 2408
+            "y": 2410
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792416"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M9",
+            "x": 2405,
+            "y": 2163,
+            "size": 44
           }
         ]
       }
@@ -16895,25 +16865,6 @@
       "inc_e2m10"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792521"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1175,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Rivets 41",
         "sections": [
@@ -17171,7 +17122,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 708
+            "y": 709
           }
         ]
       },
@@ -17213,7 +17164,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 768
+            "y": 769
           }
         ]
       },
@@ -17234,7 +17185,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 800
+            "y": 802
           }
         ]
       },
@@ -17255,7 +17206,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 833
+            "y": 834
           }
         ]
       },
@@ -17276,7 +17227,7 @@
           {
             "map": "E2M10",
             "x": 684,
-            "y": 840
+            "y": 842
           }
         ]
       },
@@ -17297,7 +17248,7 @@
           {
             "map": "E2M10",
             "x": 684,
-            "y": 860
+            "y": 862
           }
         ]
       },
@@ -17360,7 +17311,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 900
+            "y": 902
           }
         ]
       },
@@ -17402,7 +17353,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 933
+            "y": 934
           }
         ]
       },
@@ -17444,7 +17395,7 @@
           {
             "map": "E2M10",
             "x": 449,
-            "y": 953
+            "y": 954
           }
         ]
       },
@@ -17465,7 +17416,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 960
+            "y": 962
           }
         ]
       },
@@ -17486,7 +17437,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 993
+            "y": 994
           }
         ]
       },
@@ -17516,7 +17467,7 @@
           {
             "map": "E2M10",
             "x": 456,
-            "y": 1044
+            "y": 1046
           }
         ]
       },
@@ -17537,7 +17488,7 @@
           {
             "map": "E2M10",
             "x": 480,
-            "y": 1044
+            "y": 1046
           }
         ]
       },
@@ -17579,7 +17530,7 @@
           {
             "map": "E2M10",
             "x": 602,
-            "y": 1236
+            "y": 1237
           }
         ]
       },
@@ -17600,7 +17551,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1335
+            "y": 1336
           }
         ]
       },
@@ -17621,7 +17572,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1335
+            "y": 1336
           }
         ]
       },
@@ -17642,7 +17593,7 @@
           {
             "map": "E2M10",
             "x": 690,
-            "y": 1349
+            "y": 1350
           }
         ]
       },
@@ -17663,7 +17614,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1358
+            "y": 1359
           }
         ]
       },
@@ -17684,7 +17635,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1358
+            "y": 1359
           }
         ]
       },
@@ -17705,7 +17656,7 @@
           {
             "map": "E2M10",
             "x": 769,
-            "y": 1360
+            "y": 1362
           }
         ]
       },
@@ -17726,7 +17677,7 @@
           {
             "map": "E2M10",
             "x": 794,
-            "y": 1360
+            "y": 1362
           }
         ]
       },
@@ -17747,7 +17698,7 @@
           {
             "map": "E2M10",
             "x": 819,
-            "y": 1360
+            "y": 1362
           }
         ]
       },
@@ -17768,7 +17719,7 @@
           {
             "map": "E2M10",
             "x": 844,
-            "y": 1360
+            "y": 1362
           }
         ]
       },
@@ -17789,7 +17740,7 @@
           {
             "map": "E2M10",
             "x": 869,
-            "y": 1360
+            "y": 1362
           }
         ]
       },
@@ -17810,7 +17761,7 @@
           {
             "map": "E2M10",
             "x": 894,
-            "y": 1360
+            "y": 1362
           }
         ]
       },
@@ -17831,7 +17782,7 @@
           {
             "map": "E2M10",
             "x": 739,
-            "y": 1363
+            "y": 1364
           }
         ]
       },
@@ -17852,7 +17803,7 @@
           {
             "map": "E2M10",
             "x": 690,
-            "y": 1376
+            "y": 1377
           }
         ]
       },
@@ -17873,7 +17824,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1383
+            "y": 1384
           }
         ]
       },
@@ -17894,7 +17845,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1383
+            "y": 1384
           }
         ]
       },
@@ -17915,7 +17866,7 @@
           {
             "map": "E2M10",
             "x": 724,
-            "y": 1388
+            "y": 1389
           }
         ]
       },
@@ -17936,7 +17887,7 @@
           {
             "map": "E2M10",
             "x": 742,
-            "y": 1388
+            "y": 1389
           }
         ]
       },
@@ -17957,7 +17908,7 @@
           {
             "map": "E2M10",
             "x": 759,
-            "y": 1388
+            "y": 1389
           }
         ]
       },
@@ -17978,7 +17929,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1405
+            "y": 1406
           }
         ]
       },
@@ -17999,7 +17950,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1405
+            "y": 1406
           }
         ]
       },
@@ -18020,7 +17971,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1428
+            "y": 1429
           }
         ]
       },
@@ -18041,7 +17992,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1428
+            "y": 1429
           }
         ]
       },
@@ -18062,7 +18013,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1450
+            "y": 1451
           }
         ]
       },
@@ -18083,7 +18034,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1450
+            "y": 1451
           }
         ]
       },
@@ -18104,7 +18055,7 @@
           {
             "map": "E2M10",
             "x": 1044,
-            "y": 1473
+            "y": 1474
           }
         ]
       },
@@ -18125,7 +18076,7 @@
           {
             "map": "E2M10",
             "x": 1064,
-            "y": 1473
+            "y": 1474
           }
         ]
       },
@@ -18146,28 +18097,7 @@
           {
             "map": "E2M10",
             "x": 601,
-            "y": 1491
-          }
-        ]
-      },
-      {
-        "name": "Super Shotgun 1",
-        "sections": [
-          {
-            "name": "Super Shotgun 1",
-            "access_rules": [
-              "$check|3495792519"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1043,
-            "y": 1498
+            "y": 1492
           }
         ]
       },
@@ -18193,6 +18123,27 @@
         ]
       },
       {
+        "name": "Super Shotgun 1",
+        "sections": [
+          {
+            "name": "Super Shotgun 1",
+            "access_rules": [
+              "$check|3495792519"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 1043,
+            "y": 1499
+          }
+        ]
+      },
+      {
         "name": "Box of Shotgun Shells 1",
         "sections": [
           {
@@ -18209,7 +18160,7 @@
           {
             "map": "E2M10",
             "x": 1052,
-            "y": 1706
+            "y": 1707
           }
         ]
       },
@@ -18230,7 +18181,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1723
+            "y": 1724
           }
         ]
       },
@@ -18251,7 +18202,7 @@
           {
             "map": "E2M10",
             "x": 951,
-            "y": 1723
+            "y": 1724
           }
         ]
       },
@@ -18272,7 +18223,7 @@
           {
             "map": "E2M10",
             "x": 951,
-            "y": 1746
+            "y": 1747
           }
         ]
       },
@@ -18314,7 +18265,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1788
+            "y": 1789
           }
         ]
       },
@@ -18335,7 +18286,7 @@
           {
             "map": "E2M10",
             "x": 379,
-            "y": 1798
+            "y": 1799
           }
         ]
       },
@@ -18356,7 +18307,7 @@
           {
             "map": "E2M10",
             "x": 1052,
-            "y": 1803
+            "y": 1804
           }
         ]
       },
@@ -18377,7 +18328,7 @@
           {
             "map": "E2M10",
             "x": 402,
-            "y": 1808
+            "y": 1809
           }
         ]
       },
@@ -18398,7 +18349,7 @@
           {
             "map": "E2M10",
             "x": 359,
-            "y": 1810
+            "y": 1812
           }
         ]
       },
@@ -18419,7 +18370,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1820
+            "y": 1822
           }
         ]
       },
@@ -18440,7 +18391,7 @@
           {
             "map": "E2M10",
             "x": 1052,
-            "y": 1821
+            "y": 1822
           }
         ]
       },
@@ -18461,7 +18412,7 @@
           {
             "map": "E2M10",
             "x": 419,
-            "y": 1833
+            "y": 1834
           }
         ]
       },
@@ -18482,7 +18433,7 @@
           {
             "map": "E2M10",
             "x": 349,
-            "y": 1843
+            "y": 1844
           }
         ]
       },
@@ -18503,7 +18454,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1853
+            "y": 1854
           }
         ]
       },
@@ -18524,7 +18475,7 @@
           {
             "map": "E2M10",
             "x": 432,
-            "y": 1863
+            "y": 1864
           }
         ]
       },
@@ -18545,7 +18496,7 @@
           {
             "map": "E2M10",
             "x": 642,
-            "y": 1873
+            "y": 1874
           }
         ]
       },
@@ -18575,7 +18526,7 @@
           {
             "map": "E2M10",
             "x": 666,
-            "y": 1873
+            "y": 1874
           }
         ]
       },
@@ -18617,7 +18568,7 @@
           {
             "map": "E2M10",
             "x": 409,
-            "y": 1880
+            "y": 1882
           }
         ]
       },
@@ -18638,7 +18589,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1888
+            "y": 1889
           }
         ]
       },
@@ -18659,7 +18610,7 @@
           {
             "map": "E2M10",
             "x": 1041,
-            "y": 1902
+            "y": 1903
           }
         ]
       },
@@ -18680,7 +18631,7 @@
           {
             "map": "E2M10",
             "x": 1061,
-            "y": 1902
+            "y": 1903
           }
         ]
       },
@@ -18701,7 +18652,7 @@
           {
             "map": "E2M10",
             "x": 463,
-            "y": 1907
+            "y": 1908
           }
         ]
       },
@@ -18722,7 +18673,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1920
+            "y": 1922
           }
         ]
       },
@@ -18743,7 +18694,7 @@
           {
             "map": "E2M10",
             "x": 500,
-            "y": 1922
+            "y": 1923
           }
         ]
       },
@@ -18764,7 +18715,7 @@
           {
             "map": "E2M10",
             "x": 1041,
-            "y": 1924
+            "y": 1925
           }
         ]
       },
@@ -18785,7 +18736,7 @@
           {
             "map": "E2M10",
             "x": 1061,
-            "y": 1924
+            "y": 1925
           }
         ]
       },
@@ -18806,7 +18757,7 @@
           {
             "map": "E2M10",
             "x": 528,
-            "y": 1935
+            "y": 1936
           }
         ]
       },
@@ -18827,7 +18778,7 @@
           {
             "map": "E2M10",
             "x": 547,
-            "y": 1941
+            "y": 1942
           }
         ]
       },
@@ -18848,7 +18799,7 @@
           {
             "map": "E2M10",
             "x": 1041,
-            "y": 1947
+            "y": 1948
           }
         ]
       },
@@ -18869,7 +18820,7 @@
           {
             "map": "E2M10",
             "x": 1061,
-            "y": 1947
+            "y": 1948
           }
         ]
       },
@@ -18890,7 +18841,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1948
+            "y": 1949
           }
         ]
       },
@@ -18911,7 +18862,7 @@
           {
             "map": "E2M10",
             "x": 1052,
-            "y": 1966
+            "y": 1967
           }
         ]
       },
@@ -18953,7 +18904,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1980
+            "y": 1982
           }
         ]
       },
@@ -18995,7 +18946,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 2053
+            "y": 2054
           }
         ]
       },
@@ -19016,7 +18967,7 @@
           {
             "map": "E2M10",
             "x": 649,
-            "y": 2090
+            "y": 2092
           }
         ]
       },
@@ -19037,7 +18988,7 @@
           {
             "map": "E2M10",
             "x": 672,
-            "y": 2090
+            "y": 2092
           }
         ]
       },
@@ -19058,7 +19009,26 @@
           {
             "map": "E2M10",
             "x": 694,
-            "y": 2090
+            "y": 2092
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792521"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 976,
+            "y": 1359,
+            "size": 44
           }
         ]
       }
@@ -19073,25 +19043,6 @@
       "inc_e2ms"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792622"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2MS",
-            "x": 2342,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Blue Key",
         "sections": [
@@ -19114,48 +19065,6 @@
         ]
       },
       {
-        "name": "Assault Rifle Magazine 1",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 1",
-            "access_rules": [
-              "$check|3495792522"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2MS",
-            "x": 2122,
-            "y": 214
-          }
-        ]
-      },
-      {
-        "name": "Small Medical Kit 2",
-        "sections": [
-          {
-            "name": "Small Medical Kit 2",
-            "access_rules": [
-              "$check|3495792598"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2MS",
-            "x": 2202,
-            "y": 434
-          }
-        ]
-      },
-      {
         "name": "Crossbow Bolts 2",
         "sections": [
           {
@@ -19172,7 +19081,28 @@
           {
             "map": "E2MS",
             "x": 469,
-            "y": 435
+            "y": 436
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 1",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 1",
+            "access_rules": [
+              "$check|3495792522"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2MS",
+            "x": 2122,
+            "y": 436
           }
         ]
       },
@@ -19201,8 +19131,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 512,
-            "y": 441
+            "x": 511,
+            "y": 442
           }
         ]
       },
@@ -19223,28 +19153,7 @@
           {
             "map": "E2MS",
             "x": 469,
-            "y": 454
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 1",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 1",
-            "access_rules": [
-              "$check|3495792541"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2MS",
-            "x": 2163,
-            "y": 462
+            "y": 455
           }
         ]
       },
@@ -19264,29 +19173,29 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1465,
+            "x": 1464,
             "y": 542
           }
         ]
       },
       {
-        "name": "Red Key",
+        "name": "Small Medical Kit 2",
         "sections": [
           {
-            "name": "Red Key",
+            "name": "Small Medical Kit 2",
             "access_rules": [
-              "$check|3495792603"
+              "$check|3495792598"
             ],
             "visibility_rules": [
-              "opt_keys"
+              "opt_health"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 2122,
-            "y": 574
+            "x": 2202,
+            "y": 657
           }
         ]
       },
@@ -19307,7 +19216,7 @@
           {
             "map": "E2MS",
             "x": 456,
-            "y": 674
+            "y": 676
           }
         ]
       },
@@ -19327,7 +19236,28 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1457,
+            "x": 1456,
+            "y": 685
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 1",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 1",
+            "access_rules": [
+              "$check|3495792541"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2MS",
+            "x": 2163,
             "y": 685
           }
         ]
@@ -19349,7 +19279,7 @@
           {
             "map": "E2MS",
             "x": 522,
-            "y": 697
+            "y": 699
           }
         ]
       },
@@ -19369,7 +19299,7 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1457,
+            "x": 1456,
             "y": 720
           }
         ]
@@ -19390,7 +19320,7 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1534,
+            "x": 1533,
             "y": 742
           }
         ]
@@ -19412,7 +19342,7 @@
           {
             "map": "E2MS",
             "x": 487,
-            "y": 772
+            "y": 774
           }
         ]
       },
@@ -19433,20 +19363,20 @@
           {
             "map": "E2MS",
             "x": 522,
-            "y": 772
+            "y": 774
           }
         ]
       },
       {
-        "name": "Diamond 2",
+        "name": "Red Key",
         "sections": [
           {
-            "name": "Diamond 2",
+            "name": "Red Key",
             "access_rules": [
-              "$check|3495792569"
+              "$check|3495792603"
             ],
             "visibility_rules": [
-              "opt_armor"
+              "opt_keys"
             ]
           }
         ],
@@ -19454,28 +19384,28 @@
           {
             "map": "E2MS",
             "x": 2122,
-            "y": 795
+            "y": 797
           }
         ]
       },
       {
-        "name": "Box of Hunting Rifle Bullets 1",
+        "name": "Secret Area 3",
         "sections": [
           {
-            "name": "Box of Hunting Rifle Bullets 1",
+            "name": "Secret Area 3",
             "access_rules": [
-              "$check|3495792536"
+              "$check|3495792612"
             ],
             "visibility_rules": [
-              "opt_ammo"
+              "opt_secrets"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 2187,
-            "y": 796
+            "x": 1500,
+            "y": 804
           }
         ]
       },
@@ -19496,28 +19426,7 @@
           {
             "map": "E2MS",
             "x": 460,
-            "y": 804
-          }
-        ]
-      },
-      {
-        "name": "Secret Area 3",
-        "sections": [
-          {
-            "name": "Secret Area 3",
-            "access_rules": [
-              "$check|3495792612"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2MS",
-            "x": 1501,
-            "y": 804
+            "y": 806
           }
         ]
       },
@@ -19538,7 +19447,7 @@
           {
             "map": "E2MS",
             "x": 522,
-            "y": 808
+            "y": 810
           }
         ]
       },
@@ -19559,7 +19468,7 @@
           {
             "map": "E2MS",
             "x": 524,
-            "y": 844
+            "y": 846
           }
         ]
       },
@@ -19619,7 +19528,7 @@
           {
             "map": "E2MS",
             "x": 472,
-            "y": 928
+            "y": 930
           }
         ]
       },
@@ -19640,7 +19549,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 955
+            "y": 957
           }
         ]
       },
@@ -19661,7 +19570,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 975
+            "y": 977
           }
         ]
       },
@@ -19682,7 +19591,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 998
+            "y": 1000
           }
         ]
       },
@@ -19711,8 +19620,50 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1572,
+            "x": 1571,
             "y": 997
+          }
+        ]
+      },
+      {
+        "name": "Diamond 2",
+        "sections": [
+          {
+            "name": "Diamond 2",
+            "access_rules": [
+              "$check|3495792569"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2MS",
+            "x": 2121,
+            "y": 1019
+          }
+        ]
+      },
+      {
+        "name": "Box of Hunting Rifle Bullets 1",
+        "sections": [
+          {
+            "name": "Box of Hunting Rifle Bullets 1",
+            "access_rules": [
+              "$check|3495792536"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2MS",
+            "x": 2187,
+            "y": 1020
           }
         ]
       },
@@ -19733,7 +19684,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 1019
+            "y": 1021
           }
         ]
       },
@@ -19754,7 +19705,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 1042
+            "y": 1044
           }
         ]
       },
@@ -19775,7 +19726,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 1064
+            "y": 1066
           }
         ]
       },
@@ -19796,7 +19747,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 1087
+            "y": 1089
           }
         ]
       },
@@ -19817,7 +19768,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 1108
+            "y": 1110
           }
         ]
       },
@@ -19838,7 +19789,7 @@
           {
             "map": "E2MS",
             "x": 525,
-            "y": 1127
+            "y": 1129
           }
         ]
       },
@@ -19886,7 +19837,7 @@
           {
             "map": "E2MS",
             "x": 1514,
-            "y": 1224
+            "y": 1225
           }
         ]
       },
@@ -19915,7 +19866,7 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1597,
+            "x": 1596,
             "y": 1228
           }
         ]
@@ -19936,8 +19887,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1497,
-            "y": 1288
+            "x": 1496,
+            "y": 1289
           }
         ]
       },
@@ -19958,7 +19909,7 @@
           {
             "map": "E2MS",
             "x": 1390,
-            "y": 1313
+            "y": 1314
           }
         ]
       },
@@ -19988,7 +19939,7 @@
           {
             "map": "E2MS",
             "x": 1502,
-            "y": 1320
+            "y": 1322
           }
         ]
       },
@@ -20017,8 +19968,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1592,
-            "y": 1314
+            "x": 1591,
+            "y": 1315
           }
         ]
       },
@@ -20038,8 +19989,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1405,
-            "y": 1342
+            "x": 1404,
+            "y": 1343
           }
         ]
       },
@@ -20077,8 +20028,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1593,
-            "y": 1346
+            "x": 1592,
+            "y": 1347
           }
         ]
       },
@@ -20117,7 +20068,7 @@
           {
             "map": "E2MS",
             "x": 456,
-            "y": 1359
+            "y": 1362
           }
         ]
       },
@@ -20138,7 +20089,7 @@
           {
             "map": "E2MS",
             "x": 522,
-            "y": 1365
+            "y": 1368
           }
         ]
       },
@@ -20159,7 +20110,7 @@
           {
             "map": "E2MS",
             "x": 1634,
-            "y": 1372
+            "y": 1373
           }
         ]
       },
@@ -20179,8 +20130,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 523,
-            "y": 1450
+            "x": 524,
+            "y": 1453
           }
         ]
       },
@@ -20201,7 +20152,7 @@
           {
             "map": "E2MS",
             "x": 1498,
-            "y": 1592
+            "y": 1594
           }
         ]
       },
@@ -20240,7 +20191,7 @@
           {
             "map": "E2MS",
             "x": 1432,
-            "y": 1627
+            "y": 1629
           }
         ]
       },
@@ -20261,7 +20212,7 @@
           {
             "map": "E2MS",
             "x": 1189,
-            "y": 1652
+            "y": 1654
           }
         ]
       },
@@ -20281,8 +20232,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1305,
-            "y": 1654
+            "x": 1306,
+            "y": 1656
           }
         ]
       },
@@ -20320,8 +20271,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1217,
-            "y": 1674
+            "x": 1218,
+            "y": 1676
           }
         ]
       },
@@ -20351,7 +20302,7 @@
           {
             "map": "E2MS",
             "x": 1352,
-            "y": 1671
+            "y": 1673
           }
         ]
       },
@@ -20398,8 +20349,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1454,
-            "y": 1699
+            "x": 1455,
+            "y": 1701
           }
         ]
       },
@@ -20420,7 +20371,7 @@
           {
             "map": "E2MS",
             "x": 1274,
-            "y": 1732
+            "y": 1734
           }
         ]
       },
@@ -20441,7 +20392,7 @@
           {
             "map": "E2MS",
             "x": 515,
-            "y": 1777
+            "y": 1780
           }
         ]
       },
@@ -20462,7 +20413,7 @@
           {
             "map": "E2MS",
             "x": 1247,
-            "y": 1783
+            "y": 1785
           }
         ]
       },
@@ -20491,8 +20442,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1238,
-            "y": 1865
+            "x": 1239,
+            "y": 1867
           }
         ]
       },
@@ -20530,8 +20481,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1123,
-            "y": 1896
+            "x": 1124,
+            "y": 1898
           }
         ]
       },
@@ -20579,7 +20530,7 @@
           {
             "map": "E2MS",
             "x": 1486,
-            "y": 2127
+            "y": 2130
           }
         ]
       },
@@ -20599,8 +20550,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1585,
-            "y": 2185
+            "x": 1584,
+            "y": 2188
           }
         ]
       },
@@ -20620,8 +20571,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1585,
-            "y": 2217
+            "x": 1584,
+            "y": 2220
           }
         ]
       },
@@ -20642,7 +20593,7 @@
           {
             "map": "E2MS",
             "x": 1407,
-            "y": 2260
+            "y": 2263
           }
         ]
       },
@@ -20699,7 +20650,7 @@
           {
             "map": "E2MS",
             "x": 1417,
-            "y": 2307
+            "y": 2310
           }
         ]
       },
@@ -20720,7 +20671,7 @@
           {
             "map": "E2MS",
             "x": 1553,
-            "y": 2376
+            "y": 2379
           }
         ]
       },
@@ -20740,8 +20691,8 @@
         "map_locations": [
           {
             "map": "E2MS",
-            "x": 1553,
-            "y": 2448
+            "x": 1552,
+            "y": 2451
           }
         ]
       },
@@ -20762,7 +20713,26 @@
           {
             "map": "E2MS",
             "x": 1553,
-            "y": 2522
+            "y": 2525
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792622"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2MS",
+            "x": 2121,
+            "y": 214,
+            "size": 44
           }
         ]
       }

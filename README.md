@@ -19,8 +19,9 @@ the goal are all set automatically.
   teleporters and jump pads are not detected.
   Small, far-off groups of checks get their own **detached area** panel.
 * **Every check** (3,228; Thermal Suits are never checks) placed at its in-game position. Checks within a few pixels
-  of each other share one pin; hover it to see each one. The **Level Complete** check sits on the exit button when
-  it's on the map, otherwise in the box at the top right.
+  of each other share one pin; hover it to see each one. The **Level Complete** check has its own pin (marked
+  EXIT) on every way out of the level: end-level buttons and walk-in loading zones. Levels with two exits get two
+  pins for the same check. E3M10 has no exit, so its pin (marked BOSS) is over the final boss.
 * **Category visibility**: pins for categories that aren't randomized in your seed are hidden
   (Settings row; set from slot data, or toggle by hand).
 * **Logic** mirrors the apworld:

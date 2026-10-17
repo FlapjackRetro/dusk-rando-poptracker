@@ -89,7 +89,7 @@ def build_locations(coords):
     for lv in LEVELS:
         code = lv["code"]
         parent_name = f"{code} {lv['name']}".replace("/", "-").replace(",", "")
-        locs = [l for l in LOCS if l["level"] == code]
+        locs = [l for l in LOCS if l["level"] == code and l["category"] != "level_complete"]
         pts = [(l, *coords[code][l["name"]]) for l in locs]
         groups = cluster(pts)
         groups.sort(key=lambda g: (g[0][2], g[0][1]))
@@ -114,10 +114,13 @@ def build_locations(coords):
             x = round(sum(p[1] for p in g) / len(g))
             y = round(sum(p[2] for p in g) / len(g))
             cats = {p[0]["category"] for p in g}
-            child = {"name": name, "sections": sections, "map_locations": [{"map": code, "x": x, "y": y}]}
-            if cats == {"level_complete"}:
-                child["map_locations"][0]["size"] = 48
-            children.append(child)
+            children.append({"name": name, "sections": sections, "map_locations": [{"map": code, "x": x, "y": y}]})
+        # Level Complete: its own pin on every exit (button / loading zone) of the level
+        lcl = next(l for l in LOCS if l["level"] == code and l["category"] == "level_complete")
+        sec = {"name": "Level Complete", "access_rules": [f"$check|{lcl['id']}"]}
+        loc_map[lcl["id"]] = f"@{parent_name}/Level Complete/Level Complete"
+        children.append({"name": "Level Complete", "sections": [sec], "map_locations": [
+            {"map": code, "x": x, "y": y, "size": 44} for x, y, _ in coords[code][lcl["name"]]]})
         by_ep[lv["episode"]].append({
             "name": parent_name,
             "access_rules": [f"$can_enter|{code}"],

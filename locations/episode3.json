@@ -720,25 +720,6 @@
         ]
       },
       {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792689"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M1",
-            "x": 2010,
-            "y": 1344,
-            "size": 48
-          }
-        ]
-      },
-      {
         "name": "Diamond 2",
         "sections": [
           {
@@ -755,7 +736,7 @@
           {
             "map": "E3M1",
             "x": 568,
-            "y": 1550
+            "y": 1551
           }
         ]
       },
@@ -776,7 +757,7 @@
           {
             "map": "E3M1",
             "x": 601,
-            "y": 1550
+            "y": 1551
           }
         ]
       },
@@ -797,7 +778,7 @@
           {
             "map": "E3M1",
             "x": 948,
-            "y": 1889
+            "y": 1890
           }
         ]
       },
@@ -836,7 +817,7 @@
           {
             "map": "E3M1",
             "x": 878,
-            "y": 1956
+            "y": 1957
           }
         ]
       },
@@ -857,7 +838,7 @@
           {
             "map": "E3M1",
             "x": 1017,
-            "y": 1948
+            "y": 1949
           }
         ]
       },
@@ -887,7 +868,7 @@
           {
             "map": "E3M1",
             "x": 877,
-            "y": 2212
+            "y": 2214
           }
         ]
       },
@@ -908,7 +889,7 @@
           {
             "map": "E3M1",
             "x": 888,
-            "y": 2335
+            "y": 2336
           }
         ]
       },
@@ -938,7 +919,7 @@
           {
             "map": "E3M1",
             "x": 578,
-            "y": 2336
+            "y": 2338
           }
         ]
       },
@@ -959,7 +940,7 @@
           {
             "map": "E3M1",
             "x": 420,
-            "y": 2405
+            "y": 2406
           }
         ]
       },
@@ -989,7 +970,7 @@
           {
             "map": "E3M1",
             "x": 614,
-            "y": 2441
+            "y": 2442
           }
         ]
       },
@@ -1010,7 +991,7 @@
           {
             "map": "E3M1",
             "x": 584,
-            "y": 2455
+            "y": 2456
           }
         ]
       },
@@ -1031,7 +1012,7 @@
           {
             "map": "E3M1",
             "x": 642,
-            "y": 2459
+            "y": 2460
           }
         ]
       },
@@ -1052,7 +1033,7 @@
           {
             "map": "E3M1",
             "x": 614,
-            "y": 2463
+            "y": 2464
           }
         ]
       },
@@ -1073,7 +1054,7 @@
           {
             "map": "E3M1",
             "x": 594,
-            "y": 2487
+            "y": 2488
           }
         ]
       },
@@ -1094,7 +1075,7 @@
           {
             "map": "E3M1",
             "x": 631,
-            "y": 2487
+            "y": 2488
           }
         ]
       },
@@ -1115,7 +1096,7 @@
           {
             "map": "E3M1",
             "x": 825,
-            "y": 2526
+            "y": 2527
           }
         ]
       },
@@ -1136,7 +1117,7 @@
           {
             "map": "E3M1",
             "x": 880,
-            "y": 2526
+            "y": 2527
           }
         ]
       },
@@ -1157,7 +1138,26 @@
           {
             "map": "E3M1",
             "x": 791,
-            "y": 2555
+            "y": 2556
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792689"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M1",
+            "x": 2010,
+            "y": 1344,
+            "size": 44
           }
         ]
       }
@@ -1172,25 +1172,6 @@
       "inc_e3m2"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792771"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M2",
-            "x": 2152,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Crossbow Bolts 6 (+1)",
         "sections": [
@@ -1216,8 +1197,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 691,
-            "y": 210
+            "x": 668,
+            "y": 208
           }
         ]
       },
@@ -1237,8 +1218,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1917,
-            "y": 211
+            "x": 1854,
+            "y": 209
           }
         ]
       },
@@ -1258,8 +1239,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 695,
-            "y": 228
+            "x": 672,
+            "y": 225
           }
         ]
       },
@@ -1279,8 +1260,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1156,
-            "y": 228
+            "x": 1118,
+            "y": 225
           }
         ]
       },
@@ -1300,8 +1281,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1155,
-            "y": 279
+            "x": 1117,
+            "y": 274
           }
         ]
       },
@@ -1321,8 +1302,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 684,
-            "y": 298
+            "x": 662,
+            "y": 292
           }
         ]
       },
@@ -1360,8 +1341,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 709,
-            "y": 316
+            "x": 686,
+            "y": 310
           }
         ]
       },
@@ -1390,8 +1371,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 2036,
-            "y": 393
+            "x": 1969,
+            "y": 385
           }
         ]
       },
@@ -1411,8 +1392,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 912,
-            "y": 529
+            "x": 882,
+            "y": 516
           }
         ]
       },
@@ -1441,29 +1422,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 2101,
-            "y": 535
-          }
-        ]
-      },
-      {
-        "name": "Secret Area 6",
-        "sections": [
-          {
-            "name": "Secret Area 6",
-            "access_rules": [
-              "$check|3495792755"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M2",
-            "x": 2080,
-            "y": 542
+            "x": 2032,
+            "y": 522
           }
         ]
       },
@@ -1483,8 +1443,29 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 977,
-            "y": 543
+            "x": 944,
+            "y": 529
+          }
+        ]
+      },
+      {
+        "name": "Secret Area 6",
+        "sections": [
+          {
+            "name": "Secret Area 6",
+            "access_rules": [
+              "$check|3495792755"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M2",
+            "x": 2011,
+            "y": 529
           }
         ]
       },
@@ -1504,8 +1485,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1248,
-            "y": 654
+            "x": 1206,
+            "y": 636
           }
         ]
       },
@@ -1525,8 +1506,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 616,
-            "y": 718
+            "x": 596,
+            "y": 698
           }
         ]
       },
@@ -1555,8 +1536,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1218,
-            "y": 722
+            "x": 1178,
+            "y": 702
           }
         ]
       },
@@ -1576,8 +1557,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 652,
-            "y": 753
+            "x": 631,
+            "y": 732
           }
         ]
       },
@@ -1597,8 +1578,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1918,
-            "y": 757
+            "x": 1854,
+            "y": 740
           }
         ]
       },
@@ -1627,8 +1608,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1954,
-            "y": 760
+            "x": 1888,
+            "y": 743
           }
         ]
       },
@@ -1666,8 +1647,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1948,
-            "y": 787
+            "x": 1883,
+            "y": 769
           }
         ]
       },
@@ -1696,8 +1677,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1591,
-            "y": 832
+            "x": 1538,
+            "y": 813
           }
         ]
       },
@@ -1717,8 +1698,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1669,
-            "y": 859
+            "x": 1614,
+            "y": 838
           }
         ]
       },
@@ -1738,8 +1719,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1815,
-            "y": 904
+            "x": 1755,
+            "y": 882
           }
         ]
       },
@@ -1786,8 +1767,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 869,
-            "y": 971
+            "x": 840,
+            "y": 945
           }
         ]
       },
@@ -1816,8 +1797,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1448,
-            "y": 987
+            "x": 1401,
+            "y": 962
           }
         ]
       },
@@ -1837,8 +1818,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1671,
-            "y": 1010
+            "x": 1616,
+            "y": 984
           }
         ]
       },
@@ -1858,8 +1839,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 630,
-            "y": 1047
+            "x": 609,
+            "y": 1019
           }
         ]
       },
@@ -1879,8 +1860,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 563,
-            "y": 1070
+            "x": 545,
+            "y": 1041
           }
         ]
       },
@@ -1900,8 +1881,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 590,
-            "y": 1071
+            "x": 571,
+            "y": 1041
           }
         ]
       },
@@ -1921,8 +1902,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1019,
-            "y": 1100
+            "x": 986,
+            "y": 1069
           }
         ]
       },
@@ -1942,8 +1923,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1565,
-            "y": 1225
+            "x": 1514,
+            "y": 1195
           }
         ]
       },
@@ -1963,8 +1944,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1656,
-            "y": 1264
+            "x": 1601,
+            "y": 1233
           }
         ]
       },
@@ -1984,8 +1965,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1455,
-            "y": 1281
+            "x": 1408,
+            "y": 1249
           }
         ]
       },
@@ -2041,8 +2022,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 978,
-            "y": 1331
+            "x": 946,
+            "y": 1296
           }
         ]
       },
@@ -2062,8 +2043,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 915,
-            "y": 1359
+            "x": 885,
+            "y": 1323
           }
         ]
       },
@@ -2092,8 +2073,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1631,
-            "y": 1378
+            "x": 1577,
+            "y": 1342
           }
         ]
       },
@@ -2113,8 +2094,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1536,
-            "y": 1429
+            "x": 1485,
+            "y": 1392
           }
         ]
       },
@@ -2152,8 +2133,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 1504,
-            "y": 1439
+            "x": 1454,
+            "y": 1402
           }
         ]
       },
@@ -2182,8 +2163,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 897,
-            "y": 1466
+            "x": 867,
+            "y": 1426
           }
         ]
       },
@@ -2203,8 +2184,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 585,
-            "y": 1498
+            "x": 566,
+            "y": 1457
           }
         ]
       },
@@ -2224,8 +2205,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 799,
-            "y": 1515
+            "x": 773,
+            "y": 1473
           }
         ]
       },
@@ -2263,8 +2244,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 647,
-            "y": 1516
+            "x": 626,
+            "y": 1475
           }
         ]
       },
@@ -2284,8 +2265,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 769,
-            "y": 1519
+            "x": 744,
+            "y": 1477
           }
         ]
       },
@@ -2314,8 +2295,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 878,
-            "y": 1982
+            "x": 849,
+            "y": 1925
           }
         ]
       },
@@ -2335,8 +2316,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 691,
-            "y": 2203
+            "x": 668,
+            "y": 2141
           }
         ]
       },
@@ -2356,8 +2337,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 516,
-            "y": 2243
+            "x": 500,
+            "y": 2179
           }
         ]
       },
@@ -2377,8 +2358,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 597,
-            "y": 2299
+            "x": 577,
+            "y": 2233
           }
         ]
       },
@@ -2407,8 +2388,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 711,
-            "y": 2350
+            "x": 688,
+            "y": 2282
           }
         ]
       },
@@ -2437,8 +2418,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 711,
-            "y": 2416
+            "x": 688,
+            "y": 2348
           }
         ]
       },
@@ -2467,8 +2448,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 566,
-            "y": 2466
+            "x": 547,
+            "y": 2394
           }
         ]
       },
@@ -2497,8 +2478,8 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 605,
-            "y": 2466
+            "x": 585,
+            "y": 2395
           }
         ]
       },
@@ -2518,8 +2499,27 @@
         "map_locations": [
           {
             "map": "E3M2",
-            "x": 613,
-            "y": 2540
+            "x": 593,
+            "y": 2467
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792771"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M2",
+            "x": 606,
+            "y": 2590,
+            "size": 44
           }
         ]
       }
@@ -2535,26 +2535,7 @@
     ],
     "children": [
       {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495792890"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 2640,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 18",
+        "name": "Assault Rifle Magazine 18 (+1)",
         "sections": [
           {
             "name": "Assault Rifle Magazine 18",
@@ -2564,19 +2545,7 @@
             "visibility_rules": [
               "opt_ammo"
             ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 1949,
-            "y": 249
-          }
-        ]
-      },
-      {
-        "name": "Shotgun 2",
-        "sections": [
+          },
           {
             "name": "Shotgun 2",
             "access_rules": [
@@ -2590,8 +2559,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1965,
-            "y": 251
+            "x": 1804,
+            "y": 241
           }
         ]
       },
@@ -2620,8 +2589,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 760,
-            "y": 254
+            "x": 700,
+            "y": 244
           }
         ]
       },
@@ -2650,8 +2619,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 808,
-            "y": 255
+            "x": 745,
+            "y": 246
           }
         ]
       },
@@ -2671,8 +2640,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1908,
-            "y": 266
+            "x": 1759,
+            "y": 255
           }
         ]
       },
@@ -2692,8 +2661,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 664,
-            "y": 309
+            "x": 611,
+            "y": 295
           }
         ]
       },
@@ -2722,8 +2691,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2300,
-            "y": 379
+            "x": 2119,
+            "y": 360
           }
         ]
       },
@@ -2743,8 +2712,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 698,
-            "y": 381
+            "x": 644,
+            "y": 362
           }
         ]
       },
@@ -2773,8 +2742,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2243,
-            "y": 588
+            "x": 2067,
+            "y": 552
           }
         ]
       },
@@ -2794,8 +2763,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2268,
-            "y": 611
+            "x": 2090,
+            "y": 573
           }
         ]
       },
@@ -2815,8 +2784,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2182,
-            "y": 613
+            "x": 2011,
+            "y": 574
           }
         ]
       },
@@ -2836,8 +2805,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1863,
-            "y": 617
+            "x": 1718,
+            "y": 578
           }
         ]
       },
@@ -2857,8 +2826,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1863,
-            "y": 638
+            "x": 1718,
+            "y": 597
           }
         ]
       },
@@ -2878,8 +2847,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 955,
-            "y": 672
+            "x": 879,
+            "y": 636
           }
         ]
       },
@@ -2899,8 +2868,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 543,
-            "y": 720
+            "x": 501,
+            "y": 680
           }
         ]
       },
@@ -2920,8 +2889,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2233,
-            "y": 733
+            "x": 2057,
+            "y": 685
           }
         ]
       },
@@ -2941,8 +2910,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 879,
-            "y": 764
+            "x": 810,
+            "y": 720
           }
         ]
       },
@@ -2962,8 +2931,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 470,
-            "y": 893
+            "x": 434,
+            "y": 839
           }
         ]
       },
@@ -2983,8 +2952,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 495,
-            "y": 893
+            "x": 457,
+            "y": 839
           }
         ]
       },
@@ -3004,8 +2973,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 481,
-            "y": 918
+            "x": 443,
+            "y": 862
           }
         ]
       },
@@ -3034,8 +3003,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 499,
-            "y": 917
+            "x": 460,
+            "y": 860
           }
         ]
       },
@@ -3055,8 +3024,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 805,
-            "y": 944
+            "x": 742,
+            "y": 885
           }
         ]
       },
@@ -3076,8 +3045,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 806,
-            "y": 974
+            "x": 742,
+            "y": 913
           }
         ]
       },
@@ -3106,8 +3075,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2144,
-            "y": 1026
+            "x": 1976,
+            "y": 960
           }
         ]
       },
@@ -3127,8 +3096,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2125,
-            "y": 1047
+            "x": 1959,
+            "y": 979
           }
         ]
       },
@@ -3157,8 +3126,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2144,
-            "y": 1072
+            "x": 1976,
+            "y": 1002
           }
         ]
       },
@@ -3178,8 +3147,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1879,
-            "y": 1081
+            "x": 1733,
+            "y": 1011
           }
         ]
       },
@@ -3199,8 +3168,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2121,
-            "y": 1096
+            "x": 1955,
+            "y": 1024
           }
         ]
       },
@@ -3220,8 +3189,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2138,
-            "y": 1096
+            "x": 1971,
+            "y": 1024
           }
         ]
       },
@@ -3250,8 +3219,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1940,
-            "y": 1149
+            "x": 1790,
+            "y": 1073
           }
         ]
       },
@@ -3307,8 +3276,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1967,
-            "y": 1187
+            "x": 1814,
+            "y": 1108
           }
         ]
       },
@@ -3328,8 +3297,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1934,
-            "y": 1200
+            "x": 1784,
+            "y": 1120
           }
         ]
       },
@@ -3358,8 +3327,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1978,
-            "y": 1228
+            "x": 1823,
+            "y": 1146
           }
         ]
       },
@@ -3415,29 +3384,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2050,
-            "y": 1237
-          }
-        ]
-      },
-      {
-        "name": "Small Medical Kit 1",
-        "sections": [
-          {
-            "name": "Small Medical Kit 1",
-            "access_rules": [
-              "$check|3495792860"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 520,
-            "y": 1266
+            "x": 1890,
+            "y": 1154
           }
         ]
       },
@@ -3457,8 +3405,29 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2346,
-            "y": 1270
+            "x": 2162,
+            "y": 1184
+          }
+        ]
+      },
+      {
+        "name": "Small Medical Kit 1",
+        "sections": [
+          {
+            "name": "Small Medical Kit 1",
+            "access_rules": [
+              "$check|3495792860"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M3",
+            "x": 479,
+            "y": 1187
           }
         ]
       },
@@ -3487,8 +3456,29 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1819,
-            "y": 1285
+            "x": 1678,
+            "y": 1198
+          }
+        ]
+      },
+      {
+        "name": "Secret Area 6",
+        "sections": [
+          {
+            "name": "Secret Area 6",
+            "access_rules": [
+              "$check|3495792877"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M3",
+            "x": 2237,
+            "y": 1205
           }
         ]
       },
@@ -3517,29 +3507,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 881,
-            "y": 1297
-          }
-        ]
-      },
-      {
-        "name": "Secret Area 6",
-        "sections": [
-          {
-            "name": "Secret Area 6",
-            "access_rules": [
-              "$check|3495792877"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 2428,
-            "y": 1293
+            "x": 812,
+            "y": 1216
           }
         ]
       },
@@ -3559,34 +3528,13 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 902,
-            "y": 1306
+            "x": 831,
+            "y": 1224
           }
         ]
       },
       {
-        "name": "Medical Kit 9",
-        "sections": [
-          {
-            "name": "Medical Kit 9",
-            "access_rules": [
-              "$check|3495792849"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 232,
-            "y": 1315
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 4 (+1)",
+        "name": "Assault Rifle Magazine 4 (+2)",
         "sections": [
           {
             "name": "Assault Rifle Magazine 4",
@@ -3605,13 +3553,22 @@
             "visibility_rules": [
               "opt_health"
             ]
+          },
+          {
+            "name": "Medical Kit 9",
+            "access_rules": [
+              "$check|3495792849"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 256,
-            "y": 1315
+            "x": 230,
+            "y": 1232
           }
         ]
       },
@@ -3631,8 +3588,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 281,
-            "y": 1315
+            "x": 260,
+            "y": 1232
           }
         ]
       },
@@ -3652,13 +3609,13 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 608,
-            "y": 1317
+            "x": 561,
+            "y": 1234
           }
         ]
       },
       {
-        "name": "Assault Rifle Magazine 6",
+        "name": "Assault Rifle Magazine 6 (+1)",
         "sections": [
           {
             "name": "Assault Rifle Magazine 6",
@@ -3668,18 +3625,27 @@
             "visibility_rules": [
               "opt_ammo"
             ]
+          },
+          {
+            "name": "Medical Kit 4",
+            "access_rules": [
+              "$check|3495792844"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1505,
-            "y": 1345
+            "x": 1389,
+            "y": 1260
           }
         ]
       },
       {
-        "name": "Assault Rifle Magazine 7",
+        "name": "Assault Rifle Magazine 7 (+1)",
         "sections": [
           {
             "name": "Assault Rifle Magazine 7",
@@ -3689,18 +3655,27 @@
             "visibility_rules": [
               "opt_ammo"
             ]
+          },
+          {
+            "name": "Medical Kit 6",
+            "access_rules": [
+              "$check|3495792846"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1486,
-            "y": 1346
+            "x": 1372,
+            "y": 1261
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 3",
+        "name": "Box of Shotgun Shells 3 (+1)",
         "sections": [
           {
             "name": "Box of Shotgun Shells 3",
@@ -3710,13 +3685,52 @@
             "visibility_rules": [
               "opt_ammo"
             ]
+          },
+          {
+            "name": "Shotgun 1",
+            "access_rules": [
+              "$check|3495792886"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2218,
-            "y": 1349
+            "x": 2044,
+            "y": 1264
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 2 (+1)",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 2",
+            "access_rules": [
+              "$check|3495792773"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Medical Kit 14",
+            "access_rules": [
+              "$check|3495792854"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M3",
+            "x": 1682,
+            "y": 1266
           }
         ]
       },
@@ -3808,80 +3822,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1010,
-            "y": 1355
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 2 (+1)",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 2",
-            "access_rules": [
-              "$check|3495792773"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Medical Kit 14",
-            "access_rules": [
-              "$check|3495792854"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 1824,
-            "y": 1359
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 4",
-        "sections": [
-          {
-            "name": "Medical Kit 4",
-            "access_rules": [
-              "$check|3495792844"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 1505,
-            "y": 1361
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 6",
-        "sections": [
-          {
-            "name": "Medical Kit 6",
-            "access_rules": [
-              "$check|3495792846"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 1486,
-            "y": 1362
+            "x": 929,
+            "y": 1269
           }
         ]
       },
@@ -3901,13 +3843,13 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 822,
-            "y": 1364
+            "x": 757,
+            "y": 1277
           }
         ]
       },
       {
-        "name": "Assault Rifle Magazine 8 (+1)",
+        "name": "Assault Rifle Magazine 8 (+2)",
         "sections": [
           {
             "name": "Assault Rifle Magazine 8",
@@ -3926,19 +3868,7 @@
             "visibility_rules": [
               "opt_ammo"
             ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 432,
-            "y": 1365
-          }
-        ]
-      },
-      {
-        "name": "Mortar",
-        "sections": [
+          },
           {
             "name": "Mortar",
             "access_rules": [
@@ -3952,29 +3882,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 455,
-            "y": 1365
-          }
-        ]
-      },
-      {
-        "name": "Shotgun 1",
-        "sections": [
-          {
-            "name": "Shotgun 1",
-            "access_rules": [
-              "$check|3495792886"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 2218,
-            "y": 1366
+            "x": 406,
+            "y": 1278
           }
         ]
       },
@@ -3994,8 +3903,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 520,
-            "y": 1369
+            "x": 479,
+            "y": 1281
           }
         ]
       },
@@ -4015,8 +3924,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1993,
-            "y": 1375
+            "x": 1838,
+            "y": 1281
           }
         ]
       },
@@ -4036,13 +3945,13 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1639,
-            "y": 1437
+            "x": 1512,
+            "y": 1338
           }
         ]
       },
       {
-        "name": "Box of Hunting Rifle Bullets 2",
+        "name": "Box of Hunting Rifle Bullets 2 (+1)",
         "sections": [
           {
             "name": "Box of Hunting Rifle Bullets 2",
@@ -4052,13 +3961,22 @@
             "visibility_rules": [
               "opt_ammo"
             ]
+          },
+          {
+            "name": "Crossbow",
+            "access_rules": [
+              "$check|3495792880"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 741,
-            "y": 1463
+            "x": 674,
+            "y": 1369
           }
         ]
       },
@@ -4078,29 +3996,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 872,
-            "y": 1463
-          }
-        ]
-      },
-      {
-        "name": "Crossbow",
-        "sections": [
-          {
-            "name": "Crossbow",
-            "access_rules": [
-              "$check|3495792880"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 723,
-            "y": 1465
+            "x": 803,
+            "y": 1368
           }
         ]
       },
@@ -4120,8 +4017,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1864,
-            "y": 1516
+            "x": 1719,
+            "y": 1410
           }
         ]
       },
@@ -4168,8 +4065,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1971,
-            "y": 1525
+            "x": 1817,
+            "y": 1418
           }
         ]
       },
@@ -4198,8 +4095,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1864,
-            "y": 1546
+            "x": 1719,
+            "y": 1437
           }
         ]
       },
@@ -4219,13 +4116,13 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2265,
-            "y": 1558
+            "x": 2088,
+            "y": 1449
           }
         ]
       },
       {
-        "name": "Medical Kit 3",
+        "name": "Medical Kit 3 (+1)",
         "sections": [
           {
             "name": "Medical Kit 3",
@@ -4235,19 +4132,7 @@
             "visibility_rules": [
               "opt_health"
             ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 438,
-            "y": 1578
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 19",
-        "sections": [
+          },
           {
             "name": "Medical Kit 19",
             "access_rules": [
@@ -4261,8 +4146,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 438,
-            "y": 1594
+            "x": 404,
+            "y": 1482
           }
         ]
       },
@@ -4282,14 +4167,23 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2229,
-            "y": 1594
+            "x": 2054,
+            "y": 1482
           }
         ]
       },
       {
-        "name": "Gold Coin 3 (+2)",
+        "name": "Box of Shotgun Shells 7 (+7)",
         "sections": [
+          {
+            "name": "Box of Shotgun Shells 7",
+            "access_rules": [
+              "$check|3495792806"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
           {
             "name": "Gold Coin 3",
             "access_rules": [
@@ -4315,27 +4209,6 @@
             ],
             "visibility_rules": [
               "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M3",
-            "x": 1797,
-            "y": 1886
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 7 (+4)",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 7",
-            "access_rules": [
-              "$check|3495792806"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
             ]
           },
           {
@@ -4378,8 +4251,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 1854,
-            "y": 1888
+            "x": 1690,
+            "y": 1757
           }
         ]
       },
@@ -4417,8 +4290,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2153,
-            "y": 2237
+            "x": 1984,
+            "y": 2079
           }
         ]
       },
@@ -4438,8 +4311,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2556,
-            "y": 2260
+            "x": 2354,
+            "y": 2100
           }
         ]
       },
@@ -4477,8 +4350,8 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2113,
-            "y": 2278
+            "x": 1948,
+            "y": 2117
           }
         ]
       },
@@ -4498,8 +4371,33 @@
         "map_locations": [
           {
             "map": "E3M3",
-            "x": 2314,
-            "y": 2327
+            "x": 2133,
+            "y": 2161
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495792890"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M3",
+            "x": 2614,
+            "y": 240,
+            "size": 44
+          },
+          {
+            "map": "E3M3",
+            "x": 1440,
+            "y": 1888,
+            "size": 44
           }
         ]
       }
@@ -4515,21 +4413,95 @@
     ],
     "children": [
       {
-        "name": "Level Complete",
+        "name": "Pistol Clip 3 (+1)",
         "sections": [
           {
-            "name": "Level Complete",
+            "name": "Pistol Clip 3",
             "access_rules": [
-              "$check|3495792975"
+              "$check|3495792915"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Pistol Clip 4",
+            "access_rules": [
+              "$check|3495792916"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1726,
-            "y": 48,
-            "size": 48
+            "x": 1676,
+            "y": 254
+          }
+        ]
+      },
+      {
+        "name": "Box of Mortar Grenades",
+        "sections": [
+          {
+            "name": "Box of Mortar Grenades",
+            "access_rules": [
+              "$check|3495792898"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1699,
+            "y": 263
+          }
+        ]
+      },
+      {
+        "name": "Gold Coin 1",
+        "sections": [
+          {
+            "name": "Gold Coin 1",
+            "access_rules": [
+              "$check|3495792934"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1693,
+            "y": 393
+          }
+        ]
+      },
+      {
+        "name": "Crossbow",
+        "sections": [
+          {
+            "name": "Crossbow",
+            "access_rules": [
+              "$check|3495792968"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1895,
+            "y": 436
           }
         ]
       },
@@ -4549,39 +4521,18 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 772,
-            "y": 234
+            "x": 884,
+            "y": 541
           }
         ]
       },
       {
-        "name": "Gold Coin 2",
+        "name": "Box of Pistol Bullets",
         "sections": [
           {
-            "name": "Gold Coin 2",
+            "name": "Box of Pistol Bullets",
             "access_rules": [
-              "$check|3495792935"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 1589,
-            "y": 234
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 6",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 6",
-            "access_rules": [
-              "$check|3495792905"
+              "$check|3495792899"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -4591,8 +4542,158 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1569,
-            "y": 272
+            "x": 1920,
+            "y": 551
+          }
+        ]
+      },
+      {
+        "name": "Crossbow Bolts 5 (+3)",
+        "sections": [
+          {
+            "name": "Crossbow Bolts 5",
+            "access_rules": [
+              "$check|3495792911"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Crossbow Bolts 6",
+            "access_rules": [
+              "$check|3495792912"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Bag of Gems 10",
+            "access_rules": [
+              "$check|3495792929"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          },
+          {
+            "name": "Bag of Gems 11",
+            "access_rules": [
+              "$check|3495792930"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1792,
+            "y": 566
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 3 (+1)",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 3",
+            "access_rules": [
+              "$check|3495792893"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Crossbow Bolts 1",
+            "access_rules": [
+              "$check|3495792907"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 2082,
+            "y": 595
+          }
+        ]
+      },
+      {
+        "name": "Secret Area 4",
+        "sections": [
+          {
+            "name": "Secret Area 4",
+            "access_rules": [
+              "$check|3495792964"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1818,
+            "y": 593
+          }
+        ]
+      },
+      {
+        "name": "Crossbow Bolts 3 (+1)",
+        "sections": [
+          {
+            "name": "Crossbow Bolts 3",
+            "access_rules": [
+              "$check|3495792909"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Crossbow Bolts 4",
+            "access_rules": [
+              "$check|3495792910"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1851,
+            "y": 592
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 6",
+        "sections": [
+          {
+            "name": "Medical Kit 6",
+            "access_rules": [
+              "$check|3495792941"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1765,
+            "y": 599
           }
         ]
       },
@@ -4630,8 +4731,92 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 129,
-            "y": 280
+            "x": 145,
+            "y": 595
+          }
+        ]
+      },
+      {
+        "name": "Diamond 1",
+        "sections": [
+          {
+            "name": "Diamond 1",
+            "access_rules": [
+              "$check|3495792932"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1978,
+            "y": 608
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 8",
+        "sections": [
+          {
+            "name": "Medical Kit 8",
+            "access_rules": [
+              "$check|3495792943"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1795,
+            "y": 616
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 2",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 2",
+            "access_rules": [
+              "$check|3495792892"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1919,
+            "y": 627
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 1",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 1",
+            "access_rules": [
+              "$check|3495792891"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1935,
+            "y": 627
           }
         ]
       },
@@ -4669,8 +4854,341 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 544,
-            "y": 313
+            "x": 621,
+            "y": 632
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 4",
+        "sections": [
+          {
+            "name": "Medical Kit 4",
+            "access_rules": [
+              "$check|3495792939"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 767,
+            "y": 678
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle",
+        "sections": [
+          {
+            "name": "Assault Rifle",
+            "access_rules": [
+              "$check|3495792967"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1883,
+            "y": 694
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 4 (+2)",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 4",
+            "access_rules": [
+              "$check|3495792903"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Small Medical Kit 1",
+            "access_rules": [
+              "$check|3495792951"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          },
+          {
+            "name": "Small Medical Kit 2",
+            "access_rules": [
+              "$check|3495792952"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 820,
+            "y": 700
+          }
+        ]
+      },
+      {
+        "name": "Diamond 2",
+        "sections": [
+          {
+            "name": "Diamond 2",
+            "access_rules": [
+              "$check|3495792933"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 619,
+            "y": 701
+          }
+        ]
+      },
+      {
+        "name": "Secret Area 3",
+        "sections": [
+          {
+            "name": "Secret Area 3",
+            "access_rules": [
+              "$check|3495792963"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 670,
+            "y": 733
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 1",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 1",
+            "access_rules": [
+              "$check|3495792900"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 673,
+            "y": 790
+          }
+        ]
+      },
+      {
+        "name": "Shotgun 2",
+        "sections": [
+          {
+            "name": "Shotgun 2",
+            "access_rules": [
+              "$check|3495792972"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 773,
+            "y": 795
+          }
+        ]
+      },
+      {
+        "name": "Shotgun 1",
+        "sections": [
+          {
+            "name": "Shotgun 1",
+            "access_rules": [
+              "$check|3495792971"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 757,
+            "y": 887
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 1",
+        "sections": [
+          {
+            "name": "Bag of Gems 1",
+            "access_rules": [
+              "$check|3495792920"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 780,
+            "y": 893
+          }
+        ]
+      },
+      {
+        "name": "Yellow Key",
+        "sections": [
+          {
+            "name": "Yellow Key",
+            "access_rules": [
+              "$check|3495792957"
+            ],
+            "visibility_rules": [
+              "opt_keys"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 757,
+            "y": 956
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 14",
+        "sections": [
+          {
+            "name": "Medical Kit 14",
+            "access_rules": [
+              "$check|3495792949"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 704,
+            "y": 959
+          }
+        ]
+      },
+      {
+        "name": "Gold Coin 2",
+        "sections": [
+          {
+            "name": "Gold Coin 2",
+            "access_rules": [
+              "$check|3495792935"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1948,
+            "y": 986
+          }
+        ]
+      },
+      {
+        "name": "Pistol Clip 1",
+        "sections": [
+          {
+            "name": "Pistol Clip 1",
+            "access_rules": [
+              "$check|3495792913"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 613,
+            "y": 1013
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 6",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 6",
+            "access_rules": [
+              "$check|3495792905"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1925,
+            "y": 1029
+          }
+        ]
+      },
+      {
+        "name": "Box of Hunting Rifle Bullets 2",
+        "sections": [
+          {
+            "name": "Box of Hunting Rifle Bullets 2",
+            "access_rules": [
+              "$check|3495792897"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 732,
+            "y": 1101
           }
         ]
       },
@@ -4690,8 +5208,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1350,
-            "y": 341
+            "x": 1673,
+            "y": 1109
           }
         ]
       },
@@ -4747,29 +5265,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1399,
-            "y": 357
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 4",
-        "sections": [
-          {
-            "name": "Medical Kit 4",
-            "access_rules": [
-              "$check|3495792939"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 671,
-            "y": 353
+            "x": 1730,
+            "y": 1128
           }
         ]
       },
@@ -4798,68 +5295,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1443,
-            "y": 356
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 4 (+2)",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 4",
-            "access_rules": [
-              "$check|3495792903"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Small Medical Kit 1",
-            "access_rules": [
-              "$check|3495792951"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          },
-          {
-            "name": "Small Medical Kit 2",
-            "access_rules": [
-              "$check|3495792952"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 717,
-            "y": 372
-          }
-        ]
-      },
-      {
-        "name": "Diamond 2",
-        "sections": [
-          {
-            "name": "Diamond 2",
-            "access_rules": [
-              "$check|3495792933"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 542,
-            "y": 373
+            "x": 1779,
+            "y": 1126
           }
         ]
       },
@@ -4888,8 +5325,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1392,
-            "y": 378
+            "x": 1722,
+            "y": 1151
           }
         ]
       },
@@ -4918,8 +5355,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1518,
-            "y": 386
+            "x": 1866,
+            "y": 1161
           }
         ]
       },
@@ -4939,71 +5376,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1398,
-            "y": 400
-          }
-        ]
-      },
-      {
-        "name": "Secret Area 3",
-        "sections": [
-          {
-            "name": "Secret Area 3",
-            "access_rules": [
-              "$check|3495792963"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 586,
-            "y": 401
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 1",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 1",
-            "access_rules": [
-              "$check|3495792900"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 588,
-            "y": 450
-          }
-        ]
-      },
-      {
-        "name": "Shotgun 2",
-        "sections": [
-          {
-            "name": "Shotgun 2",
-            "access_rules": [
-              "$check|3495792972"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 676,
-            "y": 455
+            "x": 1728,
+            "y": 1177
           }
         ]
       },
@@ -5023,50 +5397,71 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1492,
-            "y": 462
+            "x": 1836,
+            "y": 1247
           }
         ]
       },
       {
-        "name": "Shotgun 1",
+        "name": "Red Key",
         "sections": [
           {
-            "name": "Shotgun 1",
+            "name": "Red Key",
             "access_rules": [
-              "$check|3495792971"
+              "$check|3495792956"
             ],
             "visibility_rules": [
-              "opt_weapons"
+              "opt_keys"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 662,
-            "y": 535
+            "x": 872,
+            "y": 1249
           }
         ]
       },
       {
-        "name": "Bag of Gems 1",
+        "name": "Hallowed Health 1",
         "sections": [
           {
-            "name": "Bag of Gems 1",
+            "name": "Hallowed Health 1",
             "access_rules": [
-              "$check|3495792920"
+              "$check|3495792959"
             ],
             "visibility_rules": [
-              "opt_armor"
+              "opt_powerups"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 682,
-            "y": 540
+            "x": 808,
+            "y": 1261
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 7",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 7",
+            "access_rules": [
+              "$check|3495792906"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 935,
+            "y": 1261
           }
         ]
       },
@@ -5095,218 +5490,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 1436,
-            "y": 544
-          }
-        ]
-      },
-      {
-        "name": "Yellow Key",
-        "sections": [
-          {
-            "name": "Yellow Key",
-            "access_rules": [
-              "$check|3495792957"
-            ],
-            "visibility_rules": [
-              "opt_keys"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 662,
-            "y": 595
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 14",
-        "sections": [
-          {
-            "name": "Medical Kit 14",
-            "access_rules": [
-              "$check|3495792949"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 615,
-            "y": 597
-          }
-        ]
-      },
-      {
-        "name": "Pistol Clip 1",
-        "sections": [
-          {
-            "name": "Pistol Clip 1",
-            "access_rules": [
-              "$check|3495792913"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 536,
-            "y": 644
-          }
-        ]
-      },
-      {
-        "name": "Box of Hunting Rifle Bullets 2",
-        "sections": [
-          {
-            "name": "Box of Hunting Rifle Bullets 2",
-            "access_rules": [
-              "$check|3495792897"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 640,
-            "y": 721
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 11",
-        "sections": [
-          {
-            "name": "Medical Kit 11",
-            "access_rules": [
-              "$check|3495792946"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 1545,
-            "y": 805
-          }
-        ]
-      },
-      {
-        "name": "Flashlight",
-        "sections": [
-          {
-            "name": "Flashlight",
-            "access_rules": [
-              "$check|3495792958"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 1526,
-            "y": 826
-          }
-        ]
-      },
-      {
-        "name": "Red Key",
-        "sections": [
-          {
-            "name": "Red Key",
-            "access_rules": [
-              "$check|3495792956"
-            ],
-            "visibility_rules": [
-              "opt_keys"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 762,
-            "y": 850
-          }
-        ]
-      },
-      {
-        "name": "Blue Key",
-        "sections": [
-          {
-            "name": "Blue Key",
-            "access_rules": [
-              "$check|3495792955"
-            ],
-            "visibility_rules": [
-              "opt_keys"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 1537,
-            "y": 853
-          }
-        ]
-      },
-      {
-        "name": "Hallowed Health 1",
-        "sections": [
-          {
-            "name": "Hallowed Health 1",
-            "access_rules": [
-              "$check|3495792959"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 706,
-            "y": 860
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 7",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 7",
-            "access_rules": [
-              "$check|3495792906"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 817,
-            "y": 860
+            "x": 1771,
+            "y": 1342
           }
         ]
       },
@@ -5326,8 +5511,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 726,
-            "y": 1122
+            "x": 831,
+            "y": 1553
           }
         ]
       },
@@ -5347,8 +5532,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 392,
-            "y": 1423
+            "x": 447,
+            "y": 1899
           }
         ]
       },
@@ -5368,8 +5553,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 694,
-            "y": 1431
+            "x": 794,
+            "y": 1909
           }
         ]
       },
@@ -5389,8 +5574,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 413,
-            "y": 1446
+            "x": 471,
+            "y": 1926
           }
         ]
       },
@@ -5419,8 +5604,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 386,
-            "y": 1478
+            "x": 440,
+            "y": 1962
           }
         ]
       },
@@ -5440,8 +5625,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 278,
-            "y": 1495
+            "x": 315,
+            "y": 1981
           }
         ]
       },
@@ -5470,8 +5655,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 546,
-            "y": 1604
+            "x": 622,
+            "y": 2107
           }
         ]
       },
@@ -5491,8 +5676,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 620,
-            "y": 1606
+            "x": 708,
+            "y": 2109
           }
         ]
       },
@@ -5539,8 +5724,29 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 589,
-            "y": 1760
+            "x": 673,
+            "y": 2288
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 11",
+        "sections": [
+          {
+            "name": "Medical Kit 11",
+            "access_rules": [
+              "$check|3495792946"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1896,
+            "y": 2305
           }
         ]
       },
@@ -5560,8 +5766,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 696,
-            "y": 1779
+            "x": 797,
+            "y": 2308
           }
         ]
       },
@@ -5581,8 +5787,50 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 696,
-            "y": 1796
+            "x": 797,
+            "y": 2328
+          }
+        ]
+      },
+      {
+        "name": "Flashlight",
+        "sections": [
+          {
+            "name": "Flashlight",
+            "access_rules": [
+              "$check|3495792958"
+            ],
+            "visibility_rules": [
+              "opt_powerups"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1875,
+            "y": 2330
+          }
+        ]
+      },
+      {
+        "name": "Blue Key",
+        "sections": [
+          {
+            "name": "Blue Key",
+            "access_rules": [
+              "$check|3495792955"
+            ],
+            "visibility_rules": [
+              "opt_keys"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1888,
+            "y": 2360
           }
         ]
       },
@@ -5602,8 +5850,8 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 703,
-            "y": 1861
+            "x": 804,
+            "y": 2402
           }
         ]
       },
@@ -5623,353 +5871,33 @@
         "map_locations": [
           {
             "map": "E3M4",
-            "x": 821,
-            "y": 1861
+            "x": 940,
+            "y": 2402
           }
         ]
       },
       {
-        "name": "Box of Mortar Grenades (+2)",
+        "name": "Level Complete",
         "sections": [
           {
-            "name": "Box of Mortar Grenades",
+            "name": "Level Complete",
             "access_rules": [
-              "$check|3495792898"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
+              "$check|3495792975"
             ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M4",
+            "x": 1072,
+            "y": 249,
+            "size": 44
           },
           {
-            "name": "Pistol Clip 3",
-            "access_rules": [
-              "$check|3495792915"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Pistol Clip 4",
-            "access_rules": [
-              "$check|3495792916"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
             "map": "E3M4",
-            "x": 415,
-            "y": 2129
-          }
-        ]
-      },
-      {
-        "name": "Gold Coin 1",
-        "sections": [
-          {
-            "name": "Gold Coin 1",
-            "access_rules": [
-              "$check|3495792934"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 423,
-            "y": 2247
-          }
-        ]
-      },
-      {
-        "name": "Crossbow",
-        "sections": [
-          {
-            "name": "Crossbow",
-            "access_rules": [
-              "$check|3495792968"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 599,
-            "y": 2284
-          }
-        ]
-      },
-      {
-        "name": "Box of Pistol Bullets",
-        "sections": [
-          {
-            "name": "Box of Pistol Bullets",
-            "access_rules": [
-              "$check|3495792899"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 621,
-            "y": 2385
-          }
-        ]
-      },
-      {
-        "name": "Crossbow Bolts 5 (+3)",
-        "sections": [
-          {
-            "name": "Crossbow Bolts 5",
-            "access_rules": [
-              "$check|3495792911"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Crossbow Bolts 6",
-            "access_rules": [
-              "$check|3495792912"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Bag of Gems 10",
-            "access_rules": [
-              "$check|3495792929"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          },
-          {
-            "name": "Bag of Gems 11",
-            "access_rules": [
-              "$check|3495792930"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 510,
-            "y": 2398
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 3 (+1)",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 3",
-            "access_rules": [
-              "$check|3495792893"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Crossbow Bolts 1",
-            "access_rules": [
-              "$check|3495792907"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 762,
-            "y": 2422
-          }
-        ]
-      },
-      {
-        "name": "Secret Area 4",
-        "sections": [
-          {
-            "name": "Secret Area 4",
-            "access_rules": [
-              "$check|3495792964"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 532,
-            "y": 2421
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 6",
-        "sections": [
-          {
-            "name": "Medical Kit 6",
-            "access_rules": [
-              "$check|3495792941"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 486,
-            "y": 2426
-          }
-        ]
-      },
-      {
-        "name": "Crossbow Bolts 3 (+1)",
-        "sections": [
-          {
-            "name": "Crossbow Bolts 3",
-            "access_rules": [
-              "$check|3495792909"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Crossbow Bolts 4",
-            "access_rules": [
-              "$check|3495792910"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 561,
-            "y": 2420
-          }
-        ]
-      },
-      {
-        "name": "Diamond 1",
-        "sections": [
-          {
-            "name": "Diamond 1",
-            "access_rules": [
-              "$check|3495792932"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 672,
-            "y": 2434
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 8",
-        "sections": [
-          {
-            "name": "Medical Kit 8",
-            "access_rules": [
-              "$check|3495792943"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 512,
-            "y": 2441
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 1 (+1)",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 1",
-            "access_rules": [
-              "$check|3495792891"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Assault Rifle Magazine 2",
-            "access_rules": [
-              "$check|3495792892"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 627,
-            "y": 2451
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle",
-        "sections": [
-          {
-            "name": "Assault Rifle",
-            "access_rules": [
-              "$check|3495792967"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M4",
-            "x": 588,
-            "y": 2509
+            "x": 1869,
+            "y": 1634,
+            "size": 44
           }
         ]
       }
@@ -5984,46 +5912,6 @@
       "inc_e3m5"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495793045"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M5",
-            "x": 2232,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
-      {
-        "name": "Backpack",
-        "sections": [
-          {
-            "name": "Backpack",
-            "access_rules": [
-              "$check|3495793028"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M5",
-            "x": 2151,
-            "y": 247
-          }
-        ]
-      },
       {
         "name": "Crossbow",
         "sections": [
@@ -6076,6 +5964,27 @@
         ]
       },
       {
+        "name": "Backpack",
+        "sections": [
+          {
+            "name": "Backpack",
+            "access_rules": [
+              "$check|3495793028"
+            ],
+            "visibility_rules": [
+              "opt_powerups"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M5",
+            "x": 2150,
+            "y": 533
+          }
+        ]
+      },
+      {
         "name": "Medical Kit 11",
         "sections": [
           {
@@ -6091,65 +6000,8 @@
         "map_locations": [
           {
             "map": "E3M5",
-            "x": 2013,
-            "y": 267
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 1 (+4)",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 1",
-            "access_rules": [
-              "$check|3495792976"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Assault Rifle Magazine 2",
-            "access_rules": [
-              "$check|3495792977"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Box of Hunting Rifle Bullets 8",
-            "access_rules": [
-              "$check|3495792992"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Box of Shotgun Shells 4",
-            "access_rules": [
-              "$check|3495793001"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Assault Rifle",
-            "access_rules": [
-              "$check|3495793035"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M5",
-            "x": 2023,
-            "y": 560
+            "x": 2012,
+            "y": 553
           }
         ]
       },
@@ -6331,62 +6183,59 @@
         ]
       },
       {
-        "name": "Assault Rifle Magazine 9 (+1)",
+        "name": "Assault Rifle Magazine 1 (+4)",
         "sections": [
           {
-            "name": "Assault Rifle Magazine 9",
+            "name": "Assault Rifle Magazine 1",
             "access_rules": [
-              "$check|3495792984"
+              "$check|3495792976"
             ],
             "visibility_rules": [
               "opt_ammo"
             ]
           },
           {
-            "name": "Box of Hunting Rifle Bullets 1",
+            "name": "Assault Rifle Magazine 2",
             "access_rules": [
-              "$check|3495792985"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M5",
-            "x": 2012,
-            "y": 860
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 8 (+1)",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 8",
-            "access_rules": [
-              "$check|3495792983"
+              "$check|3495792977"
             ],
             "visibility_rules": [
               "opt_ammo"
             ]
           },
           {
-            "name": "Box of Hunting Rifle Bullets 9",
+            "name": "Box of Hunting Rifle Bullets 8",
             "access_rules": [
-              "$check|3495792993"
+              "$check|3495792992"
             ],
             "visibility_rules": [
               "opt_ammo"
+            ]
+          },
+          {
+            "name": "Box of Shotgun Shells 4",
+            "access_rules": [
+              "$check|3495793001"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Assault Rifle",
+            "access_rules": [
+              "$check|3495793035"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M5",
-            "x": 2034,
-            "y": 860
+            "x": 2023,
+            "y": 847
           }
         ]
       },
@@ -6742,6 +6591,66 @@
         ]
       },
       {
+        "name": "Assault Rifle Magazine 9 (+1)",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 9",
+            "access_rules": [
+              "$check|3495792984"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Box of Hunting Rifle Bullets 1",
+            "access_rules": [
+              "$check|3495792985"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M5",
+            "x": 2012,
+            "y": 1148
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 8 (+1)",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 8",
+            "access_rules": [
+              "$check|3495792983"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Box of Hunting Rifle Bullets 9",
+            "access_rules": [
+              "$check|3495792993"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M5",
+            "x": 2034,
+            "y": 1148
+          }
+        ]
+      },
+      {
         "name": "Box of Hunting Rifle Bullets 4 (+1)",
         "sections": [
           {
@@ -6788,7 +6697,7 @@
           {
             "map": "E3M5",
             "x": 1507,
-            "y": 1445
+            "y": 1446
           }
         ]
       },
@@ -6809,7 +6718,7 @@
           {
             "map": "E3M5",
             "x": 1524,
-            "y": 1445
+            "y": 1446
           }
         ]
       },
@@ -6830,7 +6739,7 @@
           {
             "map": "E3M5",
             "x": 1544,
-            "y": 1445
+            "y": 1446
           }
         ]
       },
@@ -6851,7 +6760,7 @@
           {
             "map": "E3M5",
             "x": 136,
-            "y": 1731
+            "y": 1733
           }
         ]
       },
@@ -6872,7 +6781,7 @@
           {
             "map": "E3M5",
             "x": 157,
-            "y": 1731
+            "y": 1733
           }
         ]
       },
@@ -6893,7 +6802,7 @@
           {
             "map": "E3M5",
             "x": 332,
-            "y": 1792
+            "y": 1794
           }
         ]
       },
@@ -6914,7 +6823,7 @@
           {
             "map": "E3M5",
             "x": 151,
-            "y": 1793
+            "y": 1795
           }
         ]
       },
@@ -6935,7 +6844,7 @@
           {
             "map": "E3M5",
             "x": 151,
-            "y": 1854
+            "y": 1856
           }
         ]
       },
@@ -6956,7 +6865,7 @@
           {
             "map": "E3M5",
             "x": 319,
-            "y": 1929
+            "y": 1931
           }
         ]
       },
@@ -6977,7 +6886,7 @@
           {
             "map": "E3M5",
             "x": 416,
-            "y": 1930
+            "y": 1932
           }
         ]
       },
@@ -7007,7 +6916,7 @@
           {
             "map": "E3M5",
             "x": 414,
-            "y": 2051
+            "y": 2053
           }
         ]
       },
@@ -7028,7 +6937,7 @@
           {
             "map": "E3M5",
             "x": 497,
-            "y": 2062
+            "y": 2064
           }
         ]
       },
@@ -7058,7 +6967,7 @@
           {
             "map": "E3M5",
             "x": 195,
-            "y": 2087
+            "y": 2089
           }
         ]
       },
@@ -7079,7 +6988,7 @@
           {
             "map": "E3M5",
             "x": 241,
-            "y": 2118
+            "y": 2120
           }
         ]
       },
@@ -7100,7 +7009,7 @@
           {
             "map": "E3M5",
             "x": 237,
-            "y": 2159
+            "y": 2161
           }
         ]
       },
@@ -7121,7 +7030,7 @@
           {
             "map": "E3M5",
             "x": 362,
-            "y": 2161
+            "y": 2163
           }
         ]
       },
@@ -7160,7 +7069,7 @@
           {
             "map": "E3M5",
             "x": 372,
-            "y": 2452
+            "y": 2455
           }
         ]
       },
@@ -7190,7 +7099,7 @@
           {
             "map": "E3M5",
             "x": 458,
-            "y": 2460
+            "y": 2464
           }
         ]
       },
@@ -7211,7 +7120,7 @@
           {
             "map": "E3M5",
             "x": 598,
-            "y": 2461
+            "y": 2464
           }
         ]
       },
@@ -7232,7 +7141,26 @@
           {
             "map": "E3M5",
             "x": 354,
-            "y": 2584
+            "y": 2587
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793045"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M5",
+            "x": 2012,
+            "y": 246,
+            "size": 44
           }
         ]
       }
@@ -7247,25 +7175,6 @@
       "inc_e3m6"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495793149"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 2642,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Medical Kit 5 (+2)",
         "sections": [
@@ -7540,6 +7449,27 @@
         ]
       },
       {
+        "name": "Box of Shotgun Shells 13",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 13",
+            "access_rules": [
+              "$check|3495793068"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 1888,
+            "y": 474
+          }
+        ]
+      },
+      {
         "name": "Gold Coin 3 (+9)",
         "sections": [
           {
@@ -7637,28 +7567,7 @@
           {
             "map": "E3M6",
             "x": 1933,
-            "y": 468
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 13",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 13",
-            "access_rules": [
-              "$check|3495793068"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 1888,
-            "y": 474
+            "y": 469
           }
         ]
       },
@@ -7790,7 +7699,7 @@
           {
             "map": "E3M6",
             "x": 631,
-            "y": 688
+            "y": 689
           }
         ]
       },
@@ -7811,7 +7720,7 @@
           {
             "map": "E3M6",
             "x": 733,
-            "y": 865
+            "y": 866
           }
         ]
       },
@@ -7832,7 +7741,7 @@
           {
             "map": "E3M6",
             "x": 861,
-            "y": 866
+            "y": 867
           }
         ]
       },
@@ -7853,7 +7762,7 @@
           {
             "map": "E3M6",
             "x": 883,
-            "y": 866
+            "y": 868
           }
         ]
       },
@@ -7874,28 +7783,58 @@
           {
             "map": "E3M6",
             "x": 902,
-            "y": 936
+            "y": 937
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 6",
+        "name": "Medical Kit 8 (+1)",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 6",
+            "name": "Medical Kit 8",
             "access_rules": [
-              "$check|3495793061"
+              "$check|3495793115"
             ],
             "visibility_rules": [
-              "opt_ammo"
+              "opt_health"
+            ]
+          },
+          {
+            "name": "Medical Kit 9",
+            "access_rules": [
+              "$check|3495793116"
+            ],
+            "visibility_rules": [
+              "opt_health"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M6",
-            "x": 2367,
-            "y": 939
+            "x": 2558,
+            "y": 940
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 6",
+        "sections": [
+          {
+            "name": "Medical Kit 6",
+            "access_rules": [
+              "$check|3495793113"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 2099,
+            "y": 941
           }
         ]
       },
@@ -7916,7 +7855,28 @@
           {
             "map": "E3M6",
             "x": 632,
-            "y": 941
+            "y": 942
+          }
+        ]
+      },
+      {
+        "name": "Box of Mortar Grenades 2",
+        "sections": [
+          {
+            "name": "Box of Mortar Grenades 2",
+            "access_rules": [
+              "$check|3495793052"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 1948,
+            "y": 950
           }
         ]
       },
@@ -7951,228 +7911,6 @@
         ]
       },
       {
-        "name": "Box of Hunting Rifle Bullets 3 (+2)",
-        "sections": [
-          {
-            "name": "Box of Hunting Rifle Bullets 3",
-            "access_rules": [
-              "$check|3495793050"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Box of Shotgun Shells 5",
-            "access_rules": [
-              "$check|3495793060"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Medical Kit 10",
-            "access_rules": [
-              "$check|3495793117"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 2296,
-            "y": 983
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 3",
-        "sections": [
-          {
-            "name": "Medical Kit 3",
-            "access_rules": [
-              "$check|3495793110"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 595,
-            "y": 1058
-          }
-        ]
-      },
-      {
-        "name": "Box of Pistol Bullets 1 (+1)",
-        "sections": [
-          {
-            "name": "Box of Pistol Bullets 1",
-            "access_rules": [
-              "$check|3495793053"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Pistol 1",
-            "access_rules": [
-              "$check|3495793142"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 842,
-            "y": 1066
-          }
-        ]
-      },
-      {
-        "name": "Red Key",
-        "sections": [
-          {
-            "name": "Red Key",
-            "access_rules": [
-              "$check|3495793123"
-            ],
-            "visibility_rules": [
-              "opt_keys"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 569,
-            "y": 1104
-          }
-        ]
-      },
-      {
-        "name": "Assault Rifle Magazine 1 (+2)",
-        "sections": [
-          {
-            "name": "Assault Rifle Magazine 1",
-            "access_rules": [
-              "$check|3495793046"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Assault Rifle Magazine 2",
-            "access_rules": [
-              "$check|3495793047"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Sword",
-            "access_rules": [
-              "$check|3495793148"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 705,
-            "y": 1251
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 8 (+1)",
-        "sections": [
-          {
-            "name": "Medical Kit 8",
-            "access_rules": [
-              "$check|3495793115"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          },
-          {
-            "name": "Medical Kit 9",
-            "access_rules": [
-              "$check|3495793116"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 2558,
-            "y": 1332
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 6",
-        "sections": [
-          {
-            "name": "Medical Kit 6",
-            "access_rules": [
-              "$check|3495793113"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 2099,
-            "y": 1333
-          }
-        ]
-      },
-      {
-        "name": "Box of Mortar Grenades 2",
-        "sections": [
-          {
-            "name": "Box of Mortar Grenades 2",
-            "access_rules": [
-              "$check|3495793052"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 1948,
-            "y": 1342
-          }
-        ]
-      },
-      {
         "name": "Box of Hunting Rifle Bullets 2",
         "sections": [
           {
@@ -8189,7 +7927,7 @@
           {
             "map": "E3M6",
             "x": 1981,
-            "y": 1371
+            "y": 979
           }
         ]
       },
@@ -8210,7 +7948,28 @@
           {
             "map": "E3M6",
             "x": 2405,
-            "y": 1419
+            "y": 1027
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 3",
+        "sections": [
+          {
+            "name": "Medical Kit 3",
+            "access_rules": [
+              "$check|3495793110"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 595,
+            "y": 1059
           }
         ]
       },
@@ -8276,7 +8035,37 @@
           {
             "map": "E3M6",
             "x": 2186,
-            "y": 1451
+            "y": 1060
+          }
+        ]
+      },
+      {
+        "name": "Box of Pistol Bullets 1 (+1)",
+        "sections": [
+          {
+            "name": "Box of Pistol Bullets 1",
+            "access_rules": [
+              "$check|3495793053"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Pistol 1",
+            "access_rules": [
+              "$check|3495793142"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 842,
+            "y": 1068
           }
         ]
       },
@@ -8297,7 +8086,7 @@
           {
             "map": "E3M6",
             "x": 2081,
-            "y": 1480
+            "y": 1088
           }
         ]
       },
@@ -8336,7 +8125,28 @@
           {
             "map": "E3M6",
             "x": 2431,
-            "y": 1494
+            "y": 1102
+          }
+        ]
+      },
+      {
+        "name": "Red Key",
+        "sections": [
+          {
+            "name": "Red Key",
+            "access_rules": [
+              "$check|3495793123"
+            ],
+            "visibility_rules": [
+              "opt_keys"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 569,
+            "y": 1105
           }
         ]
       },
@@ -8375,49 +8185,7 @@
           {
             "map": "E3M6",
             "x": 2431,
-            "y": 1510
-          }
-        ]
-      },
-      {
-        "name": "Small Medical Kit 1",
-        "sections": [
-          {
-            "name": "Small Medical Kit 1",
-            "access_rules": [
-              "$check|3495793119"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 714,
-            "y": 1528
-          }
-        ]
-      },
-      {
-        "name": "Bag of Gems 3",
-        "sections": [
-          {
-            "name": "Bag of Gems 3",
-            "access_rules": [
-              "$check|3495793087"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M6",
-            "x": 751,
-            "y": 1530
+            "y": 1118
           }
         ]
       },
@@ -8438,7 +8206,7 @@
           {
             "map": "E3M6",
             "x": 2215,
-            "y": 1542
+            "y": 1150
           }
         ]
       },
@@ -8459,7 +8227,88 @@
           {
             "map": "E3M6",
             "x": 2044,
-            "y": 1565
+            "y": 1173
+          }
+        ]
+      },
+      {
+        "name": "Assault Rifle Magazine 1 (+2)",
+        "sections": [
+          {
+            "name": "Assault Rifle Magazine 1",
+            "access_rules": [
+              "$check|3495793046"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Assault Rifle Magazine 2",
+            "access_rules": [
+              "$check|3495793047"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Sword",
+            "access_rules": [
+              "$check|3495793148"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 705,
+            "y": 1253
+          }
+        ]
+      },
+      {
+        "name": "Small Medical Kit 1",
+        "sections": [
+          {
+            "name": "Small Medical Kit 1",
+            "access_rules": [
+              "$check|3495793119"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 714,
+            "y": 1531
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 3",
+        "sections": [
+          {
+            "name": "Bag of Gems 3",
+            "access_rules": [
+              "$check|3495793087"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 751,
+            "y": 1533
           }
         ]
       },
@@ -8489,7 +8338,67 @@
           {
             "map": "E3M6",
             "x": 738,
-            "y": 1575
+            "y": 1578
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 6",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 6",
+            "access_rules": [
+              "$check|3495793061"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 2367,
+            "y": 1593
+          }
+        ]
+      },
+      {
+        "name": "Box of Hunting Rifle Bullets 3 (+2)",
+        "sections": [
+          {
+            "name": "Box of Hunting Rifle Bullets 3",
+            "access_rules": [
+              "$check|3495793050"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Box of Shotgun Shells 5",
+            "access_rules": [
+              "$check|3495793060"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Medical Kit 10",
+            "access_rules": [
+              "$check|3495793117"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 2296,
+            "y": 1637
           }
         ]
       },
@@ -8519,7 +8428,7 @@
           {
             "map": "E3M6",
             "x": 692,
-            "y": 1716
+            "y": 1719
           }
         ]
       },
@@ -8540,7 +8449,7 @@
           {
             "map": "E3M6",
             "x": 941,
-            "y": 1719
+            "y": 1722
           }
         ]
       },
@@ -8570,7 +8479,7 @@
           {
             "map": "E3M6",
             "x": 799,
-            "y": 1835
+            "y": 1838
           }
         ]
       },
@@ -8591,7 +8500,7 @@
           {
             "map": "E3M6",
             "x": 798,
-            "y": 1858
+            "y": 1862
           }
         ]
       },
@@ -8612,7 +8521,7 @@
           {
             "map": "E3M6",
             "x": 689,
-            "y": 1924
+            "y": 1927
           }
         ]
       },
@@ -8714,7 +8623,7 @@
           {
             "map": "E3M6",
             "x": 804,
-            "y": 2006
+            "y": 2009
           }
         ]
       },
@@ -8789,7 +8698,26 @@
           {
             "map": "E3M6",
             "x": 653,
-            "y": 2072
+            "y": 2075
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793149"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M6",
+            "x": 2186,
+            "y": 1451,
+            "size": 44
           }
         ]
       }
@@ -9094,7 +9022,7 @@
           {
             "map": "E3M7",
             "x": 1756,
-            "y": 444
+            "y": 445
           }
         ]
       },
@@ -9154,7 +9082,7 @@
           {
             "map": "E3M7",
             "x": 1317,
-            "y": 676
+            "y": 678
           }
         ]
       },
@@ -9193,7 +9121,7 @@
           {
             "map": "E3M7",
             "x": 1473,
-            "y": 690
+            "y": 692
           }
         ]
       },
@@ -9223,7 +9151,7 @@
           {
             "map": "E3M7",
             "x": 1444,
-            "y": 730
+            "y": 732
           }
         ]
       },
@@ -9244,7 +9172,7 @@
           {
             "map": "E3M7",
             "x": 1336,
-            "y": 754
+            "y": 756
           }
         ]
       },
@@ -9265,7 +9193,7 @@
           {
             "map": "E3M7",
             "x": 2475,
-            "y": 784
+            "y": 785
           }
         ]
       },
@@ -9286,7 +9214,7 @@
           {
             "map": "E3M7",
             "x": 1748,
-            "y": 808
+            "y": 810
           }
         ]
       },
@@ -9307,7 +9235,7 @@
           {
             "map": "E3M7",
             "x": 2512,
-            "y": 813
+            "y": 814
           }
         ]
       },
@@ -9328,7 +9256,7 @@
           {
             "map": "E3M7",
             "x": 2437,
-            "y": 840
+            "y": 841
           }
         ]
       },
@@ -9349,7 +9277,7 @@
           {
             "map": "E3M7",
             "x": 1940,
-            "y": 842
+            "y": 844
           }
         ]
       },
@@ -9370,7 +9298,7 @@
           {
             "map": "E3M7",
             "x": 701,
-            "y": 862
+            "y": 864
           }
         ]
       },
@@ -9391,7 +9319,7 @@
           {
             "map": "E3M7",
             "x": 861,
-            "y": 892
+            "y": 894
           }
         ]
       },
@@ -9412,7 +9340,7 @@
           {
             "map": "E3M7",
             "x": 656,
-            "y": 896
+            "y": 898
           }
         ]
       },
@@ -9433,7 +9361,7 @@
           {
             "map": "E3M7",
             "x": 754,
-            "y": 897
+            "y": 899
           }
         ]
       },
@@ -9463,7 +9391,7 @@
           {
             "map": "E3M7",
             "x": 2209,
-            "y": 956
+            "y": 958
           }
         ]
       },
@@ -9484,7 +9412,7 @@
           {
             "map": "E3M7",
             "x": 584,
-            "y": 973
+            "y": 975
           }
         ]
       },
@@ -9505,7 +9433,7 @@
           {
             "map": "E3M7",
             "x": 903,
-            "y": 1014
+            "y": 1016
           }
         ]
       },
@@ -9544,7 +9472,7 @@
           {
             "map": "E3M7",
             "x": 754,
-            "y": 1035
+            "y": 1037
           }
         ]
       },
@@ -9574,7 +9502,7 @@
           {
             "map": "E3M7",
             "x": 2223,
-            "y": 1034
+            "y": 1036
           }
         ]
       },
@@ -9640,7 +9568,7 @@
           {
             "map": "E3M7",
             "x": 2455,
-            "y": 1067
+            "y": 1069
           }
         ]
       },
@@ -9661,7 +9589,7 @@
           {
             "map": "E3M7",
             "x": 669,
-            "y": 1076
+            "y": 1078
           }
         ]
       },
@@ -9691,7 +9619,7 @@
           {
             "map": "E3M7",
             "x": 2560,
-            "y": 1298
+            "y": 1301
           }
         ]
       },
@@ -9721,26 +9649,7 @@
           {
             "map": "E3M7",
             "x": 2188,
-            "y": 1308
-          }
-        ]
-      },
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495793224"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M7",
-            "x": 2583,
-            "y": 1343,
-            "size": 48
+            "y": 1310
           }
         ]
       },
@@ -9770,7 +9679,7 @@
           {
             "map": "E3M7",
             "x": 2494,
-            "y": 1362
+            "y": 1365
           }
         ]
       },
@@ -9791,7 +9700,7 @@
           {
             "map": "E3M7",
             "x": 2437,
-            "y": 1397
+            "y": 1400
           }
         ]
       },
@@ -9893,7 +9802,26 @@
           {
             "map": "E3M7",
             "x": 120,
-            "y": 1555
+            "y": 1559
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793224"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M7",
+            "x": 2583,
+            "y": 1346,
+            "size": 44
           }
         ]
       }
@@ -9908,25 +9836,6 @@
       "inc_e3m8"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495793356"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2688,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Medical Kit 16",
         "sections": [
@@ -10067,7 +9976,7 @@
           {
             "map": "E3M8",
             "x": 1188,
-            "y": 502
+            "y": 503
           }
         ]
       },
@@ -10088,7 +9997,7 @@
           {
             "map": "E3M8",
             "x": 2455,
-            "y": 527
+            "y": 528
           }
         ]
       },
@@ -10109,7 +10018,7 @@
           {
             "map": "E3M8",
             "x": 2495,
-            "y": 527
+            "y": 528
           }
         ]
       },
@@ -10187,7 +10096,7 @@
           {
             "map": "E3M8",
             "x": 1022,
-            "y": 674
+            "y": 676
           }
         ]
       },
@@ -10235,26 +10144,26 @@
           {
             "map": "E3M8",
             "x": 1068,
-            "y": 718
+            "y": 720
           }
         ]
       },
       {
-        "name": "Medical Kit 10 (+1)",
+        "name": "Medical Kit 1 (+1)",
         "sections": [
           {
-            "name": "Medical Kit 10",
+            "name": "Medical Kit 1",
             "access_rules": [
-              "$check|3495793315"
+              "$check|3495793306"
             ],
             "visibility_rules": [
               "opt_health"
             ]
           },
           {
-            "name": "Medical Kit 11",
+            "name": "Medical Kit 2",
             "access_rules": [
-              "$check|3495793316"
+              "$check|3495793307"
             ],
             "visibility_rules": [
               "opt_health"
@@ -10264,8 +10173,8 @@
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 2529,
-            "y": 727
+            "x": 2474,
+            "y": 730
           }
         ]
       },
@@ -10295,7 +10204,7 @@
           {
             "map": "E3M8",
             "x": 1954,
-            "y": 750
+            "y": 751
           }
         ]
       },
@@ -10325,7 +10234,7 @@
           {
             "map": "E3M8",
             "x": 784,
-            "y": 767
+            "y": 768
           }
         ]
       },
@@ -10346,7 +10255,7 @@
           {
             "map": "E3M8",
             "x": 1849,
-            "y": 843
+            "y": 844
           }
         ]
       },
@@ -10367,7 +10276,7 @@
           {
             "map": "E3M8",
             "x": 91,
-            "y": 845
+            "y": 846
           }
         ]
       },
@@ -10388,7 +10297,7 @@
           {
             "map": "E3M8",
             "x": 110,
-            "y": 845
+            "y": 846
           }
         ]
       },
@@ -10409,7 +10318,7 @@
           {
             "map": "E3M8",
             "x": 199,
-            "y": 847
+            "y": 848
           }
         ]
       },
@@ -10430,7 +10339,7 @@
           {
             "map": "E3M8",
             "x": 285,
-            "y": 847
+            "y": 848
           }
         ]
       },
@@ -10451,7 +10360,7 @@
           {
             "map": "E3M8",
             "x": 371,
-            "y": 847
+            "y": 848
           }
         ]
       },
@@ -10472,7 +10381,7 @@
           {
             "map": "E3M8",
             "x": 456,
-            "y": 847
+            "y": 848
           }
         ]
       },
@@ -10493,37 +10402,7 @@
           {
             "map": "E3M8",
             "x": 496,
-            "y": 847
-          }
-        ]
-      },
-      {
-        "name": "Medical Kit 8 (+1)",
-        "sections": [
-          {
-            "name": "Medical Kit 8",
-            "access_rules": [
-              "$check|3495793313"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          },
-          {
-            "name": "Medical Kit 9",
-            "access_rules": [
-              "$check|3495793314"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2455,
-            "y": 908
+            "y": 848
           }
         ]
       },
@@ -10571,7 +10450,7 @@
           {
             "map": "E3M8",
             "x": 1208,
-            "y": 938
+            "y": 939
           }
         ]
       },
@@ -10592,7 +10471,7 @@
           {
             "map": "E3M8",
             "x": 1243,
-            "y": 938
+            "y": 939
           }
         ]
       },
@@ -10622,7 +10501,7 @@
           {
             "map": "E3M8",
             "x": 690,
-            "y": 939
+            "y": 940
           }
         ]
       },
@@ -10643,76 +10522,7 @@
           {
             "map": "E3M8",
             "x": 1636,
-            "y": 939
-          }
-        ]
-      },
-      {
-        "name": "Rivets 11 (+3)",
-        "sections": [
-          {
-            "name": "Rivets 11",
-            "access_rules": [
-              "$check|3495793275"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 12",
-            "access_rules": [
-              "$check|3495793276"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 14",
-            "access_rules": [
-              "$check|3495793278"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          },
-          {
-            "name": "Rivets 15",
-            "access_rules": [
-              "$check|3495793279"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2604,
-            "y": 924
-          }
-        ]
-      },
-      {
-        "name": "Box of Pistol Bullets 2",
-        "sections": [
-          {
-            "name": "Box of Pistol Bullets 2",
-            "access_rules": [
-              "$check|3495793250"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2571,
-            "y": 945
+            "y": 940
           }
         ]
       },
@@ -10760,7 +10570,7 @@
           {
             "map": "E3M8",
             "x": 480,
-            "y": 934
+            "y": 935
           }
         ]
       },
@@ -10808,7 +10618,7 @@
           {
             "map": "E3M8",
             "x": 520,
-            "y": 934
+            "y": 935
           }
         ]
       },
@@ -10829,7 +10639,7 @@
           {
             "map": "E3M8",
             "x": 1485,
-            "y": 998
+            "y": 999
           }
         ]
       },
@@ -10850,26 +10660,26 @@
           {
             "map": "E3M8",
             "x": 495,
-            "y": 1023
+            "y": 1024
           }
         ]
       },
       {
-        "name": "Box of Hunting Rifle Bullets 5 (+1)",
+        "name": "Medical Kit 10 (+1)",
         "sections": [
           {
-            "name": "Box of Hunting Rifle Bullets 5",
+            "name": "Medical Kit 10",
             "access_rules": [
-              "$check|3495793244"
+              "$check|3495793315"
             ],
             "visibility_rules": [
-              "opt_ammo"
+              "opt_health"
             ]
           },
           {
-            "name": "Small Medical Kit 4",
+            "name": "Medical Kit 11",
             "access_rules": [
-              "$check|3495793330"
+              "$check|3495793316"
             ],
             "visibility_rules": [
               "opt_health"
@@ -10879,8 +10689,8 @@
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 2554,
-            "y": 1040
+            "x": 2529,
+            "y": 1084
           }
         ]
       },
@@ -10910,7 +10720,7 @@
           {
             "map": "E3M8",
             "x": 1996,
-            "y": 1220
+            "y": 1222
           }
         ]
       },
@@ -10931,7 +10741,7 @@
           {
             "map": "E3M8",
             "x": 2051,
-            "y": 1220
+            "y": 1222
           }
         ]
       },
@@ -10952,7 +10762,7 @@
           {
             "map": "E3M8",
             "x": 1953,
-            "y": 1228
+            "y": 1230
           }
         ]
       },
@@ -10973,70 +10783,7 @@
           {
             "map": "E3M8",
             "x": 1822,
-            "y": 1234
-          }
-        ]
-      },
-      {
-        "name": "Bag of Gems 4",
-        "sections": [
-          {
-            "name": "Bag of Gems 4",
-            "access_rules": [
-              "$check|3495793295"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2547,
-            "y": 1240
-          }
-        ]
-      },
-      {
-        "name": "Pistol Clip 2",
-        "sections": [
-          {
-            "name": "Pistol Clip 2",
-            "access_rules": [
-              "$check|3495793264"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2572,
-            "y": 1240
-          }
-        ]
-      },
-      {
-        "name": "Pistol Clip 1",
-        "sections": [
-          {
-            "name": "Pistol Clip 1",
-            "access_rules": [
-              "$check|3495793263"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2598,
-            "y": 1240
+            "y": 1236
           }
         ]
       },
@@ -11057,7 +10804,37 @@
           {
             "map": "E3M8",
             "x": 1888,
-            "y": 1252
+            "y": 1254
+          }
+        ]
+      },
+      {
+        "name": "Medical Kit 8 (+1)",
+        "sections": [
+          {
+            "name": "Medical Kit 8",
+            "access_rules": [
+              "$check|3495793313"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          },
+          {
+            "name": "Medical Kit 9",
+            "access_rules": [
+              "$check|3495793314"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2455,
+            "y": 1266
           }
         ]
       },
@@ -11087,7 +10864,7 @@
           {
             "map": "E3M8",
             "x": 1825,
-            "y": 1286
+            "y": 1288
           }
         ]
       },
@@ -11108,17 +10885,44 @@
           {
             "map": "E3M8",
             "x": 1875,
-            "y": 1294
+            "y": 1296
           }
         ]
       },
       {
-        "name": "Assault Rifle Magazine 11",
+        "name": "Rivets 11 (+3)",
         "sections": [
           {
-            "name": "Assault Rifle Magazine 11",
+            "name": "Rivets 11",
             "access_rules": [
-              "$check|3495793235"
+              "$check|3495793275"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 12",
+            "access_rules": [
+              "$check|3495793276"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 14",
+            "access_rules": [
+              "$check|3495793278"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Rivets 15",
+            "access_rules": [
+              "$check|3495793279"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -11128,50 +10932,29 @@
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 2455,
-            "y": 1327
+            "x": 2604,
+            "y": 1281
           }
         ]
       },
       {
-        "name": "Bag of Gems 6",
+        "name": "Box of Pistol Bullets 2",
         "sections": [
           {
-            "name": "Bag of Gems 6",
+            "name": "Box of Pistol Bullets 2",
             "access_rules": [
-              "$check|3495793297"
+              "$check|3495793250"
             ],
             "visibility_rules": [
-              "opt_armor"
+              "opt_ammo"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 2562,
-            "y": 1352
-          }
-        ]
-      },
-      {
-        "name": "Bag of Gems 5",
-        "sections": [
-          {
-            "name": "Bag of Gems 5",
-            "access_rules": [
-              "$check|3495793296"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M8",
-            "x": 2584,
-            "y": 1352
+            "x": 2571,
+            "y": 1302
           }
         ]
       },
@@ -11192,7 +10975,7 @@
           {
             "map": "E3M8",
             "x": 1442,
-            "y": 1355
+            "y": 1357
           }
         ]
       },
@@ -11222,7 +11005,37 @@
           {
             "map": "E3M8",
             "x": 1818,
-            "y": 1386
+            "y": 1388
+          }
+        ]
+      },
+      {
+        "name": "Box of Hunting Rifle Bullets 5 (+1)",
+        "sections": [
+          {
+            "name": "Box of Hunting Rifle Bullets 5",
+            "access_rules": [
+              "$check|3495793244"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          },
+          {
+            "name": "Small Medical Kit 4",
+            "access_rules": [
+              "$check|3495793330"
+            ],
+            "visibility_rules": [
+              "opt_health"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2554,
+            "y": 1397
           }
         ]
       },
@@ -11252,7 +11065,7 @@
           {
             "map": "E3M8",
             "x": 1875,
-            "y": 1406
+            "y": 1408
           }
         ]
       },
@@ -11282,7 +11095,7 @@
           {
             "map": "E3M8",
             "x": 1832,
-            "y": 1424
+            "y": 1426
           }
         ]
       },
@@ -11312,7 +11125,7 @@
           {
             "map": "E3M8",
             "x": 1872,
-            "y": 1441
+            "y": 1443
           }
         ]
       },
@@ -11333,7 +11146,7 @@
           {
             "map": "E3M8",
             "x": 1761,
-            "y": 1478
+            "y": 1480
           }
         ]
       },
@@ -11354,28 +11167,70 @@
           {
             "map": "E3M8",
             "x": 1782,
-            "y": 1478
+            "y": 1480
           }
         ]
       },
       {
-        "name": "Yellow Key",
+        "name": "Bag of Gems 4",
         "sections": [
           {
-            "name": "Yellow Key",
+            "name": "Bag of Gems 4",
             "access_rules": [
-              "$check|3495793332"
+              "$check|3495793295"
             ],
             "visibility_rules": [
-              "opt_keys"
+              "opt_armor"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 2455,
-            "y": 1547
+            "x": 2547,
+            "y": 1598
+          }
+        ]
+      },
+      {
+        "name": "Pistol Clip 2",
+        "sections": [
+          {
+            "name": "Pistol Clip 2",
+            "access_rules": [
+              "$check|3495793264"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2572,
+            "y": 1598
+          }
+        ]
+      },
+      {
+        "name": "Pistol Clip 1",
+        "sections": [
+          {
+            "name": "Pistol Clip 1",
+            "access_rules": [
+              "$check|3495793263"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2598,
+            "y": 1598
           }
         ]
       },
@@ -11414,46 +11269,70 @@
           {
             "map": "E3M8",
             "x": 2020,
-            "y": 1674
+            "y": 1677
           }
         ]
       },
       {
-        "name": "Medical Kit 17 (+2)",
+        "name": "Assault Rifle Magazine 11",
         "sections": [
           {
-            "name": "Medical Kit 17",
+            "name": "Assault Rifle Magazine 11",
             "access_rules": [
-              "$check|3495793322"
+              "$check|3495793235"
             ],
             "visibility_rules": [
-              "opt_health"
-            ]
-          },
-          {
-            "name": "Medical Kit 18",
-            "access_rules": [
-              "$check|3495793323"
-            ],
-            "visibility_rules": [
-              "opt_health"
-            ]
-          },
-          {
-            "name": "Secret Area 2",
-            "access_rules": [
-              "$check|3495793341"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
+              "opt_ammo"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 2460,
-            "y": 1744
+            "x": 2455,
+            "y": 1685
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 6",
+        "sections": [
+          {
+            "name": "Bag of Gems 6",
+            "access_rules": [
+              "$check|3495793297"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2562,
+            "y": 1710
+          }
+        ]
+      },
+      {
+        "name": "Bag of Gems 5",
+        "sections": [
+          {
+            "name": "Bag of Gems 5",
+            "access_rules": [
+              "$check|3495793296"
+            ],
+            "visibility_rules": [
+              "opt_armor"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2584,
+            "y": 1710
           }
         ]
       },
@@ -11483,7 +11362,7 @@
           {
             "map": "E3M8",
             "x": 2034,
-            "y": 1764
+            "y": 1767
           }
         ]
       },
@@ -11549,7 +11428,7 @@
           {
             "map": "E3M8",
             "x": 1985,
-            "y": 1772
+            "y": 1775
           }
         ]
       },
@@ -11570,7 +11449,28 @@
           {
             "map": "E3M8",
             "x": 2179,
-            "y": 1879
+            "y": 1882
+          }
+        ]
+      },
+      {
+        "name": "Yellow Key",
+        "sections": [
+          {
+            "name": "Yellow Key",
+            "access_rules": [
+              "$check|3495793332"
+            ],
+            "visibility_rules": [
+              "opt_keys"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2455,
+            "y": 1906
           }
         ]
       },
@@ -11600,37 +11500,46 @@
           {
             "map": "E3M8",
             "x": 1990,
-            "y": 2078
+            "y": 2082
           }
         ]
       },
       {
-        "name": "Medical Kit 1 (+1)",
+        "name": "Medical Kit 17 (+2)",
         "sections": [
           {
-            "name": "Medical Kit 1",
+            "name": "Medical Kit 17",
             "access_rules": [
-              "$check|3495793306"
+              "$check|3495793322"
             ],
             "visibility_rules": [
               "opt_health"
             ]
           },
           {
-            "name": "Medical Kit 2",
+            "name": "Medical Kit 18",
             "access_rules": [
-              "$check|3495793307"
+              "$check|3495793323"
             ],
             "visibility_rules": [
               "opt_health"
+            ]
+          },
+          {
+            "name": "Secret Area 2",
+            "access_rules": [
+              "$check|3495793341"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M8",
-            "x": 1488,
-            "y": 2188
+            "x": 2460,
+            "y": 2104
           }
         ]
       },
@@ -11705,7 +11614,7 @@
           {
             "map": "E3M8",
             "x": 1870,
-            "y": 2184
+            "y": 2188
           }
         ]
       },
@@ -11744,7 +11653,7 @@
           {
             "map": "E3M8",
             "x": 1992,
-            "y": 2245
+            "y": 2249
           }
         ]
       },
@@ -11783,7 +11692,7 @@
           {
             "map": "E3M8",
             "x": 1967,
-            "y": 2448
+            "y": 2453
           }
         ]
       },
@@ -11813,7 +11722,7 @@
           {
             "map": "E3M8",
             "x": 1940,
-            "y": 2484
+            "y": 2490
           }
         ]
       },
@@ -11834,7 +11743,7 @@
           {
             "map": "E3M8",
             "x": 1997,
-            "y": 2509
+            "y": 2514
           }
         ]
       },
@@ -11873,7 +11782,7 @@
           {
             "map": "E3M8",
             "x": 2248,
-            "y": 2517
+            "y": 2522
           }
         ]
       },
@@ -11894,7 +11803,7 @@
           {
             "map": "E3M8",
             "x": 2015,
-            "y": 2522
+            "y": 2527
           }
         ]
       },
@@ -11924,7 +11833,7 @@
           {
             "map": "E3M8",
             "x": 2271,
-            "y": 2721
+            "y": 2727
           }
         ]
       },
@@ -11945,7 +11854,26 @@
           {
             "map": "E3M8",
             "x": 2191,
-            "y": 2797
+            "y": 2803
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793356"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M8",
+            "x": 2456,
+            "y": 884,
+            "size": 44
           }
         ]
       }
@@ -11961,21 +11889,23 @@
     ],
     "children": [
       {
-        "name": "Level Complete",
+        "name": "Secret Area",
         "sections": [
           {
-            "name": "Level Complete",
+            "name": "Secret Area",
             "access_rules": [
-              "$check|3495793384"
+              "$check|3495793372"
+            ],
+            "visibility_rules": [
+              "opt_secrets"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 1404,
-            "y": 48,
-            "size": 48
+            "x": 164,
+            "y": 274
           }
         ]
       },
@@ -11995,29 +11925,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 550,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Secret Area",
-        "sections": [
-          {
-            "name": "Secret Area",
-            "access_rules": [
-              "$check|3495793372"
-            ],
-            "visibility_rules": [
-              "opt_secrets"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M9",
-            "x": 1244,
-            "y": 275
+            "x": 1752,
+            "y": 943
           }
         ]
       },
@@ -12037,8 +11946,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 164,
-            "y": 394
+            "x": 1366,
+            "y": 1064
           }
         ]
       },
@@ -12058,8 +11967,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 914,
-            "y": 394
+            "x": 2116,
+            "y": 1064
           }
         ]
       },
@@ -12079,8 +11988,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 519,
-            "y": 668
+            "x": 1721,
+            "y": 1338
           }
         ]
       },
@@ -12100,8 +12009,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 519,
-            "y": 717
+            "x": 1721,
+            "y": 1386
           }
         ]
       },
@@ -12121,8 +12030,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 237,
-            "y": 729
+            "x": 1439,
+            "y": 1398
           }
         ]
       },
@@ -12142,8 +12051,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 892,
-            "y": 879
+            "x": 2094,
+            "y": 1548
           }
         ]
       },
@@ -12163,8 +12072,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 492,
-            "y": 964
+            "x": 1694,
+            "y": 1633
           }
         ]
       },
@@ -12184,8 +12093,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 526,
-            "y": 964
+            "x": 1728,
+            "y": 1633
           }
         ]
       },
@@ -12205,8 +12114,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 164,
-            "y": 977
+            "x": 1366,
+            "y": 1646
           }
         ]
       },
@@ -12226,8 +12135,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 493,
-            "y": 1001
+            "x": 1695,
+            "y": 1670
           }
         ]
       },
@@ -12247,8 +12156,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 526,
-            "y": 1001
+            "x": 1728,
+            "y": 1670
           }
         ]
       },
@@ -12268,8 +12177,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 509,
-            "y": 1053
+            "x": 1711,
+            "y": 1722
           }
         ]
       },
@@ -12289,8 +12198,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 874,
-            "y": 1064
+            "x": 2076,
+            "y": 1734
           }
         ]
       },
@@ -12310,8 +12219,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 510,
-            "y": 1100
+            "x": 1712,
+            "y": 1769
           }
         ]
       },
@@ -12331,8 +12240,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 483,
-            "y": 1106
+            "x": 1685,
+            "y": 1776
           }
         ]
       },
@@ -12352,8 +12261,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 535,
-            "y": 1110
+            "x": 1737,
+            "y": 1779
           }
         ]
       },
@@ -12373,8 +12282,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 511,
-            "y": 1122
+            "x": 1713,
+            "y": 1792
           }
         ]
       },
@@ -12394,8 +12303,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 547,
-            "y": 1132
+            "x": 1749,
+            "y": 1801
           }
         ]
       },
@@ -12415,8 +12324,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 472,
-            "y": 1133
+            "x": 1674,
+            "y": 1802
           }
         ]
       },
@@ -12436,8 +12345,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 511,
-            "y": 1143
+            "x": 1713,
+            "y": 1812
           }
         ]
       },
@@ -12457,8 +12366,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 537,
-            "y": 1156
+            "x": 1739,
+            "y": 1825
           }
         ]
       },
@@ -12478,8 +12387,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 484,
-            "y": 1160
+            "x": 1686,
+            "y": 1829
           }
         ]
       },
@@ -12499,8 +12408,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 511,
-            "y": 1170
+            "x": 1713,
+            "y": 1839
           }
         ]
       },
@@ -12520,8 +12429,8 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 240,
-            "y": 1247
+            "x": 1442,
+            "y": 1916
           }
         ]
       },
@@ -12541,8 +12450,33 @@
         "map_locations": [
           {
             "map": "E3M9",
-            "x": 917,
-            "y": 1247
+            "x": 2119,
+            "y": 1916
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793384"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M9",
+            "x": 2447,
+            "y": 274,
+            "size": 44
+          },
+          {
+            "map": "E3M9",
+            "x": 1752,
+            "y": 616,
+            "size": 44
           }
         ]
       }
@@ -12557,25 +12491,6 @@
       "inc_e3m10"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495793412"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3M10",
-            "x": 1726,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
       {
         "name": "Assault Rifle",
         "sections": [
@@ -13094,6 +13009,25 @@
             "y": 2332
           }
         ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793412"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3M10",
+            "x": 1106,
+            "y": 907,
+            "size": 44
+          }
+        ]
       }
     ]
   },
@@ -13106,67 +13040,6 @@
       "inc_e3ms"
     ],
     "children": [
-      {
-        "name": "Level Complete",
-        "sections": [
-          {
-            "name": "Level Complete",
-            "access_rules": [
-              "$check|3495793472"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3MS",
-            "x": 1868,
-            "y": 48,
-            "size": 48
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 4",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 4",
-            "access_rules": [
-              "$check|3495793432"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3MS",
-            "x": 1708,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 3",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 3",
-            "access_rules": [
-              "$check|3495793431"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E3MS",
-            "x": 1734,
-            "y": 274
-          }
-        ]
-      },
       {
         "name": "Medical Kit 7",
         "sections": [
@@ -13184,7 +13057,7 @@
           {
             "map": "E3MS",
             "x": 786,
-            "y": 279
+            "y": 280
           }
         ]
       },
@@ -13205,7 +13078,7 @@
           {
             "map": "E3MS",
             "x": 814,
-            "y": 279
+            "y": 280
           }
         ]
       },
@@ -13235,7 +13108,7 @@
           {
             "map": "E3MS",
             "x": 849,
-            "y": 276
+            "y": 277
           }
         ]
       },
@@ -13256,7 +13129,7 @@
           {
             "map": "E3MS",
             "x": 884,
-            "y": 279
+            "y": 280
           }
         ]
       },
@@ -13277,28 +13150,49 @@
           {
             "map": "E3MS",
             "x": 909,
-            "y": 279
+            "y": 280
           }
         ]
       },
       {
-        "name": "Hallowed Health",
+        "name": "Box of Shotgun Shells 4",
         "sections": [
           {
-            "name": "Hallowed Health",
+            "name": "Box of Shotgun Shells 4",
             "access_rules": [
-              "$check|3495793459"
+              "$check|3495793432"
             ],
             "visibility_rules": [
-              "opt_powerups"
+              "opt_ammo"
             ]
           }
         ],
         "map_locations": [
           {
             "map": "E3MS",
-            "x": 1722,
-            "y": 349
+            "x": 2180,
+            "y": 554
+          }
+        ]
+      },
+      {
+        "name": "Box of Shotgun Shells 3",
+        "sections": [
+          {
+            "name": "Box of Shotgun Shells 3",
+            "access_rules": [
+              "$check|3495793431"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3MS",
+            "x": 2206,
+            "y": 554
           }
         ]
       },
@@ -13319,7 +13213,28 @@
           {
             "map": "E3MS",
             "x": 489,
-            "y": 621
+            "y": 622
+          }
+        ]
+      },
+      {
+        "name": "Hallowed Health",
+        "sections": [
+          {
+            "name": "Hallowed Health",
+            "access_rules": [
+              "$check|3495793459"
+            ],
+            "visibility_rules": [
+              "opt_powerups"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3MS",
+            "x": 2194,
+            "y": 629
           }
         ]
       },
@@ -13340,7 +13255,7 @@
           {
             "map": "E3MS",
             "x": 512,
-            "y": 654
+            "y": 655
           }
         ]
       },
@@ -13361,7 +13276,7 @@
           {
             "map": "E3MS",
             "x": 749,
-            "y": 738
+            "y": 740
           }
         ]
       },
@@ -13382,7 +13297,7 @@
           {
             "map": "E3MS",
             "x": 936,
-            "y": 738
+            "y": 740
           }
         ]
       },
@@ -13403,7 +13318,7 @@
           {
             "map": "E3MS",
             "x": 936,
-            "y": 761
+            "y": 762
           }
         ]
       },
@@ -13424,7 +13339,7 @@
           {
             "map": "E3MS",
             "x": 749,
-            "y": 764
+            "y": 765
           }
         ]
       },
@@ -13445,7 +13360,7 @@
           {
             "map": "E3MS",
             "x": 749,
-            "y": 784
+            "y": 785
           }
         ]
       },
@@ -13466,7 +13381,7 @@
           {
             "map": "E3MS",
             "x": 936,
-            "y": 784
+            "y": 785
           }
         ]
       },
@@ -13487,7 +13402,7 @@
           {
             "map": "E3MS",
             "x": 288,
-            "y": 793
+            "y": 794
           }
         ]
       },
@@ -13508,7 +13423,7 @@
           {
             "map": "E3MS",
             "x": 476,
-            "y": 821
+            "y": 822
           }
         ]
       },
@@ -13529,7 +13444,7 @@
           {
             "map": "E3MS",
             "x": 319,
-            "y": 846
+            "y": 848
           }
         ]
       },
@@ -13559,7 +13474,7 @@
           {
             "map": "E3MS",
             "x": 1009,
-            "y": 851
+            "y": 852
           }
         ]
       },
@@ -13580,7 +13495,7 @@
           {
             "map": "E3MS",
             "x": 1039,
-            "y": 854
+            "y": 855
           }
         ]
       },
@@ -13601,7 +13516,7 @@
           {
             "map": "E3MS",
             "x": 1094,
-            "y": 861
+            "y": 862
           }
         ]
       },
@@ -13640,7 +13555,7 @@
           {
             "map": "E3MS",
             "x": 1016,
-            "y": 871
+            "y": 872
           }
         ]
       },
@@ -13661,7 +13576,7 @@
           {
             "map": "E3MS",
             "x": 1042,
-            "y": 978
+            "y": 980
           }
         ]
       },
@@ -13682,7 +13597,7 @@
           {
             "map": "E3MS",
             "x": 473,
-            "y": 982
+            "y": 984
           }
         ]
       },
@@ -13703,7 +13618,7 @@
           {
             "map": "E3MS",
             "x": 1136,
-            "y": 991
+            "y": 992
           }
         ]
       },
@@ -13724,7 +13639,7 @@
           {
             "map": "E3MS",
             "x": 1262,
-            "y": 998
+            "y": 1000
           }
         ]
       },
@@ -13745,7 +13660,7 @@
           {
             "map": "E3MS",
             "x": 1044,
-            "y": 1001
+            "y": 1002
           }
         ]
       },
@@ -13766,7 +13681,7 @@
           {
             "map": "E3MS",
             "x": 384,
-            "y": 1014
+            "y": 1015
           }
         ]
       },
@@ -13787,7 +13702,7 @@
           {
             "map": "E3MS",
             "x": 409,
-            "y": 1046
+            "y": 1048
           }
         ]
       },
@@ -13808,7 +13723,7 @@
           {
             "map": "E3MS",
             "x": 409,
-            "y": 1064
+            "y": 1065
           }
         ]
       },
@@ -13829,7 +13744,7 @@
           {
             "map": "E3MS",
             "x": 1381,
-            "y": 1068
+            "y": 1069
           }
         ]
       },
@@ -13850,7 +13765,7 @@
           {
             "map": "E3MS",
             "x": 1365,
-            "y": 1084
+            "y": 1085
           }
         ]
       },
@@ -13871,7 +13786,7 @@
           {
             "map": "E3MS",
             "x": 1082,
-            "y": 1116
+            "y": 1118
           }
         ]
       },
@@ -13892,7 +13807,7 @@
           {
             "map": "E3MS",
             "x": 366,
-            "y": 1151
+            "y": 1152
           }
         ]
       },
@@ -13913,7 +13828,7 @@
           {
             "map": "E3MS",
             "x": 384,
-            "y": 1151
+            "y": 1152
           }
         ]
       },
@@ -13934,7 +13849,7 @@
           {
             "map": "E3MS",
             "x": 404,
-            "y": 1151
+            "y": 1152
           }
         ]
       },
@@ -13973,7 +13888,7 @@
           {
             "map": "E3MS",
             "x": 515,
-            "y": 1224
+            "y": 1225
           }
         ]
       },
@@ -13994,7 +13909,7 @@
           {
             "map": "E3MS",
             "x": 164,
-            "y": 1241
+            "y": 1242
           }
         ]
       },
@@ -14015,7 +13930,7 @@
           {
             "map": "E3MS",
             "x": 492,
-            "y": 1491
+            "y": 1492
           }
         ]
       },
@@ -14036,7 +13951,7 @@
           {
             "map": "E3MS",
             "x": 546,
-            "y": 1491
+            "y": 1492
           }
         ]
       },
@@ -14057,7 +13972,7 @@
           {
             "map": "E3MS",
             "x": 369,
-            "y": 1624
+            "y": 1625
           }
         ]
       },
@@ -14078,7 +13993,7 @@
           {
             "map": "E3MS",
             "x": 389,
-            "y": 1624
+            "y": 1625
           }
         ]
       },
@@ -14099,7 +14014,7 @@
           {
             "map": "E3MS",
             "x": 649,
-            "y": 1624
+            "y": 1625
           }
         ]
       },
@@ -14120,7 +14035,7 @@
           {
             "map": "E3MS",
             "x": 669,
-            "y": 1624
+            "y": 1625
           }
         ]
       },
@@ -14141,7 +14056,7 @@
           {
             "map": "E3MS",
             "x": 629,
-            "y": 1698
+            "y": 1700
           }
         ]
       },
@@ -14162,7 +14077,7 @@
           {
             "map": "E3MS",
             "x": 409,
-            "y": 1706
+            "y": 1708
           }
         ]
       },
@@ -14183,7 +14098,7 @@
           {
             "map": "E3MS",
             "x": 946,
-            "y": 2048
+            "y": 2050
           }
         ]
       },
@@ -14204,7 +14119,7 @@
           {
             "map": "E3MS",
             "x": 949,
-            "y": 2073
+            "y": 2076
           }
         ]
       },
@@ -14225,7 +14140,7 @@
           {
             "map": "E3MS",
             "x": 949,
-            "y": 2090
+            "y": 2093
           }
         ]
       },
@@ -14255,7 +14170,7 @@
           {
             "map": "E3MS",
             "x": 948,
-            "y": 2113
+            "y": 2116
           }
         ]
       },
@@ -14276,7 +14191,26 @@
           {
             "map": "E3MS",
             "x": 522,
-            "y": 2403
+            "y": 2406
+          }
+        ]
+      },
+      {
+        "name": "Level Complete",
+        "sections": [
+          {
+            "name": "Level Complete",
+            "access_rules": [
+              "$check|3495793472"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E3MS",
+            "x": 1708,
+            "y": 274,
+            "size": 44
           }
         ]
       }
