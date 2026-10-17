@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "package_version": "0.2.2",
+      "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.2/dusk_ap_tracker_v0.2.2.zip",
+      "sha256": "77b52df3dde191f786364a76491bda0d5fc83ce15f800e30a6e0cd8e84c81ce6",
+      "changelog": [
+        "E2M1: the 16 spare Blue Keys and the Sword are no longer checks and are removed from the map.",
+        "E2M1: Level Complete pin moved onto the main map next to Pistol Clip 3 and Shotgun 1 (no more detached panel).",
+        "Combat logic setting renamed to match the apworld: easy / normal / unhinged."
+      ]
+    },
+    {
       "package_version": "0.2.1",
       "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.1/dusk_ap_tracker_v0.2.1.zip",
       "sha256": "d89facdf7c1ab3f7791d22d1ab633086d9004f3b82fa3759ec7c694d36b0b1b3",
