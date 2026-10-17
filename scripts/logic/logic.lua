@@ -22,8 +22,8 @@ function has(code, amount)
 end
 
 local function combat_stage()
-    if has("combat_none") then return 2 end
-    if has("combat_lenient") then return 1 end
+    if has("combat_unhinged") then return 2 end
+    if has("combat_normal") then return 1 end
     return 0
 end
 

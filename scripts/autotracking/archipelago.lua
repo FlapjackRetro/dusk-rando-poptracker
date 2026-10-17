@@ -74,10 +74,11 @@ function onClear(slot_data)
     if slot_data["goal"] then
         set_stage("goal", slot_data["goal"] == "all_levels" and 1 or 0)
     end
-    -- combat_logic is not in slot_data yet (apworld 0.2.0): set it by hand on the tracker.
+    -- combat_logic is not in slot_data yet: set it by hand on the tracker.
+    -- Stages: easy (0), normal (1), unhinged (2); lenient/none are the apworld's old names.
     if slot_data["combat_logic"] ~= nil then
         local v = slot_data["combat_logic"]
-        local stage = ({normal = 0, lenient = 1, none = 2})[v] or tonumber(v) or 0
+        local stage = ({easy = 0, normal = 1, unhinged = 2, lenient = 1, none = 2})[v] or tonumber(v) or 0
         set_stage("combat", stage)
     end
 end

@@ -20,7 +20,10 @@ REPO = "FlapjackRetro/dusk-rando-poptracker"
 VERSIONS_URL = f"https://raw.githubusercontent.com/{REPO}/main/versions.json"
 
 LEVELS = DATA["levels"]
-LOCS = [l for l in DATA["locations"] if l["vanilla_item"] != "Thermal Suit"]  # never a check (VANILLA_ONLY_ITEMS)
+from quick import DROPPED  # noqa: E402
+
+# Thermal Suits are never checks (VANILLA_ONLY_ITEMS); "drop" lists in level_config.json remove others.
+LOCS = [l for l in DATA["locations"] if l["vanilla_item"] != "Thermal Suit" and l["name"] not in DROPPED]
 EPISODE_NAMES = {1: "Episode 1: The Foothills", 2: "Episode 2: The Facilities", 3: "Episode 3: The Nameless City"}
 CAT_OPT = {"weapons": "opt_weapons", "keys": "opt_keys", "powerups": "opt_powerups", "secrets": "opt_secrets",
            "treasure_chests": "opt_treasure_chests", "health": "opt_health", "armor": "opt_armor", "ammo": "opt_ammo"}
@@ -163,9 +166,9 @@ def build_items():
     items.append({"name": "Auto map: follow the level you're in", "type": "toggle",
                   "img": "images/items/auto_tab.png", "codes": "auto_tab", "initial_active_state": True})
     items.append({"name": "Combat Logic", "type": "progressive", "allow_disabled": False, "loop": True, "stages": [
-        {"name": "Combat logic: normal", "img": "images/items/combat_0.png", "codes": "combat,combat_normal"},
-        {"name": "Combat logic: lenient", "img": "images/items/combat_1.png", "codes": "combat,combat_lenient"},
-        {"name": "Combat logic: none", "img": "images/items/combat_2.png", "codes": "combat,combat_none"}]})
+        {"name": "Combat logic: easy", "img": "images/items/combat_0.png", "codes": "combat,combat_easy"},
+        {"name": "Combat logic: normal", "img": "images/items/combat_1.png", "codes": "combat,combat_normal"},
+        {"name": "Combat logic: unhinged", "img": "images/items/combat_2.png", "codes": "combat,combat_unhinged"}]})
     items.append({"name": "Goal", "type": "progressive", "allow_disabled": False, "loop": True, "stages": [
         {"name": "Goal: bosses", "img": "images/items/goal_0.png", "codes": "goal,goal_bosses"},
         {"name": "Goal: all levels", "img": "images/items/goal_1.png", "codes": "goal,goal_all"}]})

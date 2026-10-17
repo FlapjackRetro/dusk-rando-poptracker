@@ -1,6 +1,6 @@
 # DUSK Archipelago — PopTracker pack
 
-Map tracker for the [dusk-rando](https://github.com/FlapjackRetro/dusk-rando) Archipelago world (apworld 0.2.0),
+Map tracker for the [dusk-rando](https://github.com/FlapjackRetro/dusk-rando) Archipelago world (apworld 0.4.x),
 for [PopTracker](https://github.com/black-sliver/PopTracker) 0.25+.
 
 ## Install
@@ -19,7 +19,7 @@ install them. The first time, it asks whether to load update information from `r
   textures. Levels that stack on themselves are split into **layers** by height (lowest at the bottom); each layer
   only shows floors in its height range, so basements, upper floors and catwalks don't hide each other.
   Small, far-off groups of checks get their own **detached area** panel.
-* **Every check** (3,228; Thermal Suits are never checks) placed at its in-game position. Checks within a few pixels
+* **Every check** (3,211; Thermal Suits are never checks, and E2M1's spare Blue Keys and Sword aren't either) placed at its in-game position. Checks within a few pixels
   of each other share one pin; hover it to see each one. The **Level Complete** check has its own pin (marked
   EXIT) on every way out of the level: end-level buttons and walk-in loading zones. Levels with two exits get two
   pins for the same check. E3M10 has no exit, so its pin (marked BOSS) is over the final boss.
@@ -32,7 +32,7 @@ install them. The first time, it asks whether to load update information from `r
   * a level is in logic with its Access item plus enough distinct firearms (combat logic table);
   * **strict key logic**: every check in a level with keys needs all of that level's keys.
   * `combat_logic` is not in the apworld's slot data yet, so set the COMBAT item by hand (click to cycle
-    normal → lenient → none). The pack already reads `slot_data["combat_logic"]` if the apworld adds it.
+    easy → normal → unhinged, matching the apworld's option names). The pack already reads `slot_data["combat_logic"]` if the apworld adds it.
 
 ## Building detailed logic
 

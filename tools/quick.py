@@ -11,6 +11,11 @@ from scene import load
 from paths import LOCATIONS_JSON, TOOLS, need
 
 LOC = json.load(open(need(LOCATIONS_JSON, "dusk-rando locations.json")))
+# Locations the pack leaves out even though dusk-rando's locations.json still lists them
+# ("drop" lists in level_config.json, e.g. pickups the apworld no longer makes checks).
+_CFG = json.load(open(os.path.join(TOOLS, "level_config.json")))
+DROPPED = {name for cfg in _CFG.values() for name in cfg.get("drop", [])}
+LOC["locations"] = [l for l in LOC["locations"] if l["name"] not in DROPPED]
 SCENE_IDX = {"E1M1": 3, "E1M2": 4, "E1M3": 5, "E1M4": 6, "E1M5": 7, "E1M6": 8, "E1M7": 9, "E1M8": 10, "E1M9": 11,
              "E1M10": 12, "E1MS": 14, "E2M1": 22, "E2M2": 23, "E2M3": 24, "E2M4": 25, "E2M5": 26, "E2M6": 27,
              "E2M7": 28, "E2M8": 29, "E2M9": 30, "E2M10": 31, "E2MS": 32, "E3M1": 37, "E3M2": 38, "E3M3": 39,

@@ -115,6 +115,9 @@ def compose(code, out_png, verbose=False):
 
     P = np.array([p for _, p, _, _ in prof])
     band_of = np.array([cfg.get("force", {}).get(l["name"], band(s)) for l, p, s, c in prof])
+    if "exit_layer_like" in cfg:  # put the exit pin(s) on the same layer as this check
+        ref = next(k for (l, p, s, c), k in zip(prof, band_of) if l["name"] == cfg["exit_layer_like"])
+        band_of = np.array([ref if l.get("exit") else k for (l, p, s, c), k in zip(prof, band_of)])
     margin = cfg.get("margin", 14)
     full = (P[:, 0].min() - margin, P[:, 2].min() - margin, P[:, 0].max() + margin, P[:, 2].max() + margin)
     # per layer: main crop + detached "inset" areas for far-off, small clusters of checks

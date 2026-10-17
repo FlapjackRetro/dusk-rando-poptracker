@@ -125,7 +125,7 @@ for code, text in SETTINGS.items():
     for i, ln in enumerate(lines):
         ctext(d, (24 if len(lines) == 1 else 14 + 18 * i), ln, 12 if len(ln) > 6 else 14)
     im.save(f"{OUT}/{code}.png")
-for stage, (a, b) in enumerate([("COMBAT", "NORMAL"), ("COMBAT", "LENIENT"), ("COMBAT", "NONE")]):
+for stage, (a, b) in enumerate([("COMBAT", "EASY"), ("COMBAT", "NORMAL"), ("COMBAT", "UNHINGED")]):
     im, d = tile((40, 30, 30), (130, 80, 70))
     ctext(d, 12, a, 12); ctext(d, 32, b, 12 if len(b) > 6 else 14, (255, 210, 120))
     im.save(f"{OUT}/combat_{stage}.png")

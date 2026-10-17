@@ -767,19 +767,19 @@
     "loop": true,
     "stages": [
       {
-        "name": "Combat logic: normal",
+        "name": "Combat logic: easy",
         "img": "images/items/combat_0.png",
+        "codes": "combat,combat_easy"
+      },
+      {
+        "name": "Combat logic: normal",
+        "img": "images/items/combat_1.png",
         "codes": "combat,combat_normal"
       },
       {
-        "name": "Combat logic: lenient",
-        "img": "images/items/combat_1.png",
-        "codes": "combat,combat_lenient"
-      },
-      {
-        "name": "Combat logic: none",
+        "name": "Combat logic: unhinged",
         "img": "images/items/combat_2.png",
-        "codes": "combat,combat_none"
+        "codes": "combat,combat_unhinged"
       }
     ]
   },
