@@ -158,6 +158,8 @@ def build_items():
     for code, on in defaults.items():
         items.append({"name": f"Show {labels[code]} checks", "type": "toggle", "img": f"images/items/{code}.png",
                       "codes": code, "initial_active_state": on})
+    items.append({"name": "Auto map: follow the level you're in", "type": "toggle",
+                  "img": "images/items/auto_tab.png", "codes": "auto_tab", "initial_active_state": True})
     items.append({"name": "Combat Logic", "type": "progressive", "allow_disabled": False, "loop": True, "stages": [
         {"name": "Combat logic: normal", "img": "images/items/combat_0.png", "codes": "combat,combat_normal"},
         {"name": "Combat logic: lenient", "img": "images/items/combat_1.png", "codes": "combat,combat_lenient"},
@@ -203,7 +205,7 @@ def build_layouts():
                                   ["mortar", "riveter", "sword"]]},
         "settings_grid": {"type": "itemgrid", "item_margin": "2,2", "item_size": 30, "h_alignment": "center",
                           "rows": [["opt_weapons", "opt_keys", "opt_powerups", "opt_secrets", "opt_treasure_chests"],
-                                   ["opt_health", "opt_armor", "opt_ammo", "combat", "goal"]]},
+                                   ["opt_health", "opt_armor", "opt_ammo", "combat", "goal", "auto_tab"]]},
         "levels_e1": {"type": "itemgrid", "item_margin": "1,1", "item_size": 24, "rows": level_rows(1)},
         "levels_e2": {"type": "itemgrid", "item_margin": "1,1", "item_size": 24, "rows": level_rows(2)},
         "levels_e3": {"type": "itemgrid", "item_margin": "1,1", "item_size": 24, "rows": level_rows(3)},

@@ -40,7 +40,8 @@
         "opt_armor",
         "opt_ammo",
         "combat",
-        "goal"
+        "goal",
+        "auto_tab"
       ]
     ]
   },

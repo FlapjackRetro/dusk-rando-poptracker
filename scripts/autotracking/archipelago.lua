@@ -49,6 +49,12 @@ function onClear(slot_data)
             end
         end
     end
+    -- auto-switch the map tab to the level the player is in (the DUSK mod writes this data storage key)
+    if Archipelago.PlayerNumber and Archipelago.PlayerNumber > 0 then
+        LEVEL_KEY = string.format("dusk_level_%d_%d", Archipelago.TeamNumber or 0, Archipelago.PlayerNumber)
+        Archipelago:SetNotify({LEVEL_KEY})
+        Archipelago:Get({LEVEL_KEY})
+    end
     if slot_data == nil then return end
 
     -- which levels are in this seed
@@ -120,6 +126,26 @@ function onLocation(location_id, location_name)
     end
 end
 
+-- ---- map auto-tab -------------------------------------------------------------------------
+-- The DUSK mod stores "E2M4" (in a level), "E1"/"E2"/"E3" (episode map) or "" (menus) under
+-- dusk_level_<team>_<slot>. Switch the episode tab, then the level tab. Off when "Auto map" is unticked.
+local EPISODE_TAB = {E1 = "Episode 1", E2 = "Episode 2", E3 = "Episode 3"}
+
+function switchToArea(value)
+    if type(value) ~= "string" or value == "" then return end
+    if not has("auto_tab") then return end
+    local ep = EPISODE_TAB[value:sub(1, 2)]
+    if ep then Tracker:UiHint("ActivateTab", ep) end
+    if LEVEL_DATA[value] then Tracker:UiHint("ActivateTab", value) end
+    dbg("auto-tab: %s", value)
+end
+
+local function onDataStorage(key, value)
+    if key == LEVEL_KEY then switchToArea(value) end
+end
+
 Archipelago:AddClearHandler("clear handler", onClear)
+Archipelago:AddSetReplyHandler("level handler", function(key, value, old) onDataStorage(key, value) end)
+Archipelago:AddRetrievedHandler("level retrieved handler", function(key, value) onDataStorage(key, value) end)
 Archipelago:AddItemHandler("item handler", onItem)
 Archipelago:AddLocationHandler("location handler", onLocation)

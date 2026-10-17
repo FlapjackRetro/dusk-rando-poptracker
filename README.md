@@ -22,6 +22,9 @@ the goal are all set automatically.
   of each other share one pin; hover it to see each one. The **Level Complete** check has its own pin (marked
   EXIT) on every way out of the level: end-level buttons and walk-in loading zones. Levels with two exits get two
   pins for the same check. E3M10 has no exit, so its pin (marked BOSS) is over the final boss.
+* **Map follows you**: while connected, the map tab switches to the level you load into (and to the episode tab on
+  an episode's map screen). Needs a DuskRando mod build that reports the current level (it writes the
+  `dusk_level_<team>_<slot>` data storage key). Untick **AUTO MAP** in the Settings row to turn it off.
 * **Category visibility**: pins for categories that aren't randomized in your seed are hidden
   (Settings row; set from slot data, or toggle by hand).
 * **Logic** mirrors the apworld:

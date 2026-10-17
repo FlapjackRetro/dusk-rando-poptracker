@@ -754,6 +754,13 @@
     "initial_active_state": false
   },
   {
+    "name": "Auto map: follow the level you're in",
+    "type": "toggle",
+    "img": "images/items/auto_tab.png",
+    "codes": "auto_tab",
+    "initial_active_state": true
+  },
+  {
     "name": "Combat Logic",
     "type": "progressive",
     "allow_disabled": false,

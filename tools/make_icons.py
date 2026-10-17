@@ -133,6 +133,9 @@ for stage, (a, b) in enumerate([("GOAL", "BOSSES"), ("GOAL", "ALL LVLS")]):
     im, d = tile((30, 40, 30), (80, 130, 80))
     ctext(d, 12, a, 13); ctext(d, 32, b, 12, (200, 255, 170))
     im.save(f"{OUT}/goal_{stage}.png")
+im, d = tile((28, 36, 48), (80, 110, 150))
+ctext(d, 12, "AUTO", 13); ctext(d, 32, "MAP", 14, (170, 210, 255))
+im.save(f"{OUT}/auto_tab.png")
 # check marker images (opened/closed) for locations
 for name, col in (("check", (220, 180, 60)), ("check_done", (90, 90, 90))):
     im = Image.new("RGBA", (32, 32), (0, 0, 0, 0))
