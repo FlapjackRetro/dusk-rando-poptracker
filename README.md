@@ -10,6 +10,9 @@ folder (usually `Documents\PopTracker\packs`), then pick **DUSK Archipelago** fr
 button to connect to your Archipelago server; items, checked locations, enabled episodes and check categories, and
 the goal are all set automatically.
 
+PopTracker checks this repo for new versions when the pack loads (from 0.2.0 on) and offers to download and
+install them. The first time, it asks whether to load update information from `raw.githubusercontent.com`.
+
 ## What's in it
 
 * **One map per level** (33), tabbed by episode. Maps are rendered top-down from the game's own level geometry and
@@ -54,8 +57,14 @@ for per-level map tweaks.
 
 ## Releasing
 
-```
-python tools/package.py      # -> dist/dusk_ap_tracker_v<package_version>.zip
-```
+1. Bump `VERSION` in `tools/build_pack.py` and run `python tools/build_pack.py` (writes `package_version` into
+   `manifest.json`).
+2. Add the new version at the top of `versions.json` with its `changelog` lines (or let step 3 create the entry and
+   fill the changelog in afterwards).
+3. `python tools/package.py` builds `dist/dusk_ap_tracker_v<version>.zip` and writes that zip's sha256 and release
+   download URL into `versions.json`.
+4. Commit and push (`versions.json` on `main` is the update feed PopTracker reads), then create the GitHub release
+   tagged `v<version>` and upload **that exact zip**. PopTracker rejects an update whose sha256 doesn't match, so don't
+   rebuild the zip after step 3; if you do, run `package.py` again and commit the new hash.
 
-Bump `package_version` in `manifest.json` (and `VERSION` in `tools/build_pack.py`, which writes it) first.
+Players get the update offer the next time they load the pack.

@@ -16,6 +16,8 @@ ROOT = TOOLS
 DATA = json.load(open(need(LOCATIONS_JSON, "dusk-rando locations.json")))
 ITEM_IDS = item_ids()
 VERSION = "0.2.0"
+REPO = "FlapjackRetro/dusk-rando-poptracker"
+VERSIONS_URL = f"https://raw.githubusercontent.com/{REPO}/main/versions.json"
 
 LEVELS = DATA["levels"]
 LOCS = [l for l in DATA["locations"] if l["vanilla_item"] != "Thermal Suit"]  # never a check (VANILLA_ONLY_ITEMS)
@@ -269,6 +271,8 @@ def build_manifest():
         "package_uid": "dusk_ap_tracker",
         "author": "FlapjackRetro",
         "min_poptracker_version": "0.25.0",
+        # PopTracker checks this for updates (see versions.json / tools/package.py)
+        "versions_url": VERSIONS_URL,
         "variants": {"standard": {"display_name": "Map Tracker", "flags": ["ap"]}},
     })
 

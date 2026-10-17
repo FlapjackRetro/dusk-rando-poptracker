@@ -5,6 +5,7 @@
   "package_uid": "dusk_ap_tracker",
   "author": "FlapjackRetro",
   "min_poptracker_version": "0.25.0",
+  "versions_url": "https://raw.githubusercontent.com/FlapjackRetro/dusk-rando-poptracker/main/versions.json",
   "variants": {
     "standard": {
       "display_name": "Map Tracker",
