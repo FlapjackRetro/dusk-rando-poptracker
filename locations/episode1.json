@@ -16308,27 +16308,6 @@
         ]
       },
       {
-        "name": "Fast Fire Totem",
-        "sections": [
-          {
-            "name": "Fast Fire Totem",
-            "access_rules": [
-              "$check|3495791262"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E1M10",
-            "x": 343,
-            "y": 1025
-          }
-        ]
-      },
-      {
         "name": "Secret Area",
         "sections": [
           {
@@ -16406,6 +16385,27 @@
             "map": "E1M10",
             "x": 485,
             "y": 1290
+          }
+        ]
+      },
+      {
+        "name": "Fast Fire Totem",
+        "sections": [
+          {
+            "name": "Fast Fire Totem",
+            "access_rules": [
+              "$check|3495791262"
+            ],
+            "visibility_rules": [
+              "opt_powerups"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E1M10",
+            "x": 634,
+            "y": 1354
           }
         ]
       },

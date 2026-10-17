@@ -10,25 +10,15 @@
     "exit_label": "BOSS"
   },
   "E2M1": {
-    "drop": [
-      "E2M1 - Blue Key 2",
-      "E2M1 - Blue Key 3",
-      "E2M1 - Blue Key 4",
-      "E2M1 - Blue Key 5",
-      "E2M1 - Blue Key 6",
-      "E2M1 - Blue Key 7",
-      "E2M1 - Blue Key 8",
-      "E2M1 - Blue Key 9",
-      "E2M1 - Blue Key 10",
-      "E2M1 - Blue Key 11",
-      "E2M1 - Blue Key 12",
-      "E2M1 - Blue Key 13",
-      "E2M1 - Blue Key 14",
-      "E2M1 - Blue Key 15",
-      "E2M1 - Blue Key 16",
-      "E2M1 - Blue Key 17",
-      "E2M1 - Sword"
-    ],
     "exit_layer_like": "E2M1 - Shotgun 1"
+  },
+  "E1M10": {
+    "move": {
+      "E1M10 - Fast Fire Totem": [
+        98.7,
+        -189.7,
+        -83.4
+      ]
+    }
   }
 }

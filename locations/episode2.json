@@ -714,10 +714,10 @@
         ]
       },
       {
-        "name": "Blue Key 1",
+        "name": "Blue Key",
         "sections": [
           {
-            "name": "Blue Key 1",
+            "name": "Blue Key",
             "access_rules": [
               "$check|3495791467"
             ],

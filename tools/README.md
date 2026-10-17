@@ -52,6 +52,9 @@ so a dusk-rando data change only needs a rebuild.
     "exits": [[-5.0, -365.0, 79.2]],            // Level Complete pin position(s), world x/y/z; replaces the found exits
     "extra_exits": [[10.0, -50.0, 20.0]],       // ...or add to them
     "exit_label": "BOSS",                       // text drawn over the Level Complete pin (default EXIT)
+    "drop": ["E2M1 - Sword"],                   // leave these locations out entirely
+    "move": {"E1M10 - Fast Fire Totem": [98.7, -189.7, -83.4]},  // draw a check at another world x/y/z
+    "exit_layer_like": "E2M1 - Shotgun 1",      // put the Level Complete pin(s) on this check's layer
     "max_connectors": 6, "margin": 14, "ppu": 6, "cluster_gap": 60
   }
 }
