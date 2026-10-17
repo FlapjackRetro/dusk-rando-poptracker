@@ -1,14 +1,21 @@
 {
   "versions": [
     {
+      "package_version": "0.2.1",
+      "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.1/dusk_ap_tracker_v0.2.1.zip",
+      "sha256": "d89facdf7c1ab3f7791d22d1ab633086d9004f3b82fa3759ec7c694d36b0b1b3",
+      "changelog": [
+        "The pack now checks GitHub for updates when it loads and offers to install new versions (PopTracker asks once whether to trust raw.githubusercontent.com)."
+      ]
+    },
+    {
       "package_version": "0.2.0",
       "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.0/dusk_ap_tracker_v0.2.0.zip",
-      "sha256": "eff5124c65ea9b1f90b485c1beca63da8b5adfd4d5cccec794dc4ed99337ace2",
+      "sha256": "58f2ca7c957340a711b7d96f6f3cfa4153840cccfd73e9956ca725c1c250db78",
       "changelog": [
         "Map follows you: the map tab switches to the level you load into (needs a DuskRando build with level reporting). Toggle: AUTO MAP.",
         "Level Complete pins sit on each level's exits (buttons and loading zones); E3M10's is on the final boss.",
-        "Removed the red connector lines between map layers.",
-        "The pack now checks GitHub for updates."
+        "Removed the red connector lines between map layers."
       ]
     },
     {
