@@ -15,7 +15,7 @@ from item_ids import item_ids
 ROOT = TOOLS
 DATA = json.load(open(need(LOCATIONS_JSON, "dusk-rando locations.json")))
 ITEM_IDS = item_ids()
-VERSION = "0.2.4"
+VERSION = "0.2.5"
 REPO = "FlapjackRetro/dusk-rando-poptracker"
 VERSIONS_URL = f"https://raw.githubusercontent.com/{REPO}/main/versions.json"
 
@@ -165,10 +165,12 @@ def build_items():
                       "codes": code, "initial_active_state": on})
     items.append({"name": "Auto map: follow the level you're in", "type": "toggle",
                   "img": "images/items/auto_tab.png", "codes": "auto_tab", "initial_active_state": True})
-    items.append({"name": "Combat Logic", "type": "progressive", "allow_disabled": False, "loop": True, "stages": [
-        {"name": "Combat logic: easy", "img": "images/items/combat_0.png", "codes": "combat,combat_easy"},
-        {"name": "Combat logic: normal", "img": "images/items/combat_1.png", "codes": "combat,combat_normal"},
-        {"name": "Combat logic: unhinged", "img": "images/items/combat_2.png", "codes": "combat,combat_unhinged"}]})
+    items.append({"name": "Combat Logic", "type": "progressive", "allow_disabled": False, "loop": True,
+                  "initial_stage_idx": 1, "stages": [
+        {"name": "Combat logic: exorcist", "img": "images/items/combat_0.png", "codes": "combat,combat_exorcist"},
+        {"name": "Combat logic: easy", "img": "images/items/combat_1.png", "codes": "combat,combat_easy"},
+        {"name": "Combat logic: normal", "img": "images/items/combat_2.png", "codes": "combat,combat_normal"},
+        {"name": "Combat logic: unhinged", "img": "images/items/combat_3.png", "codes": "combat,combat_unhinged"}]})
     items.append({"name": "Goal", "type": "progressive", "allow_disabled": False, "loop": True, "stages": [
         {"name": "Goal: bosses", "img": "images/items/goal_0.png", "codes": "goal,goal_bosses"},
         {"name": "Goal: all levels", "img": "images/items/goal_1.png", "codes": "goal,goal_all"}]})
@@ -263,7 +265,43 @@ def build_scripts(loc_map):
     for l in LOCS:
         lines.append(f'    [{l["id"]}] = {{"{l["level"]}", "{l["name"]}"}},')
     lines.append("}")
+    lines += key_rules_lua()
     open(f"{PACK}/scripts/logic/data.lua", "w").write("\n".join(lines) + "\n")
+
+
+def key_rules_lua():
+    """KEY_RULES / ITEM_RULES from dusk-rando's apworld/dusk/key_logic.py, as Lua tables."""
+    import importlib.util
+    from paths import DUSK_RANDO
+    spec = importlib.util.spec_from_file_location(
+        "dusk_key_logic", os.path.join(DUSK_RANDO, "apworld", "dusk", "key_logic.py"))
+    kl = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(kl)
+    names = {l["name"] for l in LOCS}
+    out = ["", "-- From dusk-rando apworld/dusk/key_logic.py. KEY_RULES[level][location] = key colours that location needs;",
+           "-- [\"*\"] = rule for the level's unlisted locations. Locations with no rule use strict key logic (all keys).",
+           "KEY_RULES = {"]
+    for level, rules in sorted(kl.KEY_RULES.items()):
+        out.append(f"    {level} = {{")
+        for loc, keys in rules.items():
+            if loc != kl.DEFAULT and loc not in names:
+                sys.exit(f"key_logic.py: unknown location {loc!r}")
+            cols = ", ".join(f'"{k.split()[0].lower()}"' for k in keys)
+            out.append(f'        ["{loc}"] = {{{cols}}},')
+        out.append("    },")
+    out += ["}", "", "-- ITEM_RULES[location] = item codes needed on top of the key rule (only when weapons are randomized)",
+            "ITEM_RULES = {"]
+    for loc, items in sorted(kl.ITEM_RULES.items()):
+        if loc not in names:
+            sys.exit(f"key_logic.py: unknown location {loc!r}")
+        codes = []
+        for it in items:
+            if it not in WEAPON_CODES:
+                sys.exit(f"key_logic.py: no tracker code for item {it!r}")
+            codes.append(f'"{WEAPON_CODES[it]}"')
+        out.append(f'    ["{loc}"] = {{{", ".join(codes)}}},')
+    out.append("}")
+    return out
 
 
 def build_manifest():

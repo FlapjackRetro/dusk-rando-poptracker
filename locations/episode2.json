@@ -16761,174 +16761,6 @@
     ],
     "children": [
       {
-        "name": "Rivets 41",
-        "sections": [
-          {
-            "name": "Rivets 41",
-            "access_rules": [
-              "$check|3495792481"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 164,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Rivets 40",
-        "sections": [
-          {
-            "name": "Rivets 40",
-            "access_rules": [
-              "$check|3495792480"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 189,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Rivets 39",
-        "sections": [
-          {
-            "name": "Rivets 39",
-            "access_rules": [
-              "$check|3495792479"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 214,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Rivets 38",
-        "sections": [
-          {
-            "name": "Rivets 38",
-            "access_rules": [
-              "$check|3495792478"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 239,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Rivets 37",
-        "sections": [
-          {
-            "name": "Rivets 37",
-            "access_rules": [
-              "$check|3495792477"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 266,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Rivets 36",
-        "sections": [
-          {
-            "name": "Rivets 36",
-            "access_rules": [
-              "$check|3495792476"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 294,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Rivets 34",
-        "sections": [
-          {
-            "name": "Rivets 34",
-            "access_rules": [
-              "$check|3495792474"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 319,
-            "y": 274
-          }
-        ]
-      },
-      {
-        "name": "Riveter 2",
-        "sections": [
-          {
-            "name": "Riveter 2",
-            "access_rules": [
-              "$check|3495792518"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 342,
-            "y": 274
-          }
-        ]
-      },
-      {
         "name": "Box of Hunting Rifle Bullets",
         "sections": [
           {
@@ -16945,7 +16777,7 @@
           {
             "map": "E2M10",
             "x": 392,
-            "y": 367
+            "y": 276
           }
         ]
       },
@@ -16975,7 +16807,7 @@
           {
             "map": "E2M10",
             "x": 410,
-            "y": 366
+            "y": 275
           }
         ]
       },
@@ -16996,7 +16828,7 @@
           {
             "map": "E2M10",
             "x": 426,
-            "y": 367
+            "y": 276
           }
         ]
       },
@@ -17017,15 +16849,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 709
+            "y": 618
           }
         ]
       },
       {
-        "name": "Rivets 22",
+        "name": "Rivets 6",
         "sections": [
           {
-            "name": "Rivets 22",
+            "name": "Rivets 6",
             "access_rules": [
               "$check|3495792462"
             ],
@@ -17038,15 +16870,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 736
+            "y": 646
           }
         ]
       },
       {
-        "name": "Rivets 20",
+        "name": "Rivets 5",
         "sections": [
           {
-            "name": "Rivets 20",
+            "name": "Rivets 5",
             "access_rules": [
               "$check|3495792460"
             ],
@@ -17059,15 +16891,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 769
+            "y": 678
           }
         ]
       },
       {
-        "name": "Rivets 18",
+        "name": "Rivets 4",
         "sections": [
           {
-            "name": "Rivets 18",
+            "name": "Rivets 4",
             "access_rules": [
               "$check|3495792458"
             ],
@@ -17080,15 +16912,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 802
+            "y": 710
           }
         ]
       },
       {
-        "name": "Rivets 15",
+        "name": "Rivets 3",
         "sections": [
           {
-            "name": "Rivets 15",
+            "name": "Rivets 3",
             "access_rules": [
               "$check|3495792455"
             ],
@@ -17101,7 +16933,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 834
+            "y": 743
           }
         ]
       },
@@ -17122,7 +16954,7 @@
           {
             "map": "E2M10",
             "x": 684,
-            "y": 842
+            "y": 750
           }
         ]
       },
@@ -17143,15 +16975,15 @@
           {
             "map": "E2M10",
             "x": 684,
-            "y": 862
+            "y": 770
           }
         ]
       },
       {
-        "name": "Rivets 11",
+        "name": "Rivets 2",
         "sections": [
           {
-            "name": "Rivets 11",
+            "name": "Rivets 2",
             "access_rules": [
               "$check|3495792451"
             ],
@@ -17164,7 +16996,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 866
+            "y": 776
           }
         ]
       },
@@ -17185,15 +17017,15 @@
           {
             "map": "E2M10",
             "x": 684,
-            "y": 886
+            "y": 796
           }
         ]
       },
       {
-        "name": "Rivets 3",
+        "name": "Rivets 1",
         "sections": [
           {
-            "name": "Rivets 3",
+            "name": "Rivets 1",
             "access_rules": [
               "$check|3495792443"
             ],
@@ -17206,15 +17038,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 902
+            "y": 810
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 5",
+        "name": "Box of Shotgun Shells 2",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 5",
+            "name": "Box of Shotgun Shells 2",
             "access_rules": [
               "$check|3495792433"
             ],
@@ -17227,15 +17059,15 @@
           {
             "map": "E2M10",
             "x": 449,
-            "y": 916
+            "y": 826
           }
         ]
       },
       {
-        "name": "Rivets 61",
+        "name": "Rivets 41",
         "sections": [
           {
-            "name": "Rivets 61",
+            "name": "Rivets 41",
             "access_rules": [
               "$check|3495792501"
             ],
@@ -17248,15 +17080,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 934
+            "y": 843
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 6",
+        "name": "Box of Shotgun Shells 3",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 6",
+            "name": "Box of Shotgun Shells 3",
             "access_rules": [
               "$check|3495792434"
             ],
@@ -17269,15 +17101,15 @@
           {
             "map": "E2M10",
             "x": 449,
-            "y": 936
+            "y": 846
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 4",
+        "name": "Box of Shotgun Shells 1",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 4",
+            "name": "Box of Shotgun Shells 1",
             "access_rules": [
               "$check|3495792432"
             ],
@@ -17290,15 +17122,15 @@
           {
             "map": "E2M10",
             "x": 449,
-            "y": 954
+            "y": 863
           }
         ]
       },
       {
-        "name": "Rivets 60",
+        "name": "Rivets 40",
         "sections": [
           {
-            "name": "Rivets 60",
+            "name": "Rivets 40",
             "access_rules": [
               "$check|3495792500"
             ],
@@ -17311,15 +17143,15 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 962
+            "y": 870
           }
         ]
       },
       {
-        "name": "Rivets 59",
+        "name": "Rivets 39",
         "sections": [
           {
-            "name": "Rivets 59",
+            "name": "Rivets 39",
             "access_rules": [
               "$check|3495792499"
             ],
@@ -17332,7 +17164,7 @@
           {
             "map": "E2M10",
             "x": 544,
-            "y": 994
+            "y": 903
           }
         ]
       },
@@ -17362,7 +17194,7 @@
           {
             "map": "E2M10",
             "x": 456,
-            "y": 1046
+            "y": 954
           }
         ]
       },
@@ -17383,7 +17215,7 @@
           {
             "map": "E2M10",
             "x": 480,
-            "y": 1046
+            "y": 954
           }
         ]
       },
@@ -17404,15 +17236,15 @@
           {
             "map": "E2M10",
             "x": 498,
-            "y": 1046
+            "y": 956
           }
         ]
       },
       {
-        "name": "Hallowed Health 2",
+        "name": "Hallowed Health",
         "sections": [
           {
-            "name": "Hallowed Health 2",
+            "name": "Hallowed Health",
             "access_rules": [
               "$check|3495792511"
             ],
@@ -17425,57 +17257,15 @@
           {
             "map": "E2M10",
             "x": 602,
-            "y": 1237
+            "y": 1146
           }
         ]
       },
       {
-        "name": "Rivets 1",
+        "name": "Super Shotgun",
         "sections": [
           {
-            "name": "Rivets 1",
-            "access_rules": [
-              "$check|3495792441"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1044,
-            "y": 1336
-          }
-        ]
-      },
-      {
-        "name": "Rivets 10",
-        "sections": [
-          {
-            "name": "Rivets 10",
-            "access_rules": [
-              "$check|3495792450"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1064,
-            "y": 1336
-          }
-        ]
-      },
-      {
-        "name": "Super Shotgun 2",
-        "sections": [
-          {
-            "name": "Super Shotgun 2",
+            "name": "Super Shotgun",
             "access_rules": [
               "$check|3495792520"
             ],
@@ -17488,17 +17278,17 @@
           {
             "map": "E2M10",
             "x": 690,
-            "y": 1350
+            "y": 1259
           }
         ]
       },
       {
-        "name": "Rivets 2",
+        "name": "Rivets 23",
         "sections": [
           {
-            "name": "Rivets 2",
+            "name": "Rivets 23",
             "access_rules": [
-              "$check|3495792442"
+              "$check|3495792481"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -17508,18 +17298,18 @@
         "map_locations": [
           {
             "map": "E2M10",
-            "x": 1044,
-            "y": 1359
+            "x": 164,
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 9",
+        "name": "Rivets 22",
         "sections": [
           {
-            "name": "Rivets 9",
+            "name": "Rivets 22",
             "access_rules": [
-              "$check|3495792449"
+              "$check|3495792480"
             ],
             "visibility_rules": [
               "opt_ammo"
@@ -17529,16 +17319,142 @@
         "map_locations": [
           {
             "map": "E2M10",
-            "x": 1064,
-            "y": 1359
+            "x": 189,
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 48",
+        "name": "Rivets 21",
         "sections": [
           {
-            "name": "Rivets 48",
+            "name": "Rivets 21",
+            "access_rules": [
+              "$check|3495792479"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 214,
+            "y": 1270
+          }
+        ]
+      },
+      {
+        "name": "Rivets 20",
+        "sections": [
+          {
+            "name": "Rivets 20",
+            "access_rules": [
+              "$check|3495792478"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 239,
+            "y": 1270
+          }
+        ]
+      },
+      {
+        "name": "Rivets 19",
+        "sections": [
+          {
+            "name": "Rivets 19",
+            "access_rules": [
+              "$check|3495792477"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 266,
+            "y": 1270
+          }
+        ]
+      },
+      {
+        "name": "Rivets 18",
+        "sections": [
+          {
+            "name": "Rivets 18",
+            "access_rules": [
+              "$check|3495792476"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 294,
+            "y": 1270
+          }
+        ]
+      },
+      {
+        "name": "Rivets 17",
+        "sections": [
+          {
+            "name": "Rivets 17",
+            "access_rules": [
+              "$check|3495792474"
+            ],
+            "visibility_rules": [
+              "opt_ammo"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 319,
+            "y": 1270
+          }
+        ]
+      },
+      {
+        "name": "Riveter",
+        "sections": [
+          {
+            "name": "Riveter",
+            "access_rules": [
+              "$check|3495792518"
+            ],
+            "visibility_rules": [
+              "opt_weapons"
+            ]
+          }
+        ],
+        "map_locations": [
+          {
+            "map": "E2M10",
+            "x": 342,
+            "y": 1270
+          }
+        ]
+      },
+      {
+        "name": "Rivets 29",
+        "sections": [
+          {
+            "name": "Rivets 29",
             "access_rules": [
               "$check|3495792488"
             ],
@@ -17551,15 +17467,15 @@
           {
             "map": "E2M10",
             "x": 769,
-            "y": 1362
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 47",
+        "name": "Rivets 28",
         "sections": [
           {
-            "name": "Rivets 47",
+            "name": "Rivets 28",
             "access_rules": [
               "$check|3495792487"
             ],
@@ -17572,15 +17488,15 @@
           {
             "map": "E2M10",
             "x": 794,
-            "y": 1362
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 45",
+        "name": "Rivets 27",
         "sections": [
           {
-            "name": "Rivets 45",
+            "name": "Rivets 27",
             "access_rules": [
               "$check|3495792485"
             ],
@@ -17593,15 +17509,15 @@
           {
             "map": "E2M10",
             "x": 819,
-            "y": 1362
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 44",
+        "name": "Rivets 26",
         "sections": [
           {
-            "name": "Rivets 44",
+            "name": "Rivets 26",
             "access_rules": [
               "$check|3495792484"
             ],
@@ -17614,15 +17530,15 @@
           {
             "map": "E2M10",
             "x": 844,
-            "y": 1362
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 43",
+        "name": "Rivets 25",
         "sections": [
           {
-            "name": "Rivets 43",
+            "name": "Rivets 25",
             "access_rules": [
               "$check|3495792483"
             ],
@@ -17635,15 +17551,15 @@
           {
             "map": "E2M10",
             "x": 869,
-            "y": 1362
+            "y": 1270
           }
         ]
       },
       {
-        "name": "Rivets 42",
+        "name": "Rivets 24",
         "sections": [
           {
-            "name": "Rivets 42",
+            "name": "Rivets 24",
             "access_rules": [
               "$check|3495792482"
             ],
@@ -17656,7 +17572,7 @@
           {
             "map": "E2M10",
             "x": 894,
-            "y": 1362
+            "y": 1270
           }
         ]
       },
@@ -17677,7 +17593,7 @@
           {
             "map": "E2M10",
             "x": 739,
-            "y": 1364
+            "y": 1273
           }
         ]
       },
@@ -17698,49 +17614,7 @@
           {
             "map": "E2M10",
             "x": 690,
-            "y": 1377
-          }
-        ]
-      },
-      {
-        "name": "Rivets 13",
-        "sections": [
-          {
-            "name": "Rivets 13",
-            "access_rules": [
-              "$check|3495792453"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1044,
-            "y": 1384
-          }
-        ]
-      },
-      {
-        "name": "Rivets 8",
-        "sections": [
-          {
-            "name": "Rivets 8",
-            "access_rules": [
-              "$check|3495792448"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1064,
-            "y": 1384
+            "y": 1286
           }
         ]
       },
@@ -17761,7 +17635,7 @@
           {
             "map": "E2M10",
             "x": 724,
-            "y": 1389
+            "y": 1298
           }
         ]
       },
@@ -17782,7 +17656,7 @@
           {
             "map": "E2M10",
             "x": 742,
-            "y": 1389
+            "y": 1298
           }
         ]
       },
@@ -17803,183 +17677,15 @@
           {
             "map": "E2M10",
             "x": 759,
-            "y": 1389
+            "y": 1298
           }
         ]
       },
       {
-        "name": "Rivets 24",
+        "name": "Diamond",
         "sections": [
           {
-            "name": "Rivets 24",
-            "access_rules": [
-              "$check|3495792464"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1044,
-            "y": 1406
-          }
-        ]
-      },
-      {
-        "name": "Rivets 7",
-        "sections": [
-          {
-            "name": "Rivets 7",
-            "access_rules": [
-              "$check|3495792447"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1064,
-            "y": 1406
-          }
-        ]
-      },
-      {
-        "name": "Rivets 35",
-        "sections": [
-          {
-            "name": "Rivets 35",
-            "access_rules": [
-              "$check|3495792475"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1044,
-            "y": 1429
-          }
-        ]
-      },
-      {
-        "name": "Rivets 6",
-        "sections": [
-          {
-            "name": "Rivets 6",
-            "access_rules": [
-              "$check|3495792446"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1064,
-            "y": 1429
-          }
-        ]
-      },
-      {
-        "name": "Rivets 46",
-        "sections": [
-          {
-            "name": "Rivets 46",
-            "access_rules": [
-              "$check|3495792486"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1044,
-            "y": 1451
-          }
-        ]
-      },
-      {
-        "name": "Rivets 5",
-        "sections": [
-          {
-            "name": "Rivets 5",
-            "access_rules": [
-              "$check|3495792445"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1064,
-            "y": 1451
-          }
-        ]
-      },
-      {
-        "name": "Rivets 57",
-        "sections": [
-          {
-            "name": "Rivets 57",
-            "access_rules": [
-              "$check|3495792497"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1044,
-            "y": 1474
-          }
-        ]
-      },
-      {
-        "name": "Rivets 4",
-        "sections": [
-          {
-            "name": "Rivets 4",
-            "access_rules": [
-              "$check|3495792444"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1064,
-            "y": 1474
-          }
-        ]
-      },
-      {
-        "name": "Diamond 2",
-        "sections": [
-          {
-            "name": "Diamond 2",
+            "name": "Diamond",
             "access_rules": [
               "$check|3495792505"
             ],
@@ -17992,78 +17698,15 @@
           {
             "map": "E2M10",
             "x": 601,
-            "y": 1492
+            "y": 1401
           }
         ]
       },
       {
-        "name": "Riveter 1",
+        "name": "Rivets 11",
         "sections": [
           {
-            "name": "Riveter 1",
-            "access_rules": [
-              "$check|3495792517"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1065,
-            "y": 1498
-          }
-        ]
-      },
-      {
-        "name": "Super Shotgun 1",
-        "sections": [
-          {
-            "name": "Super Shotgun 1",
-            "access_rules": [
-              "$check|3495792519"
-            ],
-            "visibility_rules": [
-              "opt_weapons"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1043,
-            "y": 1499
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 1",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 1",
-            "access_rules": [
-              "$check|3495792429"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1052,
-            "y": 1707
-          }
-        ]
-      },
-      {
-        "name": "Rivets 28",
-        "sections": [
-          {
-            "name": "Rivets 28",
+            "name": "Rivets 11",
             "access_rules": [
               "$check|3495792468"
             ],
@@ -18076,57 +17719,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1724
+            "y": 1633
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 3",
+        "name": "Rivets 15",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 3",
-            "access_rules": [
-              "$check|3495792431"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 951,
-            "y": 1724
-          }
-        ]
-      },
-      {
-        "name": "Box of Shotgun Shells 2",
-        "sections": [
-          {
-            "name": "Box of Shotgun Shells 2",
-            "access_rules": [
-              "$check|3495792430"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 951,
-            "y": 1747
-          }
-        ]
-      },
-      {
-        "name": "Rivets 32",
-        "sections": [
-          {
-            "name": "Rivets 32",
+            "name": "Rivets 15",
             "access_rules": [
               "$check|3495792472"
             ],
@@ -18139,15 +17740,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1756
+            "y": 1666
           }
         ]
       },
       {
-        "name": "Rivets 23",
+        "name": "Rivets 7",
         "sections": [
           {
-            "name": "Rivets 23",
+            "name": "Rivets 7",
             "access_rules": [
               "$check|3495792463"
             ],
@@ -18160,15 +17761,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1789
+            "y": 1698
           }
         ]
       },
       {
-        "name": "Rivets 58",
+        "name": "Rivets 38",
         "sections": [
           {
-            "name": "Rivets 58",
+            "name": "Rivets 38",
             "access_rules": [
               "$check|3495792498"
             ],
@@ -18181,36 +17782,15 @@
           {
             "map": "E2M10",
             "x": 379,
-            "y": 1799
+            "y": 1708
           }
         ]
       },
       {
-        "name": "Hallowed Health 1",
+        "name": "Rivets 36",
         "sections": [
           {
-            "name": "Hallowed Health 1",
-            "access_rules": [
-              "$check|3495792510"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1052,
-            "y": 1804
-          }
-        ]
-      },
-      {
-        "name": "Rivets 55",
-        "sections": [
-          {
-            "name": "Rivets 55",
+            "name": "Rivets 36",
             "access_rules": [
               "$check|3495792495"
             ],
@@ -18223,15 +17803,15 @@
           {
             "map": "E2M10",
             "x": 402,
-            "y": 1809
+            "y": 1718
           }
         ]
       },
       {
-        "name": "Rivets 54",
+        "name": "Rivets 35",
         "sections": [
           {
-            "name": "Rivets 54",
+            "name": "Rivets 35",
             "access_rules": [
               "$check|3495792494"
             ],
@@ -18244,15 +17824,15 @@
           {
             "map": "E2M10",
             "x": 359,
-            "y": 1812
+            "y": 1720
           }
         ]
       },
       {
-        "name": "Rivets 31",
+        "name": "Rivets 14",
         "sections": [
           {
-            "name": "Rivets 31",
+            "name": "Rivets 14",
             "access_rules": [
               "$check|3495792471"
             ],
@@ -18265,36 +17845,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1822
+            "y": 1730
           }
         ]
       },
       {
-        "name": "Diamond 1",
+        "name": "Rivets 37",
         "sections": [
           {
-            "name": "Diamond 1",
-            "access_rules": [
-              "$check|3495792504"
-            ],
-            "visibility_rules": [
-              "opt_armor"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1052,
-            "y": 1822
-          }
-        ]
-      },
-      {
-        "name": "Rivets 56",
-        "sections": [
-          {
-            "name": "Rivets 56",
+            "name": "Rivets 37",
             "access_rules": [
               "$check|3495792496"
             ],
@@ -18307,15 +17866,15 @@
           {
             "map": "E2M10",
             "x": 419,
-            "y": 1834
+            "y": 1743
           }
         ]
       },
       {
-        "name": "Rivets 53",
+        "name": "Rivets 34",
         "sections": [
           {
-            "name": "Rivets 53",
+            "name": "Rivets 34",
             "access_rules": [
               "$check|3495792493"
             ],
@@ -18328,15 +17887,15 @@
           {
             "map": "E2M10",
             "x": 349,
-            "y": 1844
+            "y": 1753
           }
         ]
       },
       {
-        "name": "Rivets 26",
+        "name": "Rivets 9",
         "sections": [
           {
-            "name": "Rivets 26",
+            "name": "Rivets 9",
             "access_rules": [
               "$check|3495792466"
             ],
@@ -18349,15 +17908,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1854
+            "y": 1763
           }
         ]
       },
       {
-        "name": "Rivets 50",
+        "name": "Rivets 31",
         "sections": [
           {
-            "name": "Rivets 50",
+            "name": "Rivets 31",
             "access_rules": [
               "$check|3495792490"
             ],
@@ -18370,15 +17929,15 @@
           {
             "map": "E2M10",
             "x": 432,
-            "y": 1864
+            "y": 1773
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 7",
+        "name": "Box of Shotgun Shells 4",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 7",
+            "name": "Box of Shotgun Shells 4",
             "access_rules": [
               "$check|3495792435"
             ],
@@ -18391,15 +17950,15 @@
           {
             "map": "E2M10",
             "x": 642,
-            "y": 1874
+            "y": 1783
           }
         ]
       },
       {
-        "name": "Box of Shotgun Shells 8 (+1)",
+        "name": "Box of Shotgun Shells 5 (+1)",
         "sections": [
           {
-            "name": "Box of Shotgun Shells 8",
+            "name": "Box of Shotgun Shells 5",
             "access_rules": [
               "$check|3495792436"
             ],
@@ -18408,7 +17967,7 @@
             ]
           },
           {
-            "name": "Box of Shotgun Shells 9",
+            "name": "Box of Shotgun Shells 6",
             "access_rules": [
               "$check|3495792437"
             ],
@@ -18421,15 +17980,15 @@
           {
             "map": "E2M10",
             "x": 666,
-            "y": 1874
+            "y": 1783
           }
         ]
       },
       {
-        "name": "Rivets 52",
+        "name": "Rivets 33",
         "sections": [
           {
-            "name": "Rivets 52",
+            "name": "Rivets 33",
             "access_rules": [
               "$check|3495792492"
             ],
@@ -18442,15 +18001,15 @@
           {
             "map": "E2M10",
             "x": 372,
-            "y": 1876
+            "y": 1786
           }
         ]
       },
       {
-        "name": "Rivets 51",
+        "name": "Rivets 32",
         "sections": [
           {
-            "name": "Rivets 51",
+            "name": "Rivets 32",
             "access_rules": [
               "$check|3495792491"
             ],
@@ -18463,15 +18022,15 @@
           {
             "map": "E2M10",
             "x": 409,
-            "y": 1882
+            "y": 1790
           }
         ]
       },
       {
-        "name": "Rivets 30",
+        "name": "Rivets 13",
         "sections": [
           {
-            "name": "Rivets 30",
+            "name": "Rivets 13",
             "access_rules": [
               "$check|3495792470"
             ],
@@ -18484,49 +18043,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1889
-          }
-        ]
-      },
-      {
-        "name": "Rivets 12",
-        "sections": [
-          {
-            "name": "Rivets 12",
-            "access_rules": [
-              "$check|3495792452"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1041,
-            "y": 1903
-          }
-        ]
-      },
-      {
-        "name": "Rivets 16",
-        "sections": [
-          {
-            "name": "Rivets 16",
-            "access_rules": [
-              "$check|3495792456"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1061,
-            "y": 1903
+            "y": 1798
           }
         ]
       },
@@ -18547,15 +18064,15 @@
           {
             "map": "E2M10",
             "x": 463,
-            "y": 1908
+            "y": 1817
           }
         ]
       },
       {
-        "name": "Rivets 29",
+        "name": "Rivets 12",
         "sections": [
           {
-            "name": "Rivets 29",
+            "name": "Rivets 12",
             "access_rules": [
               "$check|3495792469"
             ],
@@ -18568,7 +18085,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1922
+            "y": 1830
           }
         ]
       },
@@ -18589,49 +18106,7 @@
           {
             "map": "E2M10",
             "x": 500,
-            "y": 1923
-          }
-        ]
-      },
-      {
-        "name": "Rivets 14",
-        "sections": [
-          {
-            "name": "Rivets 14",
-            "access_rules": [
-              "$check|3495792454"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1041,
-            "y": 1925
-          }
-        ]
-      },
-      {
-        "name": "Rivets 17",
-        "sections": [
-          {
-            "name": "Rivets 17",
-            "access_rules": [
-              "$check|3495792457"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1061,
-            "y": 1925
+            "y": 1832
           }
         ]
       },
@@ -18652,7 +18127,7 @@
           {
             "map": "E2M10",
             "x": 528,
-            "y": 1936
+            "y": 1845
           }
         ]
       },
@@ -18673,57 +18148,15 @@
           {
             "map": "E2M10",
             "x": 547,
-            "y": 1942
+            "y": 1851
           }
         ]
       },
       {
-        "name": "Rivets 21",
+        "name": "Rivets 10",
         "sections": [
           {
-            "name": "Rivets 21",
-            "access_rules": [
-              "$check|3495792461"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1041,
-            "y": 1948
-          }
-        ]
-      },
-      {
-        "name": "Rivets 19",
-        "sections": [
-          {
-            "name": "Rivets 19",
-            "access_rules": [
-              "$check|3495792459"
-            ],
-            "visibility_rules": [
-              "opt_ammo"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1061,
-            "y": 1948
-          }
-        ]
-      },
-      {
-        "name": "Rivets 27",
-        "sections": [
-          {
-            "name": "Rivets 27",
+            "name": "Rivets 10",
             "access_rules": [
               "$check|3495792467"
             ],
@@ -18736,28 +18169,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1949
-          }
-        ]
-      },
-      {
-        "name": "Serum of Blistering Heat",
-        "sections": [
-          {
-            "name": "Serum of Blistering Heat",
-            "access_rules": [
-              "$check|3495792512"
-            ],
-            "visibility_rules": [
-              "opt_powerups"
-            ]
-          }
-        ],
-        "map_locations": [
-          {
-            "map": "E2M10",
-            "x": 1052,
-            "y": 1967
+            "y": 1858
           }
         ]
       },
@@ -18778,15 +18190,15 @@
           {
             "map": "E2M10",
             "x": 812,
-            "y": 1976
+            "y": 1886
           }
         ]
       },
       {
-        "name": "Rivets 25",
+        "name": "Rivets 8",
         "sections": [
           {
-            "name": "Rivets 25",
+            "name": "Rivets 8",
             "access_rules": [
               "$check|3495792465"
             ],
@@ -18799,15 +18211,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 1982
+            "y": 1890
           }
         ]
       },
       {
-        "name": "Rivets 33",
+        "name": "Rivets 16",
         "sections": [
           {
-            "name": "Rivets 33",
+            "name": "Rivets 16",
             "access_rules": [
               "$check|3495792473"
             ],
@@ -18820,15 +18232,15 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 2016
+            "y": 1926
           }
         ]
       },
       {
-        "name": "Rivets 49",
+        "name": "Rivets 30",
         "sections": [
           {
-            "name": "Rivets 49",
+            "name": "Rivets 30",
             "access_rules": [
               "$check|3495792489"
             ],
@@ -18841,7 +18253,7 @@
           {
             "map": "E2M10",
             "x": 592,
-            "y": 2054
+            "y": 1963
           }
         ]
       },
@@ -18862,7 +18274,7 @@
           {
             "map": "E2M10",
             "x": 649,
-            "y": 2092
+            "y": 2000
           }
         ]
       },
@@ -18883,7 +18295,7 @@
           {
             "map": "E2M10",
             "x": 672,
-            "y": 2092
+            "y": 2000
           }
         ]
       },
@@ -18904,7 +18316,7 @@
           {
             "map": "E2M10",
             "x": 694,
-            "y": 2092
+            "y": 2000
           }
         ]
       },
@@ -18922,7 +18334,7 @@
           {
             "map": "E2M10",
             "x": 976,
-            "y": 1359,
+            "y": 1268,
             "size": 44
           }
         ]

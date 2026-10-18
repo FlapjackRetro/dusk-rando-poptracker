@@ -75,10 +75,11 @@ function onClear(slot_data)
         set_stage("goal", slot_data["goal"] == "all_levels" and 1 or 0)
     end
     -- combat_logic is not in slot_data yet: set it by hand on the tracker.
-    -- Stages: easy (0), normal (1), unhinged (2); lenient/none are the apworld's old names.
+    -- Stages: exorcist (0), easy (1), normal (2), unhinged (3), as the apworld's option values;
+    -- lenient/none are its old names.
     if slot_data["combat_logic"] ~= nil then
         local v = slot_data["combat_logic"]
-        local stage = ({easy = 0, normal = 1, unhinged = 2, lenient = 1, none = 2})[v] or tonumber(v) or 0
+        local stage = ({exorcist = 0, easy = 1, normal = 2, unhinged = 3, lenient = 2, none = 3})[v] or tonumber(v) or 1
         set_stage("combat", stage)
     end
 end

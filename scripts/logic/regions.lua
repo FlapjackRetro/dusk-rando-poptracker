@@ -1,8 +1,9 @@
 -- ============================================================================================
 --  DETAILED LOGIC WORKBENCH
 -- ============================================================================================
--- Every level NOT listed here uses the apworld's current *strict* key logic: every check in the
--- level needs all of that level's keys.
+-- Every level NOT listed here uses the apworld's key logic: the per-location rules from its
+-- key_logic.py (KEY_RULES / ITEM_RULES, generated into data.lua), and strict key logic (all of the
+-- level's keys) for locations without a rule. A level listed here uses only the regions below.
 --
 -- To move a level to detailed logic, add an entry. Example (made-up layout, for illustration only):
 --

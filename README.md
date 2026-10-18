@@ -19,7 +19,7 @@ install them. The first time, it asks whether to load update information from `r
   textures. Levels that stack on themselves are split into **layers** by height (lowest at the bottom); each layer
   only shows floors in its height range, so basements, upper floors and catwalks don't hide each other.
   Small, far-off groups of checks get their own **detached area** panel.
-* **Every check** (3,211; Thermal Suits are never checks, and E2M1's spare Blue Keys and Sword aren't either) placed at its in-game position. Checks within a few pixels
+* **Every check** (3,183; Thermal Suits are never checks, and developer-only pickups the apworld leaves out aren't either) placed at its in-game position. Checks within a few pixels
   of each other share one pin; hover it to see each one. The **Level Complete** check has its own pin (marked
   EXIT) on every way out of the level: end-level buttons and walk-in loading zones. Levels with two exits get two
   pins for the same check. E3M10 has no exit, so its pin (marked BOSS) is over the final boss.
@@ -30,9 +30,12 @@ install them. The first time, it asks whether to load update information from `r
   (Settings row; set from slot data, or toggle by hand).
 * **Logic** mirrors the apworld:
   * a level is in logic with its Access item plus enough distinct firearms (combat logic table);
-  * **strict key logic**: every check in a level with keys needs all of that level's keys.
+  * **key logic**: the apworld's per-location rules (`key_logic.py`: which checks need which keys, and extra items
+    such as the Mortar for E3M1's Super Shotgun) are copied into the pack at build time; checks without a rule use
+    strict key logic (all of the level's keys);
   * `combat_logic` is not in the apworld's slot data yet, so set the COMBAT item by hand (click to cycle
-    easy → normal → unhinged, matching the apworld's option names). The pack already reads `slot_data["combat_logic"]` if the apworld adds it.
+    exorcist → easy → normal → unhinged, as in the apworld; easy is the default). The pack already reads
+    `slot_data["combat_logic"]` if the apworld adds it.
 
 ## Building detailed logic
 

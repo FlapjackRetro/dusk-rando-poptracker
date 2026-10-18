@@ -1,6 +1,16 @@
 {
   "versions": [
     {
+      "package_version": "0.2.5",
+      "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.5/dusk_ap_tracker_v0.2.5.zip",
+      "sha256": "55068218ecffa452b8c5131e71bce729198291bceaf72c81b58bfb25ea30d6f1",
+      "changelog": [
+        "Logic synced with dusk-rando 0.4.5: per-location key rules (E1M5, E1M6, E1M8, E2M1, E2M3, E2M4, E2M6, E2M7, E3M1, E3M2 checks that need no keys; E2M1's Level Complete needs only the Red Key) and E3M1's Super Shotgun needing the Mortar.",
+        "New exorcist combat logic setting (testing): everything outside the seed's first level needs all 10 firearm items.",
+        "E2M10: the developer-only east supply room's 28 pickups are gone; the remaining E2M10 checks follow the apworld's new names."
+      ]
+    },
+    {
       "package_version": "0.2.4",
       "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.4/dusk_ap_tracker_v0.2.4.zip",
       "sha256": "cfb959984146712deab5d5806b0d299c6915ac01f17ffcf333639fbb0105280c",

@@ -765,20 +765,26 @@
     "type": "progressive",
     "allow_disabled": false,
     "loop": true,
+    "initial_stage_idx": 1,
     "stages": [
       {
-        "name": "Combat logic: easy",
+        "name": "Combat logic: exorcist",
         "img": "images/items/combat_0.png",
+        "codes": "combat,combat_exorcist"
+      },
+      {
+        "name": "Combat logic: easy",
+        "img": "images/items/combat_1.png",
         "codes": "combat,combat_easy"
       },
       {
         "name": "Combat logic: normal",
-        "img": "images/items/combat_1.png",
+        "img": "images/items/combat_2.png",
         "codes": "combat,combat_normal"
       },
       {
         "name": "Combat logic: unhinged",
-        "img": "images/items/combat_2.png",
+        "img": "images/items/combat_3.png",
         "codes": "combat,combat_unhinged"
       }
     ]
