@@ -1,6 +1,14 @@
 {
   "versions": [
     {
+      "package_version": "0.2.4",
+      "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.4/dusk_ap_tracker_v0.2.4.zip",
+      "sha256": "cfb959984146712deab5d5806b0d299c6915ac01f17ffcf333639fbb0105280c",
+      "changelog": [
+        "E3M9: Level Complete now has a single pin, on the exit button on the main map (the far-off second exit button and its detached panel are gone)."
+      ]
+    },
+    {
       "package_version": "0.2.3",
       "download_url": "https://github.com/FlapjackRetro/dusk-rando-poptracker/releases/download/v0.2.3/dusk_ap_tracker_v0.2.3.zip",
       "sha256": "37b5110ab720611c6e9e55d54f1652cac6ab339e64d96473756e57aaa190df79",
